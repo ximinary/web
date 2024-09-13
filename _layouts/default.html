@@ -169,7 +169,7 @@
       <header>
           <div class="button_navigation">
             <div class="modile-line">
-              <a class="active" href="https://ximinary.github.io/Web/matf/pocetna/">Почетна</a>
+              <a class="active" href="{{ page.depth }}">Почетна</a>
               <a class="hover-trigger" data-panel="panel0">О мени</a>
               <a class="active" style="color: #b2009f;" href="https://ximinary.github.io/Web/Obsidian/home" target="_blank">Obsidian</a>
             </div>
@@ -181,13 +181,13 @@
             </div>
           </div>
           <div class="panel" id="panel0">
-              <p><a href="../o_meni" class="button_subject color0">Оцене</a></p>
-              <p><a href="../projekti" class="button_subject color0">Пројекти</a></p>
+              <p><a href="{{ page.depth }}/ocene" class="button_subject color0">Оцене</a></p>
+              <p><a href="{{ page.depth }}/projekti" class="button_subject color0">Пројекти</a></p>
               <p><a href="https://linktr.ee/ximinary" class="button_subject color0">Друштвене мреже</a></p>
           </div>
           <div class="panel" id="panel1">
               <p><a href="../1sem/laag" class="button_subject color1">ЛААГ <i>(Ракић)</i></a></p>
-              <p><a href="../1sem/ds1" class="button_subject color2">Дискретне структуре 1</a></p>
+              <p><a href="{{ page.depth }}/1sem/ds1" class="button_subject color2">Дискретне структуре 1</a></p>
               <p><a href="../1sem/p1" class="button_subject color3">Програмирање 1</a></p>
               <p><a href="../1sem/uoar1" class="button_subject color4">УОАР 1</a></p>
               <p><a href="../1sem/eng1" class="button_subject color5">Енглески 1</a></p>
