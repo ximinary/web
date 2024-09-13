@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<head>
+  <link rel="icon" href="../icon.png" type="image/x-icon">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="../style.css">
+  <title>{{ page.title }}</title>
+</head>
+<body class={{ page.color }}>
+  <div id="page-container">
+    <div id="content-wrap">
+      <header>
+          <div class="button_navigation">
+            <div class="modile-line">
+              <a class="active" href="https://alas.matf.bg.ac.rs/~mi23037/pocetna/">Почетна</a>
+              <a class="hover-trigger" data-panel="panel0">О мени</a>
+              <a class="active" style="color: #b2009f;" href="https://ximinary.github.io/ObsidianSite/home" target="_blank">Obsidian</a>
+            </div>
+            <div class="modile-line">
+              <a class="hover-trigger" data-panel="panel1">1. сем</a>
+              <a class="hover-trigger" data-panel="panel2">2. сем</a>
+              <a class="hover-trigger" data-panel="panel3">3. сем</a>
+              <a class="hover-trigger" data-panel="panel4">4. сем</a>
+            </div>
+          </div>
+          <div class="panel" id="panel0">
+              <p><a href="../o_meni" class="button_subject color0">Оцене</a></p>
+              <p><a href="../projekti" class="button_subject color0">Пројекти</a></p>
+              <p><a href="https://linktr.ee/ximinary" class="button_subject color0">Друштвене мреже</a></p>
+          </div>
+          <div class="panel" id="panel1">
+              <p><a href="../1sem/laag" class="button_subject color1">ЛААГ <i>(Ракић)</i></a></p>
+              <p><a href="../1sem/ds1" class="button_subject color2">Дискретне структуре 1</a></p>
+              <p><a href="../1sem/p1" class="button_subject color3">Програмирање 1</a></p>
+              <p><a href="../1sem/uoar1" class="button_subject color4">УОАР 1</a></p>
+              <p><a href="../1sem/eng1" class="button_subject color5">Енглески 1</a></p>
+              <p><a href="https://www.itkomunikacija.matf.bg.ac.rs/TehnickoINaucnoPisanje.html" target="_blank" class="button_subject color6">ТНП</a></p>
+          </div>
+          <div class="panel" id="panel2">
+              <p><a href="../2sem/a1" class="button_subject color7">Анализа 1</a></p>
+              <p><a href="../2sem/ds2" class="button_subject color2">Дискретне структуре 2</a></p>
+              <p><a href="../2sem/p2" class="button_subject color3">Програмирање 2</a></p>
+              <p><a href="../2sem/uoar2" class="button_subject color4">УОАР 2</a></p>
+              <p><a href="../2sem/eng2" class="button_subject color5">Енглески 2</a></p>
+              <p><a href="https://stasa.in.rs/zetetika/#tab-predavanja" target="_blank" class="button_subject color8">Зететика</a></p>
+          </div>
+          <div class="panel" id="panel3">
+              <p><a href="../3sem/a2" class="button_subject color7">Анализа 2</a></p>
+              <p><a href="../3sem/geom" class="button_subject color1">Геометрија</a></p>
+              <p><a href="../3sem/aisp" class="button_subject color3">АиСП</a></p>
+              <p><a href="../3sem/oop" class="button_subject color9">ООП</a></p>
+              <p><a href="../3sem/os" class="button_subject color12">Оперативни системи</a></p>
+          </div>
+          <div class="panel" id="panel4">
+              <p><a href="../4sem/a3" class="button_subject color7">Анализа 3</a></p>
+              <p><a href="../4sem/alg1" class="button_subject color14">Алгебра 1</a></p>
+              <p><a href="../4sem/kiaa" class="button_subject color11">КиАА</a></p>
+              <p><a href="../4sem/uvit" class="button_subject color10">УВИТ</a></p>
+              <p><a href="../4sem/meh" class="button_subject color13">Основи механике</a></p>
+          </div>
+      </header>
+  
+  <script>
+      document.addEventListener("DOMContentLoaded", function() {
+      var triggers = document.querySelectorAll(".hover-trigger");
+      var panels = document.querySelectorAll(".panel");
+  
+      triggers.forEach(function(trigger) {
+          var panelId = trigger.getAttribute("data-panel");
+          var panel = document.getElementById(panelId);
+  
+          trigger.addEventListener("mouseover", function() {
+              panels.forEach(function(p) {
+                  p.style.maxHeight = "0";
+              });
+              panel.style.maxHeight = panel.scrollHeight + "px";
+          });
+  
+          trigger.addEventListener("mouseout", function(event) {
+              if (!panel.contains(event.relatedTarget)) {
+                  panel.style.maxHeight = "0";
+              }
+          });
+  
+          panel.addEventListener("mouseover", function() {
+              panel.style.maxHeight = panel.scrollHeight + "px";
+          });
+  
+          panel.addEventListener("mouseout", function(event) {
+              if (!trigger.contains(event.relatedTarget)) {
+                  panel.style.maxHeight = "0";
+              }
+          });
+      });
+  });
+  </script>
+  
+       <main>
+            {{ content }}
+       </main>
+    </div>
+    <footer id="footer">
+      <p>&copy; Do not copy. Version 1.3.1 from 18.07.2024</p>
+    </footer>
+  </div>
+</body>
+</html>
