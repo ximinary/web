@@ -1,0 +1,47 @@
+Redirect /Web/matf/sem1 /Web/matf/1sem
+Redirect /Web/matf/sem2 /Web/matf/2sem
+Redirect /Web/matf/sem3 /Web/matf/3sem
+Redirect /Web/matf/sem4 /Web/matf/4sem
+Redirect /Web/matf/1 /Web/matf/1sem
+Redirect /Web/matf/2 /Web/matf/2sem
+Redirect /Web/matf/3 /Web/matf/3sem
+Redirect /Web/matf/4 /Web/matf/4sem
+
+Redirect /Web/matf/laag /Web/matf/1sem/laag
+Redirect /Web/matf/ds1 /Web/matf/1sem/ds1
+Redirect /Web/matf/p1 /Web/matf/1sem/p1
+Redirect /Web/matf/uoar1 /Web/matf/1sem/uoar1
+Redirect /Web/matf/eng1 /Web/matf/1sem/eng1
+
+Redirect /Web/matf/a1 /Web/matf/2sem/a1
+Redirect /Web/matf/ds2 /Web/matf/2sem/ds2
+Redirect /Web/matf/p2 /Web/matf/2sem/p2
+Redirect /Web/matf/uoar2 /Web/matf/2sem/uoar2
+Redirect /Web/matf/eng2 /Web/matf/2sem/eng2
+
+Redirect /Web/matf/a2 /Web/matf/3sem/a2
+Redirect /Web/matf/geom /Web/matf/3sem/geom
+Redirect /Web/matf/geo /Web/matf/3sem/geom
+Redirect /Web/matf/g /Web/matf/3sem/geom
+Redirect /Web/matf/3sem/geo /Web/matf/3sem/geom
+Redirect /Web/matf/3sem/g /Web/matf/3sem/geom
+Redirect /Web/matf/geom /Web/matf/3sem/geom
+Redirect /Web/matf/oop /Web/matf/3sem/oop
+Redirect /Web/matf/aisp /Web/matf/3sem/aisp
+Redirect /Web/matf/asp /Web/matf/3sem/aisp
+Redirect /Web/matf/3sem/asp /Web/matf/3sem/aisp
+Redirect /Web/matf/os /Web/matf/3sem/os
+
+Redirect /Web/matf/a3 /Web/matf/4sem/a3
+Redirect /Web/matf/alg1 /Web/matf/4sem/alg1
+Redirect /Web/matf/alg /Web/matf/4sem/alg1
+Redirect /Web/matf/4sem/alg /Web/matf/4sem/alg1
+Redirect /Web/matf/kiaa /Web/matf/4sem/kiaa
+Redirect /Web/matf/kaa /Web/matf/4sem/kiaa
+Redirect /Web/matf/kia /Web/matf/4sem/kiaa
+Redirect /Web/matf/4sem/kaa /Web/matf/4sem/kiaa
+Redirect /Web/matf/4sem/kia /Web/matf/4sem/kiaa
+Redirect /Web/matf/uvit /Web/matf/4sem/uvit
+Redirect /Web/matf/meh /Web/matf/4sem/meh
+
+ErrorDocument 404 https://ximinary.github.io/Web/matf/pocetna/
