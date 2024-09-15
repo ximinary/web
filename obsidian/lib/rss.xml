@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian Vault]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Obsidian Vault</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 13 Sep 2024 13:09:46 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 13 Sep 2024 13:08:58 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Algebra nad poljem]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:laag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#laag</a> 
- <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:laag" class="tag" target="_blank" rel="noopener">#laag</a> [deo <a data-tooltip-position="top" aria-label="Linearna algebra" data-href="Linearna algebra" href="linearna-algebra.html" class="internal-link" target="_self" rel="noopener">linearne algebre</a>]<br>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Obsidian</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 15 Sep 2024 02:14:56 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 15 Sep 2024 02:08:41 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Algebra nad poljem]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:laag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#laag</a> 
+ <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:laag" class="tag" target="_blank" rel="noopener">#laag</a> [deo <a data-tooltip-position="top" aria-label="Linearna algebra" data-href="Linearna algebra" href="matematika\linearna-algebra.html" class="internal-link" target="_self" rel="noopener">linearne algebre</a>]<br>
 <br>Def. . Struktura  je -algebra ako važe:<br>
 <br>A1)  je <a data-tooltip-position="top" aria-label="Vektorski prostor" data-href="Vektorski prostor" href="matematika\vektorski-prostor.html" class="internal-link" target="_self" rel="noopener">VP</a> nad 
 <br>A2)  je prsten, tj množenje vektora  zadovoljava:  
@@ -886,7 +886,17 @@ Tada
 <br>Limes niza zadatog rekurentno tražimo tako što:<br>
 prvo dokazujemo postojanje pomoću <a data-tooltip-position="top" aria-label="Limes niza > ^759dd8" data-href="Limes niza#^759dd8" href="matematika\limes-niza.html#^759dd8" class="internal-link" target="_self" rel="noopener">teoreme</a>,<br>
 a zatim menjamo svaki član niza sa  (limes niza) u datoj jednačini, rešavamo i dobijamo .
-]]></description><link>matematika\limes-niza.html</link><guid isPermaLink="false">Matematika/Limes niza.md</guid><pubDate>Wed, 11 Sep 2024 00:40:58 GMT</pubDate><enclosure url="lib\media\analiza1_3_limnizsv3.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\analiza1_3_limnizsv3.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Linearna zavisnost i nezavisnost. Skup generatora, baza i dimenzija VP-a]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:laag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#laag</a> 
+]]></description><link>matematika\limes-niza.html</link><guid isPermaLink="false">Matematika/Limes niza.md</guid><pubDate>Wed, 11 Sep 2024 00:40:58 GMT</pubDate><enclosure url="lib\media\analiza1_3_limnizsv3.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\analiza1_3_limnizsv3.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Linearna algebra]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:laag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#laag</a> 
+ <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:laag" class="tag" target="_blank" rel="noopener">#laag</a> [deo <a data-tooltip-position="top" aria-label="Matematika" data-href="Matematika" href="matematika\matematika.html" class="internal-link" target="_self" rel="noopener">matematike</a>]<br>
+<br><a data-href="Vektor" href="matematika\vektor.html" class="internal-link" target="_self" rel="noopener">Vektor</a><br>
+<a data-href="Matrica" href="matematika\matrica.html" class="internal-link" target="_self" rel="noopener">Matrica</a> (<a data-tooltip-position="top" aria-label="Kvadratna matrica" data-href="Kvadratna matrica" href="matematika\kvadratna-matrica.html" class="internal-link" target="_self" rel="noopener">kvadratna</a>)<br>
+<a data-href="Vektorski prostor" href="matematika\vektorski-prostor.html" class="internal-link" target="_self" rel="noopener">Vektorski prostor</a><br>
+<a data-tooltip-position="top" aria-label="Algebra nad poljem" data-href="Algebra nad poljem" href="matematika\algebra-nad-poljem.html" class="internal-link" target="_self" rel="noopener">Algebra</a><br>
+Linearni operator<br>
+Sistem linearnih jednačina<br>
+Karakteristični i minimalni polinom<br>
+Unitarni prostor<br>
+Bilinearna i kvadratna forma]]></description><link>matematika\linearna-algebra.html</link><guid isPermaLink="false">Matematika/Linearna algebra.md</guid><pubDate>Fri, 13 Sep 2024 13:08:03 GMT</pubDate></item><item><title><![CDATA[Linearna zavisnost i nezavisnost. Skup generatora, baza i dimenzija VP-a]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:laag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#laag</a> 
  <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:laag" class="tag" target="_blank" rel="noopener">#laag</a> [deo poglavlja <a data-tooltip-position="top" aria-label="Vektorski prostor" data-href="Vektorski prostor" href="matematika\vektorski-prostor.html" class="internal-link" target="_self" rel="noopener">"vektorski prostor"</a>]<br>
 <br>Def. .   je linearna kombinacija vektora  ako<br>
 <br><br>Def. Ako   je linearna kombinacija vektora .<br>
@@ -993,11 +1003,11 @@ tada  važi za svaki prirodni broj .
 <a data-href="Teorija skupova" href="matematika\teorija-skupova.html" class="internal-link" target="_self" rel="noopener">Teorija skupova</a><br>
 <a class="internal-link" data-href="Relacija" href="matematika\relacija.html" target="_self" rel="noopener">Relacije</a> i <a class="internal-link" data-href="Funkcija" href="matematika\funkcija.html" target="_self" rel="noopener">funkcije</a><br>
 <a data-href="Brojevi" href="matematika\brojevi.html" class="internal-link" target="_self" rel="noopener">Brojevi</a><br>
-<a data-href="Linearna algebra" href="linearna-algebra.html" class="internal-link" target="_self" rel="noopener">Linearna algebra</a><br>
+<a data-href="Linearna algebra" href="matematika\linearna-algebra.html" class="internal-link" target="_self" rel="noopener">Linearna algebra</a><br>
 Geometrija<br>
 <a data-href="Kombinatorika" href="matematika\kombinatorika.html" class="internal-link" target="_self" rel="noopener">Kombinatorika</a><br>
 <a data-href="Analiza" href="matematika\analiza.html" class="internal-link" target="_self" rel="noopener">Analiza</a>]]></description><link>matematika\matematika.html</link><guid isPermaLink="false">Matematika/Matematika.md</guid><pubDate>Wed, 11 Sep 2024 00:40:58 GMT</pubDate></item><item><title><![CDATA[Matrica]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:laag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#laag</a> 
- <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:laag" class="tag" target="_blank" rel="noopener">#laag</a> [deo <a data-tooltip-position="top" aria-label="Linearna algebra" data-href="Linearna algebra" href="linearna-algebra.html" class="internal-link" target="_self" rel="noopener">linearne algebre</a>]<br>
+ <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:laag" class="tag" target="_blank" rel="noopener">#laag</a> [deo <a data-tooltip-position="top" aria-label="Linearna algebra" data-href="Linearna algebra" href="matematika\linearna-algebra.html" class="internal-link" target="_self" rel="noopener">linearne algebre</a>]<br>
 <br><br>
 — skup svih matrica  ( vrsta,  kolona).<br>Stav.  je <a data-tooltip-position="top" aria-label="Vektorski prostor" data-href="Vektorski prostor" href="matematika\vektorski-prostor.html" class="internal-link" target="_self" rel="noopener">VP</a> uz operacije:<br>
 <br>(s) <br>
@@ -1767,7 +1777,7 @@ Rešenje:<br>
 <br>
 
 ]]></description><link>matematika\valuacija-(iskazna-logika).html</link><guid isPermaLink="false">Matematika/Valuacija (iskazna logika).md</guid><pubDate>Wed, 11 Sep 2024 00:40:58 GMT</pubDate></item><item><title><![CDATA[Vektor]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:laag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#laag</a> 
- <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:laag" class="tag" target="_blank" rel="noopener">#laag</a> [deo <a data-tooltip-position="top" aria-label="Linearna algebra" data-href="Linearna algebra" href="linearna-algebra.html" class="internal-link" target="_self" rel="noopener">linearne algebre</a>]<br>
+ <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:laag" class="tag" target="_blank" rel="noopener">#laag</a> [deo <a data-tooltip-position="top" aria-label="Linearna algebra" data-href="Linearna algebra" href="matematika\linearna-algebra.html" class="internal-link" target="_self" rel="noopener">linearne algebre</a>]<br>
 <br>Def. <a data-tooltip-position="top" aria-label="Teorija skupova > ^e21aa8" data-href="Teorija skupova#^e21aa8" href="matematika\teorija-skupova.html#^e21aa8" class="internal-link" target="_self" rel="noopener">Uređeni parovi</a> tačaka prostora i su ekvivalentni ako duži i imaju zajedničko središte.<br>
 <br>
 <br>Relacija je zapravo <a data-href="relacija ekvivalencije" href="matematika\relacija-ekvivalencije.html" class="internal-link" target="_self" rel="noopener">relacija ekvivalencije</a> jer je (R), (S) i (T) 
@@ -1880,7 +1890,7 @@ Iz teoreme<br>
 
 
 ]]></description><link>matematika\vektorski-i-mešoviti-proizvod-vektora.html</link><guid isPermaLink="false">Matematika/Vektorski i mešoviti proizvod vektora.md</guid><pubDate>Wed, 11 Sep 2024 19:12:39 GMT</pubDate></item><item><title><![CDATA[Vektorski prostor]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:laag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#laag</a> 
- <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:laag" class="tag" target="_blank" rel="noopener">#laag</a> [deo <a data-tooltip-position="top" aria-label="Linearna algebra" data-href="Linearna algebra" href="linearna-algebra.html" class="internal-link" target="_self" rel="noopener">linearne algebre</a>]<br>
+ <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:laag" class="tag" target="_blank" rel="noopener">#laag</a> [deo <a data-tooltip-position="top" aria-label="Linearna algebra" data-href="Linearna algebra" href="matematika\linearna-algebra.html" class="internal-link" target="_self" rel="noopener">linearne algebre</a>]<br>
 <br>Def.  tada uređenja četvorka  zove se vektorski prostor nad poljem  ako  važi:<br>
 <br>VP1)  je <a data-tooltip-position="top" aria-label="Vektor > ^7e6521" data-href="Vektor#^7e6521" href="matematika\vektor.html#^7e6521" class="internal-link" target="_self" rel="noopener">Abelova grupa</a>.
 <br>VP2) 
@@ -1937,8 +1947,97 @@ Iz teoreme<br>
 <br> je atherentna tačaka skupa  ako<br>
 <br>
  je skup svih atherentnih tačaka (zatvorenje) skupa 
-<br>Atherentna tačka je ili tačka nagomilavanja ili granična tačka.<br><br><img alt="analiza1_0_tačke.png" src="lib\media\analiza1_0_tačke.png">]]></description><link>matematika\vrste-tačaka-u-odnosu-na-neki-skup.html</link><guid isPermaLink="false">Matematika/Vrste tačaka u odnosu na neki skup.md</guid><pubDate>Wed, 11 Sep 2024 00:40:58 GMT</pubDate><enclosure url="lib\media\analiza1_0_tačke.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\analiza1_0_tačke.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Doseg, životni vek i povezanost (C)]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:cs/prog/c" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/prog/c</a> 
- <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:cs\prog\c" class="tag" target="_blank" rel="noopener">#cs/prog/c</a> [deo <a data-tooltip-position="top" aria-label="Programski jezik C" data-href="Programski jezik C" href="programski-jezik-c.html" class="internal-link" target="_self" rel="noopener">jezika C</a>]<br><br>— određuje deo programa u kojem je identifikator vidljiv.<br>Globalni:<br>
+<br>Atherentna tačka je ili tačka nagomilavanja ili granična tačka.<br><br><img alt="analiza1_0_tačke.png" src="lib\media\analiza1_0_tačke.png">]]></description><link>matematika\vrste-tačaka-u-odnosu-na-neki-skup.html</link><guid isPermaLink="false">Matematika/Vrste tačaka u odnosu na neki skup.md</guid><pubDate>Wed, 11 Sep 2024 00:40:58 GMT</pubDate><enclosure url="lib\media\analiza1_0_tačke.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\analiza1_0_tačke.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Dinamička alokacija memorije (C)]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:cs/prog/c" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/prog/c</a> 
+ <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:cs\prog\c" class="tag" target="_blank" rel="noopener">#cs/prog/c</a> [deo <a data-tooltip-position="top" aria-label="Programski jezik C" data-href="Programski jezik C" href="računarstvo\programski-jezik-c.html" class="internal-link" target="_self" rel="noopener">jezika C</a>]<br>
+<br>Sve funkcije su u zaglavlju &lt;stdlib.h&gt;<br>
+Alokacija memorije se dešava u <a data-tooltip-position="top" aria-label="Organizacija memorije (C) > Hip segment" data-href="Organizacija memorije (C)#Hip segment" href="računarstvo\organizacija-memorije-(c).html#Hip_segment" class="internal-link" target="_self" rel="noopener">hipu</a>, funkcije vraćaju adresu (<a data-tooltip-position="top" aria-label="Pokazivači (C)" data-href="Pokazivači (C)" href="računarstvo\pokazivači-(c).html" class="internal-link" target="_self" rel="noopener">pokazivač</a>), objekti nisu imenovani i nemaju doseg, imaju dinamički životni vek.<br><br>void *malloc(size_t n);
+RunCopy<br>malloc alocira blok memorije veličine n bajtova i vraća adresu bloka (void-pokazivač) ili NULL ako alokacija nije uspela.<br>Primer alokacije niza od 100 int-ova (sa implicitnom konverzijom tipa):<br>int* niz = malloc(100 * sizeof(int));
+RunCopy<br>Možemo koristiti niz isto kao obični pokazivač na 0-ti element niza (ili kao obični niz osim u <a data-tooltip-position="top" aria-label="Pokazivači (C) > Pokazivači i nizovi" data-href="Pokazivači (C)#Pokazivači i nizovi" href="računarstvo\pokazivači-(c).html#Pokazivači_i_nizovi" class="internal-link" target="_self" rel="noopener">dva slučaja</a>)<br><br>void *calloc(size_t n, size_t size);
+RunCopy<br>calloc alocira blok memorije za n objekata veličine size i inicijalizuje ih nulama, vraća adresu bloka (void-pokazivač) ili NULL ako alokacija nije uspela.<br>int* niz = malloc(100, sizeof(int));
+RunCopy<br><br>void *realloc(void* memblock, size_t n);
+RunCopy<br>realloc realocira blok memblock u blok veličine n i vraća adresu bloka (void-pokazivač) ili NULL ako alokacija nije uspela.<br>
+(Ne inicijalizuje nulama)<br>Ako memblock nije pokazivač na početak bloka — greška.<br>: <img alt="Realokacija.png" src="lib\media\realokacija.png"><br>realoc(NULL, k); je isto što i malloc(k);<br><br>Posle (re)alokacije uvek bitno proveravati da li je pokazivač NULL.<br><br>void free(void* memblock);
+RunCopy<br>freeoslobađa (dealocira) memoriju kolja je bila alocirana maloc, calloc, realloc.<br>Posle oslobođenja moramo da postavimo pokazivač na NULL da ne bismo slučajno iskoristili.<br>Greške pri oslobađanju:<br>
+<br>oslobađanje memorije koja nije alocirana.
+<br>oslobođenje pomoću pokazivača koji pokazuje unutar bloka, umesto na početak
+<br>ponovo oslobađanje
+<br><br>Primer alokacije po unesenom broju:<br>#include &lt;stdio.h&gt;
+#include &lt;stdlib.h&gt;
+
+int main() {
+	int n, i;
+	scanf("%d", &amp;n);     //unos broja elemenata
+	
+	//alokacija:
+	int* a = malloc(n*sizeof(int));
+	if (a == NULL) {     //provera pokazivača
+		printf("Greska\n");
+		return 1;
+	}
+
+	for (i = 0; i &lt; n; i++)
+		scanf("%d",&amp;a[i]);
+		
+	for (i = n-1; i &gt;= 0; i--)
+		printf("%d ",a[i]);
+
+	free(a);             //oslobađanje memorije
+	return 0;
+}
+RunCopy<br>Primer alokacije "unos do -1":<br>#include &lt;stdio.h&gt;
+#include &lt;stdlib.h&gt;
+#define KORAK 100
+
+int main() {
+	int* a = NULL;     //niz je u pocetku prazan
+	int duzina = 0;    //broj popunjenih elemenata niza
+	int alocirano = 0;
+	
+	do {
+		if (duzina == alocirano) {
+			alocirano += KORAK;
+			a = realloc(a, alocirano*sizeof(int));
+			if (a == NULL) return 1;
+		}
+		scanf("%d", &amp;a[duzina]);
+	} while (a[duzina++] != -1);
+	
+	// ...
+	
+	free(a);
+	return 0;
+}
+
+RunCopy<br><br>
+<br>Curenje memorije — kada se izgubi pokazivač na alocirani blok:
+p = malloc(1000);
+...
+p = malloc(2000);
+RunCopy
+
+<br>Pristup oslobođenoj memoriji
+<br>Pristup memorije van bloka
+<br>Oslobađanje/realokacija pogrešnog pokazivača (koji ne pokazuje na početak već alociranog bloka)
+<br><br>Često alociranje i dealociranje može dovesti do fragmentacije.<br>Uprošćeni primer:<br>
+Neka je 1 - alocirana memorija, 0 - nealocirana.<br>0000 0000 0000 0000
+____                    malloc
+1111 0000 0000 0000
+     ____ __            malloc
+1111 1111 1100 0000
+xxxx                    free
+0000 1111 1100 0000
+            __ ___      malloc
+0000 1111 1111 1110
+__                      calloc
+1100 1111 1111 1110
+     ___x xx            realloc
+1100 1110 0011 1110
+Copy<br>iako je ostalo 6 nula, nemoguće je alocirati blok od 4 jedinice.<br>Kako izbegavati:<br>
+<br>izbegavati dinamičku alokaciju
+<br>alocirati odmah u većim blokovima
+<br>memory pooling
+]]></description><link>računarstvo\dinamička-alokacija-memorije-(c).html</link><guid isPermaLink="false">Računarstvo/Dinamička alokacija memorije (C).md</guid><pubDate>Sun, 15 Sep 2024 01:59:47 GMT</pubDate><enclosure url="lib\media\realokacija.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\realokacija.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Doseg, životni vek i povezanost (C)]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:cs/prog/c" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/prog/c</a> 
+ <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:cs\prog\c" class="tag" target="_blank" rel="noopener">#cs/prog/c</a> [deo <a data-tooltip-position="top" aria-label="Programski jezik C" data-href="Programski jezik C" href="računarstvo\programski-jezik-c.html" class="internal-link" target="_self" rel="noopener">jezika C</a>]<br><br>— određuje deo programa u kojem je identifikator vidljiv.<br>Globalni:<br>
 <br>doseg datoteke — ime važi od tačke uvođenja do kraja datoteke (globalne promenljive);
 <br>Lokalni:<br>
 <br>doseg bloka — ime važi od tačke uvođenja do kraja bloka (lokalne promenljive);
@@ -1958,7 +2057,7 @@ Iz teoreme<br>
 RunCopy<br><br>— deo vremena izvršavanja programa u kojem se promenljiva može koristiti i za nju je rezervisano mesto u memoriji.<br>
 <br>statički — objekt je dostupan tokom celog izvršavanja programa.
 <br>automatski — promenljive koje se automatski stvaraju i uklanjaju prilikom pozivanja funkcija.
-<br>dinamički — promenljive koje se alociraju i dealociraju na eksplicitan zahtev programera (kada količina memorije bude poznata samo tokom izvršavanja programa — <a data-tooltip-position="top" aria-label="Dinamička alokacija memorije (C)" data-href="Dinamička alokacija memorije (C)" href="dinamička-alokacija-memorije-(c).html" class="internal-link" target="_self" rel="noopener">dinamička alokacija memorije</a>).
+<br>dinamički — promenljive koje se alociraju i dealociraju na eksplicitan zahtev programera (kada količina memorije bude poznata samo tokom izvršavanja programa — <a data-tooltip-position="top" aria-label="Dinamička alokacija memorije (C)" data-href="Dinamička alokacija memorije (C)" href="računarstvo\dinamička-alokacija-memorije-(c).html" class="internal-link" target="_self" rel="noopener">dinamička alokacija memorije</a>).
 <br>Globalni promenljivi su uvek statički.<br>Lokalne promenljive:<br>void f() {
 	int a;          // automatski ž.v.
 	auto int b;     // automatski ž.v.
@@ -2072,7 +2171,7 @@ int main() {
 RunCopy<br>ispis: <br>main: a = 0, b = 5
 f: a = 3, b = 5
 Copy]]></description><link>računarstvo\doseg,-životni-vek-i-povezanost-(c).html</link><guid isPermaLink="false">Računarstvo/Doseg, životni vek i povezanost (C).md</guid><pubDate>Thu, 12 Sep 2024 16:18:45 GMT</pubDate></item><item><title><![CDATA[Funkcije (C)]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:cs/prog/c" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/prog/c</a> 
- <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:cs\prog\c" class="tag" target="_blank" rel="noopener">#cs/prog/c</a> [deo <a data-tooltip-position="top" aria-label="Programski jezik C" data-href="Programski jezik C" href="programski-jezik-c.html" class="internal-link" target="_self" rel="noopener">jezika C</a>]<br>
+ <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:cs\prog\c" class="tag" target="_blank" rel="noopener">#cs/prog/c</a> [deo <a data-tooltip-position="top" aria-label="Programski jezik C" data-href="Programski jezik C" href="računarstvo\programski-jezik-c.html" class="internal-link" target="_self" rel="noopener">jezika C</a>]<br>
 <br>Funkcija main je glavna funkcija sa koje počinje izvršavanje programa.<br>
 Iz main (i drugih funkcija) pozivaju se druge funkcije: <a data-tooltip-position="top" aria-label="Standardne biblioteke (C)" data-href="Standardne biblioteke (C)" href="standardne-biblioteke-(c).html" class="internal-link" target="_self" rel="noopener">bibliotečke</a> ili korisnički.<br>U funkciju se obično izdvajaju neka izračunavanja, koja predstavljaju celinu i koristi se više puta u programu.<br><br>#include &lt;stdio.h&gt;
 
@@ -2100,7 +2199,7 @@ RunCopy<br>definicija:<br>tip ime_fje(niz_deklaracija_parametara) {
 }
 RunCopy<br>Ako nećemo deklarisati pre definicije, funkcija će biti deklarisana i definisana odjednom.<br>! Funkcija mora da bude deklarisana pre (iznad) poziva. <br><br>Parametri — promenljivi koji čine deklaraciju funkcija.<br>
 Argumenti — izrazi koji su navedeni u pozivu funkcije.<br>Parametri su lokalne promenljivi funkcije.<br>Funkcija koja ne uzima parametre:  tip funkcija(void);<br>
-— parametra sigurno nema, poziv samo funkcija();<br>Funkciju tip funkcija(); možemo pozvati: funkcija(šta_god);<br><br>Argument u pozivu može biti promenljiva ili izraz, čija vrednost može da se konvertuje u tip parametra.<br>Vrednost argumenta se kopira u lokalnu promenljive funkcije; funkcija radi samo sa kopijom nemenjajući original.<br>Imena parametra i argumenta mogu da se poklapaju ali oni ostaju različite.<br>Prilikom pozivanja radi se implicitna konverzija tipova.<br><br>Kao argument moguće je proslediti <a data-tooltip-position="top" aria-label="Pokazivači (C)" data-href="Pokazivači (C)" href="pokazivači-(c).html" class="internal-link" target="_self" rel="noopener">pokazivač</a> na neku promenljivu, time omogućujući promenu te promenljive u funkciji.<br>Niz ne može biti argumentom, samo ime niza, koje se konvertuje u pokazivač na njegov početak.<br>
+— parametra sigurno nema, poziv samo funkcija();<br>Funkciju tip funkcija(); možemo pozvati: funkcija(šta_god);<br><br>Argument u pozivu može biti promenljiva ili izraz, čija vrednost može da se konvertuje u tip parametra.<br>Vrednost argumenta se kopira u lokalnu promenljive funkcije; funkcija radi samo sa kopijom nemenjajući original.<br>Imena parametra i argumenta mogu da se poklapaju ali oni ostaju različite.<br>Prilikom pozivanja radi se implicitna konverzija tipova.<br><br>Kao argument moguće je proslediti <a data-tooltip-position="top" aria-label="Pokazivači (C)" data-href="Pokazivači (C)" href="računarstvo\pokazivači-(c).html" class="internal-link" target="_self" rel="noopener">pokazivač</a> na neku promenljivu, time omogućujući promenu te promenljive u funkciji.<br>Niz ne može biti argumentom, samo ime niza, koje se konvertuje u pokazivač na njegov početak.<br>
 Niz se ne kopira, samo je moguće menjati originalan niz.<br>tip ime_fje(tip ime_niza[]);
 RunCopy<br>isto što i :<br>tip ime_fje(tip *ime_niza);
 RunCopy<br>Višedimenzioni niz (potrebno navesti sve dimenzije osim prve):<br>tip ime_fje(tip ime_niza[][dim2][dim3]...);
@@ -2147,8 +2246,8 @@ int main() {
 	return 0;
 }
 RunCopy]]></description><link>računarstvo\funkcije-(c).html</link><guid isPermaLink="false">Računarstvo/Funkcije (C).md</guid><pubDate>Thu, 12 Sep 2024 20:07:56 GMT</pubDate><enclosure url="lib\media\argumenti_main.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\argumenti_main.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Makroi i uslovno prevođenje (C)]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:cs/prog/c" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/prog/c</a> 
- <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:cs\prog\c" class="tag" target="_blank" rel="noopener">#cs/prog/c</a> [deo <a data-tooltip-position="top" aria-label="Programski jezik C" data-href="Programski jezik C" href="programski-jezik-c.html" class="internal-link" target="_self" rel="noopener">jezika C</a>]<br>
-<br>Jednostavne operacije nad tekstualnim sadržajem programa, koje se vrše u fazi <a data-tooltip-position="top" aria-label="Organizacija izvornog koda (C) > ^14a8a4" data-href="Organizacija izvornog koda (C)#^14a8a4" href="organizacija-izvornog-koda-(c).html#^14a8a4" class="internal-link" target="_self" rel="noopener">pretprocesiranja</a>.<br><br>uključivanje u program prototipa funkcija:<br>#include "ime_datoteke.h"  //iz direktorijuma programa
+ <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:cs\prog\c" class="tag" target="_blank" rel="noopener">#cs/prog/c</a> [deo <a data-tooltip-position="top" aria-label="Programski jezik C" data-href="Programski jezik C" href="računarstvo\programski-jezik-c.html" class="internal-link" target="_self" rel="noopener">jezika C</a>]<br>
+<br>Jednostavne operacije nad tekstualnim sadržajem programa, koje se vrše u fazi <a data-tooltip-position="top" aria-label="Organizacija izvornog koda (C) > ^14a8a4" data-href="Organizacija izvornog koda (C)#^14a8a4" href="računarstvo\organizacija-izvornog-koda-(c).html#^14a8a4" class="internal-link" target="_self" rel="noopener">pretprocesiranja</a>.<br><br>uključivanje u program prototipa funkcija:<br>#include "ime_datoteke.h"  //iz direktorijuma programa
 #include &lt;ime_datoteke.h&gt;  //iz direktorijuma standardnih biblioteka
 RunCopy<br><br>Zamena:<br>#define ORIGINALNI_TEXT novi_tekst
 // zamena niza karaktera drugim nizom
@@ -2207,7 +2306,7 @@ int main() {
 }
 RunCopy<br>Definisanje preko komandne linije:<br>gcc -D SRB 1.c
 Copy]]></description><link>računarstvo\makroi-i-uslovno-prevođenje-(c).html</link><guid isPermaLink="false">Računarstvo/Makroi i uslovno prevođenje (C).md</guid><pubDate>Thu, 12 Sep 2024 19:36:58 GMT</pubDate></item><item><title><![CDATA[Naredbe i kontrola toka (C)]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:cs/prog/c" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/prog/c</a> 
- <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:cs\prog\c" class="tag" target="_blank" rel="noopener">#cs/prog/c</a> [deo <a data-tooltip-position="top" aria-label="Programski jezik C" data-href="Programski jezik C" href="programski-jezik-c.html" class="internal-link" target="_self" rel="noopener">jezika C</a>]<br>
+ <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:cs\prog\c" class="tag" target="_blank" rel="noopener">#cs/prog/c</a> [deo <a data-tooltip-position="top" aria-label="Programski jezik C" data-href="Programski jezik C" href="računarstvo\programski-jezik-c.html" class="internal-link" target="_self" rel="noopener">jezika C</a>]<br>
 <br>Program je niz naredbi.<br><br>Svaki izraz završeni sa ; je naredba.<br>
 Naredba ima smisla samo ako ima sporedni efekat.<br>
 Postoji prazna naredba: ;<br>Više naredba grupisanih u blok tretiraju se kao jedna.<br>
@@ -2299,291 +2398,8 @@ RunCopy<br><br>petlja {
 	naredbe2;
 }
 RunCopy<br>break — pri nailasku na break, program izlazi iz petlje;<br>continue —  pri nailasku na continue, program prelazi u sledeću iteraciju petlje (tj propušta naredbe2);<br>Dejstvuju samo na unutrašnju petlju.<br>
-Uvek je moguće napisati kod bez break i continue;]]></description><link>računarstvo\naredbe-i-kontrola-toka-(c).html</link><guid isPermaLink="false">Računarstvo/Naredbe i kontrola toka (C).md</guid><pubDate>Wed, 11 Sep 2024 00:40:58 GMT</pubDate></item><item><title><![CDATA[Predstavljanje podataka i operacije nad njima (C)]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:cs/prog/c" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/prog/c</a> 
- <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:cs\prog\c" class="tag" target="_blank" rel="noopener">#cs/prog/c</a> [deo <a data-tooltip-position="top" aria-label="Programski jezik C" data-href="Programski jezik C" href="programski-jezik-c.html" class="internal-link" target="_self" rel="noopener">jezika C</a>]<br>
-<br><br>
-<br>moraju biti deklarisane pre korišćenja.
-<br>pridružen prostor u memoriji
-<br>ime: prvi simbol _ ili slovo, ostale _, slova ili cifre
-<br>Deklaracija: <br>int a, b;
-RunCopy<br>Deklaracija sa inicijalizacijom: <br>int a = 3;
-RunCopy<br>Konstanta: <br>const double G = 9.81;
-double const G = 9.81;
-RunCopy<br><img alt="promenljive.png" src="lib\media\promenljive.png"><br><br>Celobrojne tipovi u rastućem poretku prema dužine:<br>short
-int            //standardni tip
-long         
-long long
-RunCopy<br>Dodatno pre tima moguće napisati:<br>signed         //označeni - isto kao i ne pisati ništa
-unsigned       //neoznačeni
-RunCopy<br><br>Tip za karaktere, ali u suštini jednobitni celobrojni tip:<br>(signed/unsigned) char
-RunCopy<br><br>Pokretan zarez (IEEE754 standard - uklj. )<br>float
-double         //standardni tip
-long double 
-RunCopy<br><br>
-Druge tipovi<br>bool           //logički tip - true/false
-void           //ništa
-RunCopy<br><br>Na primer: 2, 207, 3.14, 1.4e6, '9', 034<br><br>12345   - int (-&gt; long -&gt; unsigned long) 
-		  // u zavisnosti od veličine broja
-12345l  - long
-12345L  - long long
-12345u  - unsigned int
-12345ul - unsigned long 
-RunCopy<br>U oktalnom i heksadekadnom sistemu (moguće kombinovati sa l, L, u, ... )<br>056     - oktalni (int)
-0x1f    - heksadekadni (int)
-RunCopy<br>Negativne konstante ne postoje: koristi se unitarni operator -.<br>
-Na primer -678<br><br>13.45   - double
-1e-2    - double        // = 0.01
-1.45e6  - double        // = 1450000.0
-.3      - double        // = 0.3
-2.      - double        // = 2.0
-
-13.45f  - float         // (f ili F)
-13.45l  - long double   // (l ili L)
-RunCopy<br>Mogu biti i pozitivne i negativne .<br><br>'a'     - int           // = 97
-'A'     - int           // = 65
-'0'     - int           // = 48
-RunCopy<br>Specijalni simboli:<br>
-'\n' — new line<br>
-'\t' — horizontal tab<br>
-'\v' — vertical tab<br>
-'\\' — \<br>
-'\?' — ?<br>
-'\'' — '<br>
-'\"' — "<br>
-'\012' — oktalni broj<br>
-'\x12' — heksadekadni broj<br>
-'\0' — vrednost , kraj niske<br><br>Na primer: 4 + 3 * 5<br>
-Konstantne izrazi izračunavaju se tokom prevođenja programa.<br><br>Arnost operatora — broj operanada na koje se pimenjuje.<br>
-<br>unarni
-
-<br>prefiksni (-x)
-<br>postfiksni (x++)
-
-
-<br>binarni (x + y)
-<br>ternarni (x ? y : z)<br>
-
-<br>Operatori nad brojevima:<br>
-<br>aritmetičke
-<br>logičke
-<br>relacijske
-<br><a data-tooltip-position="top" aria-label="Prioritet operatora (C).png" data-href="Prioritet operatora (C).png" href="media\prioritet-operatora-(c).png" class="internal-link" target="_self" rel="noopener">Prioritet operatora</a><br>
-<br>Unarni postfiksni pa unarni prefiksni pa binarni
-<br>Aritmetički pa relacijski pa logički
-<br>Kao u matematici: ( ), * i / i %, + i -
-<br>&lt; i &lt;= i &gt; i &gt;= pa == i !=
-<br>Najmanji prioritet: ? : pa dodele pa ,<br>
-
-<br>Asocijativnost operatora:<br>
-<br>leva: 
-<br>desna: 
-<br>neasocijativan: zabranjeno uzastopnost ponavljanje.
-<br><br>x = ...;     //x je izmenjiva l-vrednost (promenljiva)
-RunCopy<br>promena vrednosti objekata na levoj strani je sporedni efekat (side effect).<br>Ima desnu asocijativnost.<br>Dodela ima vrednost: <br>x = y = 3;  //y = 3 ima vrednost 3 koja se dodeljuje x-u
-RunCopy<br>int a;
-double b = a = 3.5;
-RunCopy<br>Prvo a-u se dodeljuje vrednost 3;<br>
-a = 3.5 ima vrednost 3;<br>
-Posle b-u se dodeljuje vrednost a = 3.5 tj. 3;<br>
-Rezultat: a = 3; b = 3.0<br><br>+ — binarni operator sabiranja;<br>
-- — binarni operator oduzimanja;<br>
-* — binarni operator množenja;<br>
-% — binarni operator ostatka pri deljenju (oba operanda celi);<br>
-/ — binarni operator:<br>
-<br>celobrojnog deljenja, ako su oba operanda celi;
-<br>deljena, ako je bar jedan operand broj u pokretnom zarezu;
-<br>+ — unarni operator;<br>
-- — unarni operator promene znaka;<br>Svi  aritmetički operatori gore imaju levu asocijativnost, dole — desnu.<br>++ — prefiksno ili postfiksno inkrementiranje;<br>
--- — prefiksno ili postfiksno dekrementiranje;<br>           i = 5;
-I slučaj            II slučaj
-x = i++;            x = ++i;
-          Rezultat
-i == 6              i == 6
-x == 5              x == 6
-RunCopy<br>i++ ima vrednost i do inkr.;  i-- ima vrednost i do dekr.;<br>
-++i ima vrednost i posle inkr.;  --i ima vrednost i posle dekr.<br><br>== — jednako;<br>
-!= — različito;<br>
-&lt; — manje;<br>
-&lt;= — manje ili jednako;<br>
-&gt; — veće;<br>
-&gt;= — veće ili jednako;<br>Imaju levu asocijativnost.<br>Ako je tačno ima vrednost 1 (int).<br>
-Ako nije tačno ima vrednost 0 (int).<br>Na primer: <br><br>! — <a data-tooltip-position="top" aria-label="Logičke operacije > ^b24d81" data-href="Logičke operacije#^b24d81" href="matematika\logičke-operacije.html#^b24d81" class="internal-link" target="_self" rel="noopener">logičko ne</a>;<br>
-&amp;&amp; — <a data-tooltip-position="top" aria-label="Logičke operacije > ^96b28f" data-href="Logičke operacije#^96b28f" href="matematika\logičke-operacije.html#^96b28f" class="internal-link" target="_self" rel="noopener">logičko i</a>;<br>
-|| — <a data-tooltip-position="top" aria-label="Logičke operacije > ^66b381" data-href="Logičke operacije#^66b381" href="matematika\logičke-operacije.html#^66b381" class="internal-link" target="_self" rel="noopener">logičko ili</a>;<br>Svaka ne-nula vrednost se računa kao1<br>Na primer:<br>
-<br>!0 je 1;  !1 je 0;  !9.2 je 0;
-<br>5 &amp;&amp; 4.3 je 1;  3.1 &amp;&amp; 0 je 0;
-<br>10 || 0 je 1;  0 || 0 je 0.
-<br>
-
-Sleva nadesno:<br>
-U operatorima &amp;&amp; i || prvo se računa leva strana i ako rezultat ne zavisi od desne strane, desna strana i ne računa se.
-Na primer:
-
-<br> ( neće biti uvršeno)
-<br> ( sigurno će biti uvršeno)
-<br> (slično  neće biti uvršeno)
-
-<br><br>~ — bitovska negacija;<br>
-&amp; — bitovsko i;<br>
-| — bitovsko ili;<br>
-^ — bitovski XOR;<br>
-&lt;&lt; — pomeranje bitova ulevo;<br>
-&gt;&gt; — pomeranje bitova udesno;<br>x &lt;&lt; k — pomeranje bitova broja x sa k mesta ulevo.<br>
-x &gt;&gt; k — pomeranje bitova broja x sa k mesta udesno:<br>
-<br>ako je x tipa int aritmetičko — na viši (oslobođeni) bitovi stavlja se bit znaka.
-<br>ako je x tipa unsigned logičko — na viši (oslobođeni) bitovi stavlja se 0.
-<br>x može biti konstanta ili promenljiva. &lt;&lt; i &gt;&gt; ne menjaju x.<br><br>izraz1 op= izraz2 isto što i izraz1 = izraz1 op ipraz2<br><br>Prvo se izračunava izraz1.<br>
-Ako je ne-nula, onda se izračunava izraz2 i to je vrednost operatora.<br>
-Inače se izračunava izraz3 i to je vrednost operatora.<br><br>for (i = 10, j = 0; i &lt; j; i++, j--) { ...; }
-RunCopy<br>ima najniži prioritet;<br>
-računaju se i leva i desna strana;<br>
-vrednost operatora je vrednost desne strane.<br>x = 1, 2; je isto što i x = 2;<br>
-x = 3, y = 5; je isto što i x = 3; y = 5;<br><br>veličina tipa ili promenljive u bajtovima;<br>
-vrača vrednost tipa size_t (sličan sa unsigned).<br>double a;
-size_t x = sizeof(a);
-size_t y = sizeof(int);
-RunCopy<br><br>— menja se tip izraza, ne menja se tip promenljivih.<br>
-<br>Eksplicitna konverzija (na zahtev programera)<br>
-Operator kastovanja: (tip) izraz<br>
-— prefiksni unarni operator<br>
-
-<br>Implicitna konverzija (izvršava se automatski po potrebi)
-<br>
-<br>konverzija u tip leve strane:
-<br>int a = 46;
-double b;
-b = a;          
-// pre upisivanja vrednost a se konvertuje u double.
-RunCopy<br>
-<br>aritmetičke operatori se ne primenjuju na char i short
-<br>char a = 2, b = 3, c;
-c = a + b; 
-// vrednost a se konvertuje u int, vrednost b se konvertuje u int, računa se zbir, vrednost zbira se konvertuje u char i upisuje se u c.
-RunCopy<br>
-<br>aritmetički i logički operatori zahtevaju operandi u istom tipu, tako jedan od operanada se konvertuje u tip drugog, koji ima "bogatiji" tip.
-<br>char a = 2; double b = 7.9; 
-b = (a + 5.6f) / b;
-// vrednost a se konvertuje u float, računa se zbir, vrednost zbira se konvertuje u double, računa se količnik i rezultat se upisuje u b.
-RunCopy<br><br>Promocija — konverzija u "bogatiji" tip — obično ne dolazi do gubitka.<br>
-Na primer može doći do gubitka pri konverziji velikog broja tipa long u tip double;<br>Democija — konverzija u "siromašniji" tip — često dolazi do gubitka.<br>
-Na primer pri konverziji broja tipa double ili float u tip int odsecaju se decimale: int a = 8.31f — a će dobiti vrednost 8.<br><br><br>Deklaracija niza:<br>tip ime_niza[dimenzija];
-RunCopy<br>dimenzija mora da bude konstantan ceo broj;<br>
-na primer: a[10], tada su elementi niza a[0], a[1], ..., a[9],<br>ili <br>tip ime_niza[] = {el0, el1, ..., elN};
-RunCopy<br>moguće navesti svih N+1 elemenata u { };<br>
-na primer:<br>int b[] = {1, 3, 11, 4, 8}; 
-RunCopy<br><br><br>sizeof(ime_niza);   # veličina celog niza u bajtovima
-RunCopy<br>Nemoguće dodeljivati/menjati nizove, ali moguće menjati svaki element niza.<br>ime_niza bez [ ] konvertuje se u pokazivač na nulti element niza. <br>Elementi niza su u memoriji uređeni uzastopno.<br><br>nulti element je na adresi ime_niza<br>
-prvi element je na adresi ime_niza + 1 * sizeof(tip)<br>
-drugi element je na adresi ime_niza + 2 * sizeof(tip)<br>
-...<br>
-n-ti element je na adresi ime_niza + n * sizeof(tip)<br>Treba paziti da ne pristupamo elementima van niza,<br>
-na primer b[-1] ili b[6]<br><br>Niska je niz karaktera koji se završava terminirajućem nulom '\0'.<br>Sledeće inicijalizacije niski su ekvivalentne:<br>char s1[] = "Zdravo";
-char s2[] = {'Z', 'd', 'r', 'a', 'v', 'o', '\0'};
-RunCopy<br>'x' = 120 je karakter;<br>
-"x" = {'x', '\0'} je niska;<br>'\0' = 0<br>printf("547", " + as"); je isto što i printf("547 + as");<br>biblioteka za rad sa niskama <a class="internal-link" data-href="Standardne biblioteke (C).md" href="standardne-biblioteke-(c).html" target="_self" rel="noopener"><code></code></a>&lt;string.h&gt;:<br>dužina niske: strlen(a)<br>
-kopiranje niske a u nisku b: strcpy(b, a)<br>
-(duža b mora da bude dovoljna, inače će doći do greške ili do neočekivanog ponašanja)<br><br>tip ime_niza[dim_1][dim2]...;
-RunCopy<br>Na primer:<br>char a[2][3] = {
-	{1, 2, 3},
-	{4, 5, 6},
-}
-RunCopy<br>Poštuje se uzastopnost u memoriji.<br>
-Niz a u memoriji će biti predstavljen isto kao i sledeći niz<br>int b = {1, 2, 3, 4, 5, 6}
-RunCopy<br>ali pristup elementima je različit.<br>a pokazuje na nulti element niza — niz od tri int-a.<br><br><br>— objedinjavaju jednu ili više promenljivih, ne nužno istog tipa.<br>Definicija strukture:<br>struct ime_structure {
-	//deklaracija promenljivih, nizova i drugih već definisanih struktura;
-};
-RunCopy<br>Primer:<br>struct razlomak {
-	int brojilac;
-	int imenilac;
-};
-RunCopy<br>posle toga postoji tip struct razlomak;<br>
-deklaracija promenjivih:<br>struct razlomak a = {1, 2}, b, c;
-struct razlomak niz[100];
-RunCopy<br>
-Istovremeno definisanje strukture i deklaracija promenljivih (važi za sve korisnički definisane tipove):
-struct razlomak {
-	int brojilac, imenilac;
-} a = {1, 2}, b, c;
-RunCopy
-<br>Veličina strukture u bitovima:<br>sizeof(struct razlomak);
-sizeof(b);
-RunCopy<br><br>Operatori . i -&gt; — pristupanje elementima strukture.<br>
-— najviši prioritet, leva asocijativnost.<br>a.imenilac = 6;
-niz[45].brojilac = 90;
-RunCopy<br>Ako je pa pokazivač na promenljivu a (pa = &amp;a;).<br>
-Tada moguće pristupiti direktno:<br>pa-&gt;brojilac = 34;
-RunCopy<br>isto što i:<br>(*pa).brojilac = 34;
-RunCopy<br><br>— struktura u kojoj za svaku promenljivu određen broj bitova.<br>struct nugaonik {
-	unsigned char br_strana : 4;
-	unsigned char boja      : 2;
-	unsigned char popunjen  : 1;
-}
-RunCopy<br>Promenljiva će zauzeti 4+2+1 = 7 bitova;<br>
-broj bajtova mora biti celi zato sizeof(struct nugaonik) će biti 1 (bajt).<br><br>— istovremeno korišćenje istog prostora nekolikim promenljivima.<br>Primer definicije unije:<br>union student {
-	double plata;
-	char index[7];
-};
-RunCopy<br>deklaracija promenjivih:<br>union student a, matf[300];
-RunCopy<br>Moguće koristiti samo jednu promenljivu u nekom trenutku;<br>a.plata = 3500.0
-printf("%L\n", a.plata);  // &gt;&gt; 3500.0
-printf("%s\n", a.indeks); // odštampaće 3500.0 - broj u pokretnom zarezu kao niz od 7 char-ova
-RunCopy<br>Često se koristi kao član strukture radi uštede prostora:<br>struct info {
-	long licni_broj;
-	char ime[31], prezime[31];
-	union {
-		double dug;
-		int broj_telefona;
-	} dodatno;
-};
-RunCopy<br>struct info niz[100];
-niz[32].dodatno.dug = 89.32;
-RunCopy<br><br>— tip sa malim brojem dopuštenih vrednosti;<br>Primer definicije:<br>enum znak_karte {
-	KARO, PIK, HERC, TREF
-};
-RunCopy<br>KARO ima vrednost 0, PIK — 1, HERC —2, TREF — 3.<br>Korišćenje:<br>enum znak_karte a, b = HERC;
-a = TREF;
-RunCopy<br>Vrednosti KARO, PIK, ...  nemoguće promeniti, samo zadati u definiciji:<br>enum rimske_cifre {
-	I = 1, II, III, IV, V, X = 10, XI, XII
-} c, niz[8];
-RunCopy<br>U primeru I = 1, II = 2, III = 3, IV = 4, V = 5, X = 10, XI = 11, XII = 12.<br><br>Primeri definicije:<br>typedef int Length;
-Length len, maxlen;       // deklaracija promenljivih
-RunCopy<br>typedef struct {
-	int x, y, z;
-} Point;
-Point a = {1, 0, 4}, b;   // deklaracija promenljivih
-b.z = 9;
-RunCopy]]></description><link>računarstvo\predstavljanje-podataka-i-operacije-nad-njima-(c).html</link><guid isPermaLink="false">Računarstvo/Predstavljanje podataka i operacije nad njima (C).md</guid><pubDate>Thu, 12 Sep 2024 20:07:56 GMT</pubDate><enclosure url="lib\media\promenljive.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\promenljive.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Računarstvo]]></title><description><![CDATA[<a class="tag" href="?query=tag:cs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs</a> 
- <br><a href=".?query=tag:cs" class="tag" target="_blank" rel="noopener">#cs</a>  [ <a data-href="Home" href="home.html" class="internal-link" target="_self" rel="noopener">Home</a> ]<br>
-<br><a data-href="Programski jezik C" href="programski-jezik-c.html" class="internal-link" target="_self" rel="noopener">Programski jezik C</a><br>Programske paradigme<br>
-Interpretacija i kompilacija<br>Izračunljivost funkcije<br>
-Ispravnost programa<br>
-<a data-href="Složenost algoritma" href="složenost-algoritma.html" class="internal-link" target="_self" rel="noopener">Složenost algoritma</a><br>Rekurzija<br>
-Osnovni algoritmi<br>
-Strukture podataka<br><a data-tooltip-position="top" aria-label="Normalne forme" data-href="Normalne forme" href="matematika\normalne-forme.html" class="internal-link" target="_self" rel="noopener">Digitalna logika</a>]]></description><link>računarstvo\računarstvo.html</link><guid isPermaLink="false">Računarstvo/Računarstvo.md</guid><pubDate>Thu, 12 Sep 2024 22:01:48 GMT</pubDate></item><item><title><![CDATA[Dinamička alokacija memorije (C)]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:cs/prog/c" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/prog/c</a> 
- <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:cs\prog\c" class="tag" target="_blank" rel="noopener">#cs/prog/c</a> [deo <a data-tooltip-position="top" aria-label="Programski jezik C" data-href="Programski jezik C" href="programski-jezik-c.html" class="internal-link" target="_self" rel="noopener">jezika C</a>]<br>
-]]></description><link>dinamička-alokacija-memorije-(c).html</link><guid isPermaLink="false">Dinamička alokacija memorije (C).md</guid><pubDate>Wed, 11 Sep 2024 00:40:58 GMT</pubDate></item><item><title><![CDATA[Home]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:home" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#home</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:laag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#laag</a> <a class="tag" href="?query=tag:ds1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ds1</a> <a class="tag" href="?query=tag:ds2" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ds2</a> <a class="tag" href="?query=tag:a1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#a1</a> <a class="tag" href="?query=tag:a2" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#a2</a> <a class="tag" href="?query=tag:cs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs</a> <a class="tag" href="?query=tag:cs/prog" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/prog</a> <a class="tag" href="?query=tag:cs/ar" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/ar</a> <a class="tag" href="?query=tag:cs/os" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/os</a> 
- <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:home" class="tag" target="_blank" rel="noopener">#home</a><br>
-<br><br><a href=".?query=tag:laag" class="tag" target="_blank" rel="noopener">#laag</a> <a href=".?query=tag:ds1" class="tag" target="_blank" rel="noopener">#ds1</a> <a href=".?query=tag:ds2" class="tag" target="_blank" rel="noopener">#ds2</a> <a href=".?query=tag:a1" class="tag" target="_blank" rel="noopener">#a1</a> <a href=".?query=tag:a2" class="tag" target="_blank" rel="noopener">#a2</a><br>
-<br><br><a href=".?query=tag:cs\prog" class="tag" target="_blank" rel="noopener">#cs/prog</a> <a href=".?query=tag:cs\ar" class="tag" target="_blank" rel="noopener">#cs/ar</a> <a href=".?query=tag:cs\os" class="tag" target="_blank" rel="noopener">#cs/os</a>]]></description><link>home.html</link><guid isPermaLink="false">Home.md</guid><pubDate>Wed, 11 Sep 2024 00:40:58 GMT</pubDate></item><item><title><![CDATA[Inverzna matrica]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:laag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#laag</a> 
- <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:laag" class="tag" target="_blank" rel="noopener">#laag</a> [deo poglavlja <a data-tooltip-position="top" aria-label="Matrica" data-href="Matrica" href="matematika\matrica.html" class="internal-link" target="_self" rel="noopener">"matrica"</a>]<br>
-<br>Def. Inverzna matrica (inverz) matrici  je matrica  ako važi <br>Tada su  i  invertibilni/regularni.<br>Teorema (svojstva invertibilnih matrica).<br>
-<br>
-<br>
-<br>
-<br>
-<br>  (Posledica Bine-Košijeve teoreme)
-<br><br><br>]]></description><link>inverzna-matrica.html</link><guid isPermaLink="false">Inverzna matrica.md</guid><pubDate>Wed, 11 Sep 2024 22:18:23 GMT</pubDate></item><item><title><![CDATA[Linearna algebra]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:laag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#laag</a> 
- <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:laag" class="tag" target="_blank" rel="noopener">#laag</a> [deo <a data-tooltip-position="top" aria-label="Matematika" data-href="Matematika" href="matematika\matematika.html" class="internal-link" target="_self" rel="noopener">matematike</a>]<br>
-<br><a data-href="Vektor" href="matematika\vektor.html" class="internal-link" target="_self" rel="noopener">Vektor</a><br>
-<a data-href="Matrica" href="matematika\matrica.html" class="internal-link" target="_self" rel="noopener">Matrica</a> (<a data-tooltip-position="top" aria-label="Kvadratna matrica" data-href="Kvadratna matrica" href="matematika\kvadratna-matrica.html" class="internal-link" target="_self" rel="noopener">kvadratna</a>)<br>
-<a data-href="Vektorski prostor" href="matematika\vektorski-prostor.html" class="internal-link" target="_self" rel="noopener">Vektorski prostor</a><br>
-<a data-tooltip-position="top" aria-label="Algebra nad poljem" data-href="Algebra nad poljem" href="matematika\algebra-nad-poljem.html" class="internal-link" target="_self" rel="noopener">Algebra</a><br>
-Linearni operator<br>
-Sistem linearnih jednačina<br>
-Karakteristični i minimalni polinom<br>
-Unitarni prostor<br>
-Bilinearna i kvadratna forma]]></description><link>linearna-algebra.html</link><guid isPermaLink="false">Linearna algebra.md</guid><pubDate>Fri, 13 Sep 2024 13:08:03 GMT</pubDate></item><item><title><![CDATA[Organizacija izvornog koda (C)]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:cs/prog/c" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/prog/c</a> <a class="tag" href="?query=tag:todo" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#todo</a> 
- <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:cs\prog\c" class="tag" target="_blank" rel="noopener">#cs/prog/c</a> [deo <a data-tooltip-position="top" aria-label="Programski jezik C" data-href="Programski jezik C" href="programski-jezik-c.html" class="internal-link" target="_self" rel="noopener">jezika C</a>]<br>
+Uvek je moguće napisati kod bez break i continue;]]></description><link>računarstvo\naredbe-i-kontrola-toka-(c).html</link><guid isPermaLink="false">Računarstvo/Naredbe i kontrola toka (C).md</guid><pubDate>Wed, 11 Sep 2024 00:40:58 GMT</pubDate></item><item><title><![CDATA[Organizacija izvornog koda (C)]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:cs/prog/c" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/prog/c</a> <a class="tag" href="?query=tag:todo" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#todo</a> 
+ <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:cs\prog\c" class="tag" target="_blank" rel="noopener">#cs/prog/c</a> [deo <a data-tooltip-position="top" aria-label="Programski jezik C" data-href="Programski jezik C" href="računarstvo\programski-jezik-c.html" class="internal-link" target="_self" rel="noopener">jezika C</a>]<br>
 <br><br>
 <br>
 PRETPROCESIRANJE — jednostavne <a data-tooltip-position="top" aria-label="Makroi i uslovno prevođenje (C)" data-href="Makroi i uslovno prevođenje (C)" href="računarstvo\makroi-i-uslovno-prevođenje-(c).html" class="internal-link" target="_self" rel="noopener">zamene</a> u tekstu programa. Objedinjava kod iz različitih datoteka (#include) u jedinici prevođenja.
@@ -2734,9 +2550,9 @@ main.o : main.c liste.h
 Copy<br><br>make određuje zavisnost datoteka, tako što<br>fajl1 : fajle_od_kojih_zavisi_fajl1
 	gcc kako se kreira fajl
 Copy<br>Prvim treba navesti ciljni fajl.<br>
-make će kreirati stablo zavisnosti i gledajući na vreme poslednje promene datoteka će izvršavati samo potrebne komande u potrebnom redosledu.<br>U primeru ako se promenio main.c, prvo će biti izvršeno gcc -c main.c da bi se dobio main.o pa će izvršiti gcc -o program main.o liste.o.]]></description><link>organizacija-izvornog-koda-(c).html</link><guid isPermaLink="false">Organizacija izvornog koda (C).md</guid><pubDate>Thu, 12 Sep 2024 22:02:48 GMT</pubDate></item><item><title><![CDATA[Organizacija memorije (C)]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:cs/prog/c" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/prog/c</a> <a class="tag" href="?query=tag:todo" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#todo</a> 
- <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:cs\prog\c" class="tag" target="_blank" rel="noopener">#cs/prog/c</a> [deo <a data-tooltip-position="top" aria-label="Programski jezik C" data-href="Programski jezik C" href="programski-jezik-c.html" class="internal-link" target="_self" rel="noopener">jezika C</a>]<br>
-<br><br><br>— mašinski kod programa zaštićen od pisanja<br><br>— globalne, statičke lokalne promenljive, konstantni podaci: konstantni niske.<br><br>— <a data-tooltip-position="top" aria-label="Dinamička alokacija memorije (C)" data-href="Dinamička alokacija memorije (C)" href="dinamička-alokacija-memorije-(c).html" class="internal-link" target="_self" rel="noopener">dinamička alokacija memorije</a><br><br>— prostor za funkcije<br>
+make će kreirati stablo zavisnosti i gledajući na vreme poslednje promene datoteka će izvršavati samo potrebne komande u potrebnom redosledu.<br>U primeru ako se promenio main.c, prvo će biti izvršeno gcc -c main.c da bi se dobio main.o pa će izvršiti gcc -o program main.o liste.o.]]></description><link>računarstvo\organizacija-izvornog-koda-(c).html</link><guid isPermaLink="false">Računarstvo/Organizacija izvornog koda (C).md</guid><pubDate>Thu, 12 Sep 2024 22:02:48 GMT</pubDate></item><item><title><![CDATA[Organizacija memorije (C)]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:cs/prog/c" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/prog/c</a> <a class="tag" href="?query=tag:todo" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#todo</a> 
+ <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:cs\prog\c" class="tag" target="_blank" rel="noopener">#cs/prog/c</a> [deo <a data-tooltip-position="top" aria-label="Programski jezik C" data-href="Programski jezik C" href="računarstvo\programski-jezik-c.html" class="internal-link" target="_self" rel="noopener">jezika C</a>]<br>
+<br><br><br>— mašinski kod programa zaštićen od pisanja<br><br>— globalne, statičke lokalne promenljive, konstantni podaci: konstantni niske.<br><br>— <a data-tooltip-position="top" aria-label="Dinamička alokacija memorije (C)" data-href="Dinamička alokacija memorije (C)" href="računarstvo\dinamička-alokacija-memorije-(c).html" class="internal-link" target="_self" rel="noopener">dinamička alokacija memorije</a><br><br>— prostor za funkcije<br>
 Prilikom jednog poziva funkcije kreira se stek okvir, koji sadrži:<br>
 <br>argumente funkcije (za to se koriste i registri)
 <br>lokalne promenljive
@@ -2744,17 +2560,465 @@ Prilikom jednog poziva funkcije kreira se stek okvir, koji sadrži:<br>
 <br>adresa povratka (skok na kraju fje) — moguće i preko registra
 <br>adresa stek okvira funkcije-pozivaoca.
 <br>pri pozivanju neke funkcije koja ne može da se vrati rezultat preko registra, mesto za upisivanje rezultata u trenutnoj funkciji. 
-<br>“stek.png” could not be found. <a href=".?query=tag:todo" class="tag" target="_blank" rel="noopener">#todo</a>]]></description><link>organizacija-memorije-(c).html</link><guid isPermaLink="false">Organizacija memorije (C).md</guid><pubDate>Thu, 12 Sep 2024 16:45:09 GMT</pubDate></item><item><title><![CDATA[Pokazivači (C)]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:cs/prog/c" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/prog/c</a> 
- <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:cs\prog\c" class="tag" target="_blank" rel="noopener">#cs/prog/c</a> [deo <a data-tooltip-position="top" aria-label="Programski jezik C" data-href="Programski jezik C" href="programski-jezik-c.html" class="internal-link" target="_self" rel="noopener">jezika C</a>]<br>
-]]></description><link>pokazivači-(c).html</link><guid isPermaLink="false">Pokazivači (C).md</guid><pubDate>Wed, 11 Sep 2024 00:40:58 GMT</pubDate></item><item><title><![CDATA[Programski jezik C]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:cs/prog/c" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/prog/c</a> 
+<br>“stek.png” could not be found. <a href=".?query=tag:todo" class="tag" target="_blank" rel="noopener">#todo</a>]]></description><link>računarstvo\organizacija-memorije-(c).html</link><guid isPermaLink="false">Računarstvo/Organizacija memorije (C).md</guid><pubDate>Fri, 13 Sep 2024 14:05:47 GMT</pubDate></item><item><title><![CDATA[Pokazivači (C)]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:cs/prog/c" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/prog/c</a> <a class="tag" href="?query=tag:todo" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#todo</a> 
+ <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:cs\prog\c" class="tag" target="_blank" rel="noopener">#cs/prog/c</a> [deo <a data-tooltip-position="top" aria-label="Programski jezik C" data-href="Programski jezik C" href="računarstvo\programski-jezik-c.html" class="internal-link" target="_self" rel="noopener">jezika C</a>]<br>
+<br>
+— vrednosti su memorijske adrese.<br>
+(4B — 32bit računar, 8B — 64bit računar)<br>int *p1;
+int* p2;
+int* p3, p4;
+
+// p1, p2, p3 su pokazivači na int
+// p4 je tipa int
+RunCopy<br>Operator referenciranja &amp;:<br>int a = 10, *p;
+p = &amp;a;        // adresa a se zapisuje u p
+RunCopy<br>Operator dereferenciranja *:<br>*p = 5;        // a će postati 5
+RunCopy<br>Opšti (generički) pokazivač void*:<br>
+— pokazivač bez tipa, koji ne možemo koristiti bez <a data-tooltip-position="top" aria-label="Predstavljanje podataka i operacije nad njima (C) > ^fb3fd7" data-href="Predstavljanje podataka i operacije nad njima (C)#^fb3fd7" href="računarstvo\predstavljanje-podataka-i-operacije-nad-njima-(c).html#^fb3fd7" class="internal-link" target="_self" rel="noopener">konvertiranja</a> u potreban tip. <br>void* pa = &amp;a;
+// greška: *pa = 15;
+RunCopy<br>Pokazivač ni na šta:<br>p = NULL;
+RunCopy<br>const:<br>int* const pb = &amp;b;
+//konstantni pokazivač; greška: pb = &amp;c;
+
+const int* pc;       
+//pokazivač preko kojeg nije moguće menjati promenljivu na koju on pokazuje (greška: *pc = 5;), samo čitati
+RunCopy<br><br>
+Primer korišćenja pokazivača — swap:<br>void swap(int *pa, int *pb) {
+	int tmp = *pa;
+	*pa = *pb;
+	*pb = tmp;
+}
+
+int main() {
+	int a = 5, b = 9;
+	swap(&amp;a, &amp;b);
+	printf("%d %d\n", a, b);
+	return 0;
+}
+RunCopy<br><br>tip *p, *q;
+int i;
+              //neformanlo,
+              //u apsolutnim veličinama:
+q = p + i     //p + i*sizeof(tip)
+i = p - q;    //(p - q)/sizeof(tip)
+RunCopy<br>
+<br>
+pokazivač p nekog tipa +/- ceo broj i je vrednost p (adresa) pomerena udesno/ulevo na i prostora veličine tog tipa.
+
+<br>
+razlika dva pokazivača istog tipa je tipa int i jednaka je broju prostora veličine tog tipa između njihovih vrednosti.
+
+<br>int main() {
+	int a[] = {26, 54, 89};
+	int *p = &amp;(a[0]);
+	int *q = &amp;(a[2]);
+	printf("%d ", q-p);
+	p++;
+	printf("%d\n", *p);
+	return 0;
+}
+// ispis: 2 54
+RunCopy<br><br>int a[10], *pa, i;
+pa = a;      // isto što i pa = &amp;a[0]
+RunCopy<br>ime niza se konvertuje u pokazivač na 0-ti element niza osim u dva slučaja:<br>sizeof(a)    // 40 - koliko prostora zauzima ceo niz
+sizeof(pa)   // 8 - koliko prostora zauzima pokazivač
+RunCopy<br>&amp;a           // pokazivač na ceo niz;
+             // ima istu adresnu vrednost što i pa;
+             // ali tip je int (*)[10]
+             
+             //zbog implicitne kovertacije tipova
+             //(pa = a;) je isto što i (pa = &amp;a;)
+             
+&amp;pa          // pokazivač na pokazivač;
+             // tip je int**
+RunCopy<br>U ostalim slučajevima ime niza moguće koristi kao pokazivač i obratno pokazivač moguće koristiti kao ime niza pri pristupanju elemenata, na primer pa[3].<br>Sledeći izrazi su ekvivalentni (uz nastavak primera):<br>  a + i  = &amp;a[i] =   pa + i  = &amp;pa[i]  //adresa
+*(a + i) =  a[i] = *(pa + i) =  pa[i]  //element niza
+RunCopy<br><br>int *a[10];     // niz od 10 pokazivača na int
+int (*b)[10];   // pokazivač na niz od 10 int-ova
+                // tip je int (*)[10]
+
+int niz[10];
+b = &amp;niz;
+
+// b + 2 ima vrednost b + veličina 2 niza od 10 int-ova, tj u absolutnim vrednostima b + 80
+
+// b[2] je niz od 10 elementa na absolutnoj adresi b + 80 (izvne deklarisanog, samo za primer), konvertuje se u pokazivač na nulti element tog niza.
+
+// (*b)[3] je isto što i niz[3]
+RunCopy<br><br>int d[dim1][dim2][dim3]..;
+RunCopy<br>d se konvertuje u pokazivač na 0-ti element niza d - niz tipa int (*)[dim2][dim3]..<br>Primer:<br>int A[10][20];
+RunCopy<br>Neka niz A počinje sa adrese 0, tada<br>izraz         tip               vrednost
+
+&amp;A[0][2]      int*              8
+&amp;A[2][0]      int*              2*20*4 = 160
+&amp;A[2][6]      int*              (2*20 + 6)*4 = 184
+
+
+A[2]          int[20]
+              //konvertuje se:
+              int*              160
+A[2] + 6      int*              160 + 6*4 = 184
+
+
+&amp;A[2]         int (*)[20]       160
+&amp;A[2] + 6     int (*)[20]       160 + 6*20*4 = 640 
+
+
+A             int[10][20]      
+              //konvertuje se:
+	          int (*)[20]       0
+A + 6         int (*)[20]       0 + 6*20*4 = 480
+
+
+&amp;A            int (*)[10][20]   0
+&amp;A + 6        int (*)[10][20]   0 + 6*10*20*4 = 4800
+RunCopy<br><br>Konstantne niske se čuvaju u <a data-tooltip-position="top" aria-label="Organizacija memorije (C) > Segment podataka (.data i .BSS)" data-href="Organizacija memorije (C)#Segment podataka (.data i .BSS)" href="računarstvo\organizacija-memorije-(c).html#Segment_podataka_(.data_i_.BSS)" class="internal-link" target="_self" rel="noopener">segmentu podataka</a>, niska navedena u tekstu programa u " " se konvertuje u pokazivač (tipa char*) na njen početak u segmentu podataka.<br>
+Konstantne niske je nemoguće menjati.<br>printf("%d", x);  // prvi argument je tipa char*
+
+cahr* p = "informatika";
+//greška: p[5] - 'k';
+p++;
+printf("%s", p);  //ispis: nformatika
+RunCopy<br>char a[] = "informatika"; // u stek okviru kreira se niz dužine 12 i popunjava se karakterima konstantne niske: a[0] = 'i', ..., a[11] = '\0'.
+// nisku a već možemo da menjamo (karakrer po karakter)
+RunCopy<br>implementacija strcpy:<br>void strcpy(char *a, const char* b) {
+	while (*(a++) = *(b++));
+}
+...
+//pozivi:
+char s[20], t[20].
+strcpy(s, "informatika");
+strcpy(t, s)
+RunCopy<br>Niz niski:<br>
+“niz_niski.png” could not be found. <a href=".?query=tag:todo" class="tag" target="_blank" rel="noopener">#todo</a><br><br>— omogućavaju slanje funkcije kao argument druge funkcije.<br>//prototip funkcije koja vraća pokazivač na double:
+double *a(int, float);
+
+//deklaracija pokazivača na funkciju koja uzima int i float i vraća double:
+double (*a)(int, float);
+//a je tipa double (*)(int, float)
+
+//deklaracija niza pokazivača na funkciju koja uzima int i float i vraća double:
+double (*a[3])(int, float);
+RunCopy<br>Isti operatori referenciranja &amp; i dereferenciranja *.<br>U praktici oni se ne koriste jer ime funkcije, koje je napisano bez ( ), automatski se konvertuje u pokazivač na tu funkciju, i obratno pokazivač, koji je napisan ca ( ), ponaša kao funkcija, na koju pokazuje.<br>Primer korišćenja:<br>#include &lt;stdio.h&gt;
+#define N 5
+
+void ucitaj_niz(int* niz, int n) {
+	int i;
+	for (i = 0; i &lt; n; i++)
+		scanf("%d", niz + i);
+}
+
+void ispisi_niz(int* niz, int n) {
+	int i;
+	for (i = 0; i &lt; n; i++)
+		printf("%d ", niz[i]);
+	printf("\n");
+}
+
+int Sum(int a, int b) { return a + b; }
+int Mul(int a, int b) { return a * b; }
+int Div(int a, int b) { return a / b; }
+int Mod(int a, int b) { return a % b; }
+
+void map(int* niz_ulaz, int* niz_izlaz, int n, int (*op)(int, int), int k) {
+	int i;
+	for (i = 0; i &lt; n; i++)
+		niz_izlaz[i] = op(niz_ulaz[i], k);
+}
+
+int main() {
+	int b[N], k;
+	int a[N]={13, 54, 19, 77, 92}; //ucitaj_niz(a, N);
+	k = 10;                        //scanf("%d", &amp;k);
+	
+	map(a, b, N, Sum, k); ispisi_niz(b, N);
+	map(a, b, N, Mul, k); ispisi_niz(b, N);
+	map(a, b, N, Div, k); ispisi_niz(b, N);
+	map(a, b, N, Mod, k); ispisi_niz(b, N);
+	
+	return 0;
+}
+RunCopy]]></description><link>računarstvo\pokazivači-(c).html</link><guid isPermaLink="false">Računarstvo/Pokazivači (C).md</guid><pubDate>Sat, 14 Sep 2024 19:41:47 GMT</pubDate></item><item><title><![CDATA[Predstavljanje podataka i operacije nad njima (C)]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:cs/prog/c" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/prog/c</a> 
+ <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:cs\prog\c" class="tag" target="_blank" rel="noopener">#cs/prog/c</a> [deo <a data-tooltip-position="top" aria-label="Programski jezik C" data-href="Programski jezik C" href="računarstvo\programski-jezik-c.html" class="internal-link" target="_self" rel="noopener">jezika C</a>]<br>
+<br><br>
+<br>moraju biti deklarisane pre korišćenja.
+<br>pridružen prostor u memoriji
+<br>ime: prvi simbol _ ili slovo, ostale _, slova ili cifre
+<br>Deklaracija: <br>int a, b;
+RunCopy<br>Deklaracija sa inicijalizacijom: <br>int a = 3;
+RunCopy<br>Konstanta: <br>const double G = 9.81;
+double const G = 9.81;
+RunCopy<br><img alt="promenljive.png" src="lib\media\promenljive.png"><br><br>Celobrojne tipovi u rastućem poretku prema dužine:<br>short
+int            //standardni tip
+long         
+long long
+RunCopy<br>Dodatno pre tima moguće napisati:<br>signed         //označeni - isto kao što ne pisati ništa
+unsigned       //neoznačeni
+RunCopy<br><br>Tip za karaktere, ali u suštini jednobitni celobrojni tip:<br>(signed/unsigned) char
+RunCopy<br><br>Pokretan zarez (IEEE754 standard - uklj. )<br>float
+double         //standardni tip
+long double 
+RunCopy<br><br>
+Druge tipovi<br>bool           //logički tip - true/false
+void           //ništa
+RunCopy<br><br>Na primer: 2, 207, 3.14, 1.4e6, '9', 034<br><br>12345   - int (-&gt; long -&gt; unsigned long) 
+		  // u zavisnosti od veličine broja
+12345l  - long
+12345L  - long long
+12345u  - unsigned int
+12345ul - unsigned long 
+RunCopy<br>U oktalnom i heksadekadnom sistemu (moguće kombinovati sa l, L, u, ... )<br>056     - oktalni (int)
+0x1f    - heksadekadni (int)
+RunCopy<br>Negativne konstante ne postoje: koristi se unitarni operator -.<br>
+Na primer -678<br><br>13.45   - double
+1e-2    - double        // = 0.01
+1.45e6  - double        // = 1450000.0
+.3      - double        // = 0.3
+2.      - double        // = 2.0
+
+13.45f  - float         // (f ili F)
+13.45l  - long double   // (l ili L)
+RunCopy<br>Mogu biti i pozitivne i negativne .<br><br>'a'     - int           // = 97
+'A'     - int           // = 65
+'0'     - int           // = 48
+RunCopy<br>Specijalni simboli:<br>
+'\n' — new line<br>
+'\t' — horizontal tab<br>
+'\v' — vertical tab<br>
+'\\' — \<br>
+'\?' — ?<br>
+'\'' — '<br>
+'\"' — "<br>
+'\012' — oktalni broj<br>
+'\x12' — heksadekadni broj<br>
+'\0' — vrednost , kraj niske<br><br>Na primer: 4 + 3 * 5<br>
+Konstantne izrazi izračunavaju se tokom prevođenja programa.<br><br>Arnost operatora — broj operanada na koje se pimenjuje.<br>
+<br>unarni
+
+<br>prefiksni (-x)
+<br>postfiksni (x++)
+
+
+<br>binarni (x + y)
+<br>ternarni (x ? y : z)<br>
+
+<br>Operatori nad brojevima:<br>
+<br>aritmetičke
+<br>logičke
+<br>relacijske
+<br><a data-tooltip-position="top" aria-label="Prioritet operatora (C).png" data-href="Prioritet operatora (C).png" href="media\prioritet-operatora-(c).png" class="internal-link" target="_self" rel="noopener">Prioritet operatora</a><br>
+<br>Unarni postfiksni pa unarni prefiksni pa binarni
+<br>Aritmetički pa relacijski pa logički
+<br>Kao u matematici: ( ), * i / i %, + i -
+<br>&lt; i &lt;= i &gt; i &gt;= pa == i !=
+<br>Najmanji prioritet: ? : pa dodele pa ,<br>
+
+<br>Asocijativnost operatora:<br>
+<br>leva: 
+<br>desna: 
+<br>neasocijativan: zabranjeno uzastopnost ponavljanje.
+<br><br>x = ...;     //x je izmenjiva l-vrednost (promenljiva)
+RunCopy<br>promena vrednosti objekata na levoj strani je sporedni efekat (side effect).<br>Ima desnu asocijativnost.<br>Dodela ima vrednost: <br>x = y = 3;  //y = 3 ima vrednost 3 koja se dodeljuje x-u
+RunCopy<br>int a;
+double b = a = 3.5;
+RunCopy<br>Prvo a-u se dodeljuje vrednost 3;<br>
+a = 3.5 ima vrednost 3;<br>
+Posle b-u se dodeljuje vrednost a = 3.5 tj. 3;<br>
+Rezultat: a = 3; b = 3.0<br><br>+ — binarni operator sabiranja;<br>
+- — binarni operator oduzimanja;<br>
+* — binarni operator množenja;<br>
+% — binarni operator ostatka pri deljenju (oba operanda celi);<br>
+/ — binarni operator:<br>
+<br>celobrojnog deljenja, ako su oba operanda celi;
+<br>deljena, ako je bar jedan operand broj u pokretnom zarezu;
+<br>+ — unarni operator;<br>
+- — unarni operator promene znaka;<br>Svi  aritmetički operatori gore imaju levu asocijativnost, dole — desnu.<br>++ — prefiksno ili postfiksno inkrementiranje;<br>
+-- — prefiksno ili postfiksno dekrementiranje;<br>           i = 5;
+I slučaj            II slučaj
+x = i++;            x = ++i;
+          Rezultat
+i == 6              i == 6
+x == 5              x == 6
+RunCopy<br>i++ ima vrednost i do inkr.;  i-- ima vrednost i do dekr.;<br>
+++i ima vrednost i posle inkr.;  --i ima vrednost i posle dekr.<br><br>== — jednako;<br>
+!= — različito;<br>
+&lt; — manje;<br>
+&lt;= — manje ili jednako;<br>
+&gt; — veće;<br>
+&gt;= — veće ili jednako;<br>Imaju levu asocijativnost.<br>Ako je tačno ima vrednost 1 (int).<br>
+Ako nije tačno ima vrednost 0 (int).<br>Na primer: <br><br>! — <a data-tooltip-position="top" aria-label="Logičke operacije > ^b24d81" data-href="Logičke operacije#^b24d81" href="matematika\logičke-operacije.html#^b24d81" class="internal-link" target="_self" rel="noopener">logičko ne</a>;<br>
+&amp;&amp; — <a data-tooltip-position="top" aria-label="Logičke operacije > ^96b28f" data-href="Logičke operacije#^96b28f" href="matematika\logičke-operacije.html#^96b28f" class="internal-link" target="_self" rel="noopener">logičko i</a>;<br>
+|| — <a data-tooltip-position="top" aria-label="Logičke operacije > ^66b381" data-href="Logičke operacije#^66b381" href="matematika\logičke-operacije.html#^66b381" class="internal-link" target="_self" rel="noopener">logičko ili</a>;<br>Svaka ne-nula vrednost se računa kao1<br>Na primer:<br>
+<br>!0 je 1;  !1 je 0;  !9.2 je 0;
+<br>5 &amp;&amp; 4.3 je 1;  3.1 &amp;&amp; 0 je 0;
+<br>10 || 0 je 1;  0 || 0 je 0.
+<br>
+
+Sleva nadesno:<br>
+U operatorima &amp;&amp; i || prvo se računa leva strana i ako rezultat ne zavisi od desne strane, desna strana i ne računa se.
+Na primer:
+
+<br> ( neće biti uvršeno)
+<br> ( sigurno će biti uvršeno)
+<br> (slično  neće biti uvršeno)
+
+<br><br>~ — bitovska negacija;<br>
+&amp; — bitovsko i;<br>
+| — bitovsko ili;<br>
+^ — bitovski XOR;<br>
+&lt;&lt; — pomeranje bitova ulevo;<br>
+&gt;&gt; — pomeranje bitova udesno;<br>x &lt;&lt; k — pomeranje bitova broja x sa k mesta ulevo.<br>
+x &gt;&gt; k — pomeranje bitova broja x sa k mesta udesno:<br>
+<br>ako je x tipa int aritmetičko — na viši (oslobođeni) bitovi stavlja se bit znaka.
+<br>ako je x tipa unsigned logičko — na viši (oslobođeni) bitovi stavlja se 0.
+<br>x može biti konstanta ili promenljiva. &lt;&lt; i &gt;&gt; ne menjaju x.<br><br>izraz1 op= izraz2 isto što i izraz1 = izraz1 op ipraz2<br><br>Prvo se izračunava izraz1.<br>
+Ako je ne-nula, onda se izračunava izraz2 i to je vrednost operatora.<br>
+Inače se izračunava izraz3 i to je vrednost operatora.<br><br>for (i = 10, j = 0; i &lt; j; i++, j--) { ...; }
+RunCopy<br>ima najniži prioritet;<br>
+računaju se i leva i desna strana;<br>
+vrednost operatora je vrednost desne strane.<br>x = 1, 2; je isto što i x = 2;<br>
+x = 3, y = 5; je isto što i x = 3; y = 5;<br><br>veličina tipa ili promenljive u bajtovima;<br>
+vrača vrednost tipa size_t (sličan sa unsigned).<br>double a;
+size_t x = sizeof(a);
+size_t y = sizeof(int);
+RunCopy<br><br>— menja se tip izraza, ne menja se tip promenljivih.<br>
+<br>Eksplicitna konverzija (na zahtev programera)<br>
+Operator kastovanja: (tip) izraz<br>
+— prefiksni unarni operator<br>
+ 
+<br>Implicitna konverzija (izvršava se automatski po potrebi)
+<br>
+<br>konverzija u tip leve strane:
+<br>int a = 46;
+double b;
+b = a;          
+// pre upisivanja vrednost a se konvertuje u double.
+RunCopy<br>
+<br>aritmetičke operatori se ne primenjuju na char i short
+<br>char a = 2, b = 3, c;
+c = a + b; 
+// vrednost a se konvertuje u int, vrednost b se konvertuje u int, računa se zbir, vrednost zbira se konvertuje u char i upisuje se u c.
+RunCopy<br>
+<br>aritmetički i logički operatori zahtevaju operandi u istom tipu, tako jedan od operanada se konvertuje u tip drugog, koji ima "bogatiji" tip.
+<br>char a = 2; double b = 7.9; 
+b = (a + 5.6f) / b;
+// vrednost a se konvertuje u float, računa se zbir, vrednost zbira se konvertuje u double, računa se količnik i rezultat se upisuje u b.
+RunCopy<br><br>Promocija — konverzija u "bogatiji" tip — obično ne dolazi do gubitka.<br>
+Na primer može doći do gubitka pri konverziji velikog broja tipa long u tip double;<br>Democija — konverzija u "siromašniji" tip — često dolazi do gubitka.<br>
+Na primer pri konverziji broja tipa double ili float u tip int odsecaju se decimale: int a = 8.31f — a će dobiti vrednost 8.<br><br><br>Deklaracija niza:<br>tip ime_niza[dimenzija];
+RunCopy<br>dimenzija mora da bude konstantan ceo broj;<br>
+na primer: a[10], tada su elementi niza a[0], a[1], ..., a[9],<br>ili <br>tip ime_niza[] = {el0, el1, ..., elN};
+RunCopy<br>moguće navesti svih N+1 elemenata u { };<br>
+na primer:<br>int b[] = {1, 3, 11, 4, 8}; 
+RunCopy<br><br><br>sizeof(ime_niza);   # veličina celog niza u bajtovima
+RunCopy<br>Nemoguće dodeljivati/menjati nizove, ali moguće menjati svaki element niza.<br>ime_niza bez [ ] konvertuje se u pokazivač na nulti element niza. <br>Elementi niza su u memoriji uređeni uzastopno.<br><br>nulti element je na adresi ime_niza<br>
+prvi element je na adresi ime_niza + 1 * sizeof(tip)<br>
+drugi element je na adresi ime_niza + 2 * sizeof(tip)<br>
+...<br>
+n-ti element je na adresi ime_niza + n * sizeof(tip)<br>Treba paziti da ne pristupamo elementima van niza,<br>
+na primer b[-1] ili b[6]<br><br>Niska je niz karaktera koji se završava terminirajućem nulom '\0'.<br>Sledeće inicijalizacije niski su ekvivalentne:<br>char s1[] = "Zdravo";
+char s2[] = {'Z', 'd', 'r', 'a', 'v', 'o', '\0'};
+RunCopy<br>'x' = 120 je karakter;<br>
+"x" = {'x', '\0'} je niska;<br>'\0' = 0<br>printf("547", " + as"); je isto što i printf("547 + as");<br>biblioteka za rad sa niskama <a class="internal-link" data-href="Standardne biblioteke (C).md" href="standardne-biblioteke-(c).html" target="_self" rel="noopener"><code></code></a>&lt;string.h&gt;:<br>dužina niske: strlen(a)<br>
+kopiranje niske a u nisku b: strcpy(b, a)<br>
+(duža b mora da bude dovoljna, inače će doći do greške ili do neočekivanog ponašanja)<br><br>tip ime_niza[dim_1][dim2]...;
+RunCopy<br>Na primer:<br>char a[2][3] = {
+	{1, 2, 3},
+	{4, 5, 6},
+}
+RunCopy<br>Poštuje se uzastopnost u memoriji.<br>
+Niz a u memoriji će biti predstavljen isto kao i sledeći niz<br>int b = {1, 2, 3, 4, 5, 6}
+RunCopy<br>ali pristup elementima je različit.<br>a pokazuje na nulti element niza — niz od tri int-a.<br><br><br>— objedinjavaju jednu ili više promenljivih, ne nužno istog tipa.<br>Definicija strukture:<br>struct ime_structure {
+	//deklaracija promenljivih, nizova i drugih već definisanih struktura;
+};
+RunCopy<br>Primer:<br>struct razlomak {
+	int brojilac;
+	int imenilac;
+};
+RunCopy<br>posle toga postoji tip struct razlomak;<br>
+deklaracija promenjivih:<br>struct razlomak a = {1, 2}, b, c;
+struct razlomak niz[100];
+RunCopy<br>
+Istovremeno definisanje strukture i deklaracija promenljivih (važi za sve korisnički definisane tipove):
+struct razlomak {
+	int brojilac, imenilac;
+} a = {1, 2}, b, c;
+RunCopy
+<br>Veličina strukture u bitovima:<br>sizeof(struct razlomak);
+sizeof(b);
+RunCopy<br><br>Operatori . i -&gt; — pristupanje elementima strukture.<br>
+— najviši prioritet, leva asocijativnost.<br>a.imenilac = 6;
+niz[45].brojilac = 90;
+RunCopy<br>Ako je pa pokazivač na promenljivu a (pa = &amp;a;).<br>
+Tada moguće pristupiti direktno:<br>pa-&gt;brojilac = 34;
+RunCopy<br>isto što i:<br>(*pa).brojilac = 34;
+RunCopy<br><br>— struktura u kojoj za svaku promenljivu određen broj bitova.<br>struct nugaonik {
+	unsigned char br_strana : 4;
+	unsigned char boja      : 2;
+	unsigned char popunjen  : 1;
+}
+RunCopy<br>Promenljiva će zauzeti 4+2+1 = 7 bitova;<br>
+broj bajtova mora biti celi zato sizeof(struct nugaonik) će biti 1 (bajt).<br><br>— istovremeno korišćenje istog prostora nekolikim promenljivima.<br>Primer definicije unije:<br>union student {
+	double plata;
+	char index[7];
+};
+RunCopy<br>deklaracija promenjivih:<br>union student a, matf[300];
+RunCopy<br>Moguće koristiti samo jednu promenljivu u nekom trenutku;<br>a.plata = 3500.0
+printf("%L\n", a.plata);  // &gt;&gt; 3500.0
+printf("%s\n", a.indeks); // odštampaće 3500.0 - broj u pokretnom zarezu kao niz od 7 char-ova
+RunCopy<br>Često se koristi kao član strukture radi uštede prostora:<br>struct info {
+	long licni_broj;
+	char ime[31], prezime[31];
+	union {
+		double dug;
+		int broj_telefona;
+	} dodatno;
+};
+RunCopy<br>struct info niz[100];
+niz[32].dodatno.dug = 89.32;
+RunCopy<br><br>— tip sa malim brojem dopuštenih vrednosti;<br>Primer definicije:<br>enum znak_karte {
+	KARO, PIK, HERC, TREF
+};
+RunCopy<br>KARO ima vrednost 0, PIK — 1, HERC —2, TREF — 3.<br>Korišćenje:<br>enum znak_karte a, b = HERC;
+a = TREF;
+RunCopy<br>Vrednosti KARO, PIK, ...  nemoguće promeniti, samo zadati u definiciji:<br>enum rimske_cifre {
+	I = 1, II, III, IV, V, X = 10, XI, XII
+} c, niz[8];
+RunCopy<br>U primeru I = 1, II = 2, III = 3, IV = 4, V = 5, X = 10, XI = 11, XII = 12.<br><br>Primeri definicije:<br>typedef int Length;
+Length len, maxlen;       // deklaracija promenljivih
+RunCopy<br>typedef struct {
+	int x, y, z;
+} Point;
+Point a = {1, 0, 4}, b;   // deklaracija promenljivih
+b.z = 9;
+RunCopy]]></description><link>računarstvo\predstavljanje-podataka-i-operacije-nad-njima-(c).html</link><guid isPermaLink="false">Računarstvo/Predstavljanje podataka i operacije nad njima (C).md</guid><pubDate>Fri, 13 Sep 2024 19:03:32 GMT</pubDate><enclosure url="lib\media\promenljive.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\promenljive.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Programski jezik C]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:cs/prog/c" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/prog/c</a> 
  <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:cs\prog\c" class="tag" target="_blank" rel="noopener">#cs/prog/c</a> [deo <a data-tooltip-position="top" aria-label="Računarstvo" data-href="Računarstvo" href="računarstvo\računarstvo.html" class="internal-link" target="_self" rel="noopener">računarstva</a>]<br>
-<br><br><br><br><br><br><br><br><br><br><br><br>]]></description><link>programski-jezik-c.html</link><guid isPermaLink="false">Programski jezik C.md</guid><pubDate>Thu, 12 Sep 2024 20:08:35 GMT</pubDate></item><item><title><![CDATA[Složenost algoritma]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:cs/prog" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/prog</a> 
+<br><br><br><br><br><br><br><br><br><br><br><br>]]></description><link>računarstvo\programski-jezik-c.html</link><guid isPermaLink="false">Računarstvo/Programski jezik C.md</guid><pubDate>Sun, 15 Sep 2024 02:06:11 GMT</pubDate></item><item><title><![CDATA[Računarstvo]]></title><description><![CDATA[<a class="tag" href="?query=tag:cs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs</a> 
+ <br><a href=".?query=tag:cs" class="tag" target="_blank" rel="noopener">#cs</a>  [ <a data-href="Home" href="home.html" class="internal-link" target="_self" rel="noopener">Home</a> ]<br>
+<br><a data-href="Programski jezik C" href="računarstvo\programski-jezik-c.html" class="internal-link" target="_self" rel="noopener">Programski jezik C</a><br>Programske paradigme<br>
+Interpretacija i kompilacija<br>Izračunljivost funkcije<br>
+Ispravnost programa<br>
+<a data-href="Složenost algoritma" href="složenost-algoritma.html" class="internal-link" target="_self" rel="noopener">Složenost algoritma</a><br>Rekurzija<br>
+Osnovni algoritmi<br>
+Strukture podataka<br><a data-tooltip-position="top" aria-label="Normalne forme" data-href="Normalne forme" href="matematika\normalne-forme.html" class="internal-link" target="_self" rel="noopener">Digitalna logika</a>]]></description><link>računarstvo\računarstvo.html</link><guid isPermaLink="false">Računarstvo/Računarstvo.md</guid><pubDate>Thu, 12 Sep 2024 22:01:48 GMT</pubDate></item><item><title><![CDATA[Home]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:home" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#home</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:laag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#laag</a> <a class="tag" href="?query=tag:ds1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ds1</a> <a class="tag" href="?query=tag:ds2" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ds2</a> <a class="tag" href="?query=tag:a1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#a1</a> <a class="tag" href="?query=tag:a2" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#a2</a> <a class="tag" href="?query=tag:cs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs</a> <a class="tag" href="?query=tag:cs/prog" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/prog</a> <a class="tag" href="?query=tag:cs/ar" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/ar</a> <a class="tag" href="?query=tag:cs/os" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/os</a> 
+ <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:home" class="tag" target="_blank" rel="noopener">#home</a><br>
+<br><br><a href=".?query=tag:laag" class="tag" target="_blank" rel="noopener">#laag</a> <a href=".?query=tag:ds1" class="tag" target="_blank" rel="noopener">#ds1</a> <a href=".?query=tag:ds2" class="tag" target="_blank" rel="noopener">#ds2</a> <a href=".?query=tag:a1" class="tag" target="_blank" rel="noopener">#a1</a> <a href=".?query=tag:a2" class="tag" target="_blank" rel="noopener">#a2</a><br>
+<br><br><a href=".?query=tag:cs\prog" class="tag" target="_blank" rel="noopener">#cs/prog</a> <a href=".?query=tag:cs\ar" class="tag" target="_blank" rel="noopener">#cs/ar</a> <a href=".?query=tag:cs\os" class="tag" target="_blank" rel="noopener">#cs/os</a><br>
+<br><br><br><br>Poslednje ažuriranje: 04:03 15.09.2024]]></description><link>home.html</link><guid isPermaLink="false">Home.md</guid><pubDate>Sun, 15 Sep 2024 02:04:02 GMT</pubDate></item><item><title><![CDATA[Inverzna matrica]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:laag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#laag</a> 
+ <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:laag" class="tag" target="_blank" rel="noopener">#laag</a> [deo poglavlja <a data-tooltip-position="top" aria-label="Matrica" data-href="Matrica" href="matematika\matrica.html" class="internal-link" target="_self" rel="noopener">"matrica"</a>]<br>
+<br>Def. Inverzna matrica (inverz) matrici  je matrica  ako važi <br>Tada su  i  invertibilni/regularni.<br>Teorema (svojstva invertibilnih matrica).<br>
+<br>
+<br>
+<br>
+<br>
+<br>  (Posledica Bine-Košijeve teoreme)
+<br><br><br>]]></description><link>inverzna-matrica.html</link><guid isPermaLink="false">Inverzna matrica.md</guid><pubDate>Wed, 11 Sep 2024 22:18:23 GMT</pubDate></item><item><title><![CDATA[Složenost algoritma]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:cs/prog" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/prog</a> 
  <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:cs\prog" class="tag" target="_blank" rel="noopener">#cs/prog</a> [deo <a data-tooltip-position="top" aria-label="Računarstvo" data-href="Računarstvo" href="računarstvo\računarstvo.html" class="internal-link" target="_self" rel="noopener">računarstva</a>]<br>
 ]]></description><link>složenost-algoritma.html</link><guid isPermaLink="false">Složenost algoritma.md</guid><pubDate>Wed, 11 Sep 2024 00:40:58 GMT</pubDate></item><item><title><![CDATA[Standardne biblioteke (C)]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:cs/prog/c" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/prog/c</a> 
- <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:cs\prog\c" class="tag" target="_blank" rel="noopener">#cs/prog/c</a> [deo <a data-tooltip-position="top" aria-label="Programski jezik C" data-href="Programski jezik C" href="programski-jezik-c.html" class="internal-link" target="_self" rel="noopener">jezika C</a>]<br>
-]]></description><link>standardne-biblioteke-(c).html</link><guid isPermaLink="false">Standardne biblioteke (C).md</guid><pubDate>Wed, 11 Sep 2024 00:40:58 GMT</pubDate></item><item><title><![CDATA[Ulaz i izlaz (C)]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:cs/prog/c" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/prog/c</a> 
- <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:cs\prog\c" class="tag" target="_blank" rel="noopener">#cs/prog/c</a> [deo <a data-tooltip-position="top" aria-label="Programski jezik C" data-href="Programski jezik C" href="programski-jezik-c.html" class="internal-link" target="_self" rel="noopener">jezika C</a>]<br>
-]]></description><link>ulaz-i-izlaz-(c).html</link><guid isPermaLink="false">Ulaz i izlaz (C).md</guid><pubDate>Thu, 12 Sep 2024 20:08:59 GMT</pubDate></item><item><title><![CDATA[Zavisnost koordinata vektora i matrice operatora o bazi]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:laag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#laag</a> 
+ <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:cs\prog\c" class="tag" target="_blank" rel="noopener">#cs/prog/c</a> [deo <a data-tooltip-position="top" aria-label="Programski jezik C" data-href="Programski jezik C" href="računarstvo\programski-jezik-c.html" class="internal-link" target="_self" rel="noopener">jezika C</a>]<br>
+]]></description><link>standardne-biblioteke-(c).html</link><guid isPermaLink="false">Standardne biblioteke (C).md</guid><pubDate>Wed, 11 Sep 2024 00:40:58 GMT</pubDate></item><item><title><![CDATA[Standardni ulaz i izlaz (C)]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:cs/prog/c" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/prog/c</a> 
+ <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:cs\prog\c" class="tag" target="_blank" rel="noopener">#cs/prog/c</a> [deo <a data-tooltip-position="top" aria-label="Programski jezik C" data-href="Programski jezik C" href="računarstvo\programski-jezik-c.html" class="internal-link" target="_self" rel="noopener">jezika C</a>]<br>
+]]></description><link>standardni-ulaz-i-izlaz-(c).html</link><guid isPermaLink="false">Standardni ulaz i izlaz (C).md</guid><pubDate>Thu, 12 Sep 2024 20:08:59 GMT</pubDate></item><item><title><![CDATA[Zavisnost koordinata vektora i matrice operatora o bazi]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:laag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#laag</a> 
  <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:laag" class="tag" target="_blank" rel="noopener">#laag</a> [deo poglavlja <a data-tooltip-position="top" aria-label="Vektorski prostor" data-href="Vektorski prostor" href="matematika\vektorski-prostor.html" class="internal-link" target="_self" rel="noopener">"vektorski prostor"</a> i <a data-tooltip-position="top" aria-label="Linearni operator" data-href="Linearni operator" href="Linearni operator" class="internal-link" target="_self" rel="noopener">"linearni operator"</a>]<br>
 <br><br>Def.  je VP dimenzije  nad poljem ,   je neka baza VP-a . Tada za bazu , koordinatizacija je preslikavanje , koje je definisano formulom .<br> je izomorfizam VP-a  i  jer važe:<br>
 <br>
