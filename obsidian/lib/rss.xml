@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Obsidian</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 15 Sep 2024 02:14:56 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 15 Sep 2024 02:08:41 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Algebra nad poljem]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:laag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#laag</a> 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian Vault]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Obsidian Vault</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 22 Sep 2024 20:24:59 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 22 Sep 2024 20:24:05 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Algebra nad poljem]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:laag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#laag</a> 
  <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:laag" class="tag" target="_blank" rel="noopener">#laag</a> [deo <a data-tooltip-position="top" aria-label="Linearna algebra" data-href="Linearna algebra" href="matematika\linearna-algebra.html" class="internal-link" target="_self" rel="noopener">linearne algebre</a>]<br>
 <br>Def. . Struktura  je -algebra ako važe:<br>
 <br>A1)  je <a data-tooltip-position="top" aria-label="Vektorski prostor" data-href="Vektorski prostor" href="matematika\vektorski-prostor.html" class="internal-link" target="_self" rel="noopener">VP</a> nad 
@@ -77,7 +77,7 @@ Primer:<br>
 ,<br>
 ako  i 
 <br><br><br>kod  važe<br>
- <br>]]></description><link>matematika\asimptotske-klase.-asimptotska-relacija-ekvivalencije.html</link><guid isPermaLink="false">Matematika/Asimptotske klase. Asimptotska relacija ekvivalencije.md</guid><pubDate>Thu, 12 Sep 2024 12:05:56 GMT</pubDate></item><item><title><![CDATA[Binomna formula]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:ds2" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ds2</a> 
+ <br>]]></description><link>matematika\asimptotske-klase.-asimptotska-relacija-ekvivalencije.html</link><guid isPermaLink="false">Matematika/Asimptotske klase. Asimptotska relacija ekvivalencije.md</guid><pubDate>Fri, 20 Sep 2024 16:38:19 GMT</pubDate></item><item><title><![CDATA[Binomna formula]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:ds2" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ds2</a> 
  <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:ds2" class="tag" target="_blank" rel="noopener">#ds2</a> [deo <a data-tooltip-position="top" aria-label="Kombinatorika" data-href="Kombinatorika" href="matematika\kombinatorika.html" class="internal-link" target="_self" rel="noopener">kombinatorike</a>]<br>
 <br>
 <a data-tooltip-position="top" aria-label="binomnaFormula.png" data-href="binomnaFormula.png" href="media\binomnaformula.png" class="internal-link" target="_self" rel="noopener">Teorema</a> (Binomna formula). . Tada <br><br>Posledice:<br>
@@ -135,7 +135,7 @@ Dokaz:<br>
 <a data-href="Celi brojevi" href="matematika\celi-brojevi.html" class="internal-link" target="_self" rel="noopener">Celi brojevi</a> <br>
 <a data-href="Racionalni brojevi" href="Racionalni brojevi" class="internal-link" target="_self" rel="noopener">Racionalni brojevi</a> <br>
 <a data-href="Realni brojevi" href="matematika\realni-brojevi.html" class="internal-link" target="_self" rel="noopener">Realni brojevi</a> <br>
-<a data-href="Kompleksni brojevi" href="Kompleksni brojevi" class="internal-link" target="_self" rel="noopener">Kompleksni brojevi</a> ]]></description><link>matematika\brojevi.html</link><guid isPermaLink="false">Matematika/Brojevi.md</guid><pubDate>Wed, 11 Sep 2024 00:40:58 GMT</pubDate></item><item><title><![CDATA[Bulova algebra]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:ds1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ds1</a> 
+<a data-href="Kompleksni brojevi" href="Kompleksni brojevi" class="internal-link" target="_self" rel="noopener">Kompleksni brojevi</a> ]]></description><link>matematika\brojevi.html</link><guid isPermaLink="false">Matematika/Brojevi.md</guid><pubDate>Fri, 20 Sep 2024 21:39:19 GMT</pubDate></item><item><title><![CDATA[Bulova algebra]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:ds1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ds1</a> 
  <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:ds1" class="tag" target="_blank" rel="noopener">#ds1</a> [deo <a data-tooltip-position="top" aria-label="Logika" data-href="Logika" href="matematika\logika.html" class="internal-link" target="_self" rel="noopener">logike</a>]<br>
 <br> — neki skup<br>
  — istaknuti elementi<br>Definisani su fje na skupu :<br>
@@ -220,7 +220,50 @@ Dokaz: Iz <a data-tooltip-position="top" aria-label="Euklidov algoritam > ^e5f1a
 Dokaz: <br>
 <br>
 
-]]></description><link>matematika\deljivost.html</link><guid isPermaLink="false">Matematika/Deljivost.md</guid><pubDate>Wed, 11 Sep 2024 00:40:58 GMT</pubDate></item><item><title><![CDATA[Diofantova jednačina]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:ds1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ds1</a> 
+]]></description><link>matematika\deljivost.html</link><guid isPermaLink="false">Matematika/Deljivost.md</guid><pubDate>Wed, 11 Sep 2024 00:40:58 GMT</pubDate></item><item><title><![CDATA[Determinanta]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:laag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#laag</a> 
+ <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:laag" class="tag" target="_blank" rel="noopener">#laag</a> [deo poglavlja <a data-tooltip-position="top" aria-label="Matrica" data-href="Matrica" href="matematika\matrica.html" class="internal-link" target="_self" rel="noopener">"matrica"</a>]<br>
+<br><a data-href="Grupa permutacija" href="matematika\grupa-permutacija.html" class="internal-link" target="_self" rel="noopener">Grupa permutacija</a><br>Def. Determinanta je funkcija  def. sa <br>Oznaka: <br><br>Stav. <br>
+<br>Vrsta/kolona matrice sastoji od nula 
+<br>Dve vrste/kolone matrice su proporcijalne 
+<br>
+<br> je trougaona  
+<br><br>Lema.  su kvadratne matrice takve da . Tada <br><br>Teorema. <br>
+svojstva za vrste (za kolone su analogne):<br>
+<br> <br>
+— množenje vrste skalarom<br>
+
+<br><br>
+ <br>
+
+<br><br>
+ <br>
+— zamena dve susedne vrste
+<br>Posledica.<br>
+<br>Zamena mesta dve vrste se svodi na neparan broj zamena susednih vrsta, tj. zamena mesta dve vrste menja znak determinante.
+<br> 
+<br><br>Svojstva 1. i 3. iz teorema i 2. iz posledice se mogu realizovati množenjem sa elementarnim matricama sa leva (vrste) i sa desna (kolone).<br>Stav.  — elementarna matrica. Tada <br>Teorema (Bine-Košijeva).<br>
+ <br>Teorema. .<br>
+ je <a data-tooltip-position="top" aria-label="Inverzna matrica" data-href="Inverzna matrica" href="matematika\inverzna-matrica.html" class="internal-link" target="_self" rel="noopener">invertibilna</a> <br><br><br><br>Def. Minora   je determinanta matrice, koja se dobija izbacivanjem -te vrste i -te kolone iz matrice .<br><br><br>Def. Kofaktor elementa  matrice  je broj <br> je matrica kofaktora matrice .<br> je adjungovana matrica matrice .<br>
+<br>Teorema (Laplasov razvoj).<br>
+<br>Razvoj po -toj vrsti:<br>
+<br>
+
+<br>Razvoj po -toj koloni:<br>
+<br>
+
+<br>Lema.<br>
+<br><br>
+
+<br><br>
+
+<br>Posledica. <br>
+Iz teoreme i leme:  <br>
+<br>
+<br>
+<br>
+<br>
+
+<br><br>]]></description><link>matematika\determinanta.html</link><guid isPermaLink="false">Matematika/Determinanta.md</guid><pubDate>Thu, 19 Sep 2024 17:02:04 GMT</pubDate></item><item><title><![CDATA[Diofantova jednačina]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:ds1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ds1</a> 
  <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:ds1" class="tag" target="_blank" rel="noopener">#ds1</a> [deo poglavlja <a data-tooltip-position="top" aria-label="Celi brojevi" data-href="Celi brojevi" href="matematika\celi-brojevi.html" class="internal-link" target="_self" rel="noopener">"celi brojevi"</a>]<br>
 <br>Def. Diofantova je jednačina sa celobrojnim koeficijentima, u kojoj treba naći sva rešenja u <br>
 <br><br>
@@ -438,7 +481,9 @@ Tada važi:<br>
 
 <br><a data-tooltip-position="top" aria-label="FGprimer1.png" data-href="FGprimer1.png" href="media\fgprimer1.png" class="internal-link" target="_self" rel="noopener">Primer 1</a><br>
 <a data-tooltip-position="top" aria-label="FGprimer2.png" data-href="FGprimer2.png" href="media\fgprimer2.png" class="internal-link" target="_self" rel="noopener">Primer 2</a><br>
-<a data-tooltip-position="top" aria-label="FGprimer3.png" data-href="FGprimer3.png" href="media\fgprimer3.png" class="internal-link" target="_self" rel="noopener">Primer 3</a>]]></description><link>matematika\funkcija-generatrisa.html</link><guid isPermaLink="false">Matematika/Funkcija generatrisa.md</guid><pubDate>Wed, 11 Sep 2024 00:40:58 GMT</pubDate></item><item><title><![CDATA[Ispitivanje toka i skiciranje grafika funkcije <span class="math math-inline is-loaded"><mjx-container class="MathJax" jax="CHTML"><mjx-math class="MJX-TEX"><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D453 TEX-I"></mjx-c></mjx-mi><mjx-mo class="mjx-n"><mjx-c class="mjx-c28"></mjx-c></mjx-mo><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D465 TEX-I"></mjx-c></mjx-mi><mjx-mo class="mjx-n"><mjx-c class="mjx-c29"></mjx-c></mjx-mo></mjx-math></mjx-container></span>]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:a1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#a1</a> 
+<a data-tooltip-position="top" aria-label="FGprimer3.png" data-href="FGprimer3.png" href="media\fgprimer3.png" class="internal-link" target="_self" rel="noopener">Primer 3</a>]]></description><link>matematika\funkcija-generatrisa.html</link><guid isPermaLink="false">Matematika/Funkcija generatrisa.md</guid><pubDate>Wed, 11 Sep 2024 00:40:58 GMT</pubDate></item><item><title><![CDATA[Geometrija]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:laag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#laag</a> <a class="tag" href="?query=tag:geom" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#geom</a> 
+ <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:laag" class="tag" target="_blank" rel="noopener">#laag</a> <a href=".?query=tag:geom" class="tag" target="_blank" rel="noopener">#geom</a> [deo <a data-tooltip-position="top" aria-label="Matematika" data-href="Matematika" href="matematika\matematika.html" class="internal-link" target="_self" rel="noopener">matematike</a>]<br>
+<br>Analitička geometrija]]></description><link>matematika\geometrija.html</link><guid isPermaLink="false">Matematika/Geometrija.md</guid><pubDate>Tue, 17 Sep 2024 23:44:29 GMT</pubDate></item><item><title><![CDATA[Ispitivanje toka i skiciranje grafika funkcije <span class="math math-inline is-loaded"><mjx-container class="MathJax" jax="CHTML"><mjx-math class="MJX-TEX"><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D453 TEX-I"></mjx-c></mjx-mi><mjx-mo class="mjx-n"><mjx-c class="mjx-c28"></mjx-c></mjx-mo><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D465 TEX-I"></mjx-c></mjx-mi><mjx-mo class="mjx-n"><mjx-c class="mjx-c29"></mjx-c></mjx-mo></mjx-math></mjx-container></span>]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:a1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#a1</a> 
  <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:a1" class="tag" target="_blank" rel="noopener">#a1</a> [deo <a data-tooltip-position="top" aria-label="Analiza" data-href="Analiza" href="matematika\analiza.html" class="internal-link" target="_self" rel="noopener">analize</a>]<br>
 <br><br><br><br> je pozitivna na intervalu , ako <br>
  je negativna na intervalu , ako <br>Nule su rešenja jednačine <br>Ako nemoguće rešiti (ne)jednačine preskočiti.<br><br>
@@ -491,17 +536,37 @@ ako    prolazi ispod asimptote
 
 
 
-]]></description><link>matematika\grafik-funkcije.html</link><guid isPermaLink="false">Matematika/Grafik funkcije.md</guid><pubDate>Wed, 11 Sep 2024 00:40:58 GMT</pubDate></item><item><title><![CDATA[Inverzna funkcija]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:ds1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ds1</a> <a class="tag" href="?query=tag:a1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#a1</a> 
+]]></description><link>matematika\grafik-funkcije.html</link><guid isPermaLink="false">Matematika/Grafik funkcije.md</guid><pubDate>Wed, 11 Sep 2024 00:40:58 GMT</pubDate></item><item><title><![CDATA[Grupa permutacija]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:laag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#laag</a> 
+ <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:laag" class="tag" target="_blank" rel="noopener">#laag</a> [deo poglavlja <a data-tooltip-position="top" aria-label="Determinanta" data-href="Determinanta" href="matematika\determinanta.html" class="internal-link" target="_self" rel="noopener">"determinanta"</a>]<br>
+<br>Def.  je skup svih permutacija skupa , tj. skup svih bijekcija .<br>Ako je  kompozicija funkcija, onda je  grupa:<br>
+<br>važi asocijativnost
+<br>neutral je funkcija , takva da 
+<br>za svaku permutaciju , postoji obratna 
+<br>Oznaka: <br><br>Def. Inverzija permutacije je par  za koji važi  i ,  <br> — broj inverzija permutacije.<br> je parna permutacija ako je  paran broj,<br>
+ je neparna permutacija ako je  neparan broj.]]></description><link>matematika\grupa-permutacija.html</link><guid isPermaLink="false">Matematika/Grupa permutacija.md</guid><pubDate>Thu, 19 Sep 2024 13:19:34 GMT</pubDate></item><item><title><![CDATA[Inverzna funkcija]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:ds1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ds1</a> <a class="tag" href="?query=tag:a1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#a1</a> 
  <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:ds1" class="tag" target="_blank" rel="noopener">#ds1</a> <a href=".?query=tag:a1" class="tag" target="_blank" rel="noopener">#a1</a> [deo <a data-tooltip-position="top" aria-label="Funkcija" data-href="Funkcija" href="matematika\funkcija.html" class="internal-link" target="_self" rel="noopener">poglavlja "funkcija"</a>]<br>
 <br>Ako je relacija  <a class="internal-link" data-href="Funkcija" href="matematika\funkcija.html" target="_self" rel="noopener">funkcija</a> tada joj <a class="internal-link" data-href="Relacija#Osnovno" href="matematika\relacija.html#Osnovno" target="_self" rel="noopener">inverzna relacija</a>  ne mora da bude funkcija.<br>Def. Funkcija  je levi inverz funkcije  ako  (tj. )<br>
 <a class="internal-link" data-href="inverzna fja stav levi.png" href="media\inverzna-fja-stav-levi.png" target="_self" rel="noopener">Stav</a>.  ima levi inverz   je "1-1"<br>Def. Funkcija  je desni inverz funkcije  ako  (tj. )<br>
 <a class="internal-link" data-href="inverzna fja stav desni.png" href="media\inverzna-fja-stav-desni.png" target="_self" rel="noopener">Stav</a>.  ima desni inverz   je "na"<br>Def. Funkcija  je inverz funkcije  ako je ona levi i desni inverz. Važi <br>
 Teorema.  ima  inverz   je bijekcija<br>
-(Dokaz: kombinacija prethodna dva stava)<br>
+(Dokaz: kombinacija prethodna dva stava) <br>
 <br> je bijekcija   ima inverz  <br>
- ima inverz    je bijekcija
+ ima inverz    je bijekcija 
 <br>
-]]></description><link>matematika\inverzna-funkcija.html</link><guid isPermaLink="false">Matematika/Inverzna funkcija.md</guid><pubDate>Wed, 11 Sep 2024 00:40:58 GMT</pubDate></item><item><title><![CDATA[Iskazna logika]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:ds1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ds1</a> 
+]]></description><link>matematika\inverzna-funkcija.html</link><guid isPermaLink="false">Matematika/Inverzna funkcija.md</guid><pubDate>Sun, 15 Sep 2024 21:08:12 GMT</pubDate></item><item><title><![CDATA[Inverzna matrica]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:laag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#laag</a> 
+ <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:laag" class="tag" target="_blank" rel="noopener">#laag</a> [deo poglavlja <a data-tooltip-position="top" aria-label="Matrica" data-href="Matrica" href="matematika\matrica.html" class="internal-link" target="_self" rel="noopener">"matrica"</a>]<br>
+<br>Def. Inverzna matrica (inverz) matrici  je matrica  ako važi <br>Tada su  i  invertibilni/regularni.<br>Teorema (svojstva invertibilnih matrica).<br>
+<br>
+<br>
+<br>
+<br>
+<br>  (Posledica <a data-tooltip-position="top" aria-label="Determinanta > ^47b633" data-href="Determinanta#^47b633" href="matematika\determinanta.html#^47b633" class="internal-link" target="_self" rel="noopener">Bine-Košijeve teoreme</a>)
+<br>Teorema. .<br>
+ je invertibilna <br><br>Elementarne transformacije: <a data-tooltip-position="top" aria-label="Rang matrice. Elementarne transformacije > ^4c59da" data-href="Rang matrice. Elementarne transformacije#^4c59da" href="matematika\rang-matrice.-elementarne-transformacije.html#^4c59da" class="internal-link" target="_self" rel="noopener">(el1)</a>, <a data-tooltip-position="top" aria-label="Rang matrice. Elementarne transformacije > ^ce1e01" data-href="Rang matrice. Elementarne transformacije#^ce1e01" href="matematika\rang-matrice.-elementarne-transformacije.html#^ce1e01" class="internal-link" target="_self" rel="noopener">(el2)</a>, <a data-tooltip-position="top" aria-label="Rang matrice. Elementarne transformacije > ^e52b75" data-href="Rang matrice. Elementarne transformacije#^e52b75" href="matematika\rang-matrice.-elementarne-transformacije.html#^e52b75" class="internal-link" target="_self" rel="noopener">(el3)</a>.<br> — invertibilna<br>
+Primenimo elementarne transformacije  samo nad vrstama tako da    <br>
+tj  dobijamo primenom istih transformacija na .<br>Odakle važi: <br>
+<br>Primedba: ako  nije invertibilna dobićemo  umesto <br><br><br><br>,<br>
+<br>Iz <a data-tooltip-position="top" aria-label="Karakteristični i minimalni polinom > ^251032" data-href="Karakteristični i minimalni polinom#^251032" href="matematika\karakteristični-i-minimalni-polinom.html#^251032" class="internal-link" target="_self" rel="noopener">stava</a> ako  onda :<br>]]></description><link>matematika\inverzna-matrica.html</link><guid isPermaLink="false">Matematika/Inverzna matrica.md</guid><pubDate>Sun, 22 Sep 2024 15:39:33 GMT</pubDate></item><item><title><![CDATA[Iskazna logika]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:ds1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ds1</a> 
  <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:ds1" class="tag" target="_blank" rel="noopener">#ds1</a> [deo <a data-tooltip-position="top" aria-label="Logika" data-href="Logika" href="matematika\logika.html" class="internal-link" target="_self" rel="noopener">logike</a>]<br>
 <br>Iskazi - <br>
 Tačno - 1 ili <br>
@@ -515,9 +580,9 @@ Prioritet logičkih operacija: ,  i ,  i  i ;<br>Def. Iskazna formula:<br>
 <br> - skup svih formula<br>Def. <a class="internal-link" data-href="Valuacija (iskazna logika)" href="matematika\valuacija-(iskazna-logika).html" target="_self" rel="noopener">Valuacija</a> <br>Def. Formula  je <br>
 <br><a class="internal-link" data-href="Tautologija" href="matematika\tautologija.html" target="_self" rel="noopener">tautologija</a> ako važi  za svaku valuaciju .
 <br>kontradikcija ako važi  za svaku valuaciju .
-<br>zadovoljiva ako važi  za neku valuaciju . (<a data-href="Zadovoljivost" href="Zadovoljivost" class="internal-link" target="_self" rel="noopener">Zadovoljivost</a>)
+<br>zadovoljiva ako važi  za neku valuaciju . (<a data-tooltip-position="top" aria-label="Složenost algoritma > ^ebfaa0" data-href="Složenost algoritma#^ebfaa0" href="računarstvo\složenost-algoritma.html#^ebfaa0" class="internal-link" target="_self" rel="noopener">Problem zadovoljivosti</a>) 
 <br>poreciva ako važi  za neku valuaciju .
-<br>Def. <a data-href="Ekvivalentne formule" href="matematika\ekvivalentne-formule.html" class="internal-link" target="_self" rel="noopener">Ekvivalentne formule</a><br>Tipični zadaci: <a data-href="Tautologija" href="matematika\tautologija.html" class="internal-link" target="_self" rel="noopener">Tautologija</a>, <a data-href="Ostrva (iskazna logika)" href="matematika\ostrva-(iskazna-logika).html" class="internal-link" target="_self" rel="noopener">Ostrva (iskazna logika)</a><br><br><br>]]></description><link>matematika\iskazna-logika.html</link><guid isPermaLink="false">Matematika/Iskazna logika.md</guid><pubDate>Wed, 11 Sep 2024 00:40:58 GMT</pubDate></item><item><title><![CDATA[Izbor elemenata]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:ds2" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ds2</a> 
+<br>Def. <a data-href="Ekvivalentne formule" href="matematika\ekvivalentne-formule.html" class="internal-link" target="_self" rel="noopener">Ekvivalentne formule</a><br>Tipični zadaci: <a data-href="Tautologija" href="matematika\tautologija.html" class="internal-link" target="_self" rel="noopener">Tautologija</a>, <a data-href="Ostrva (iskazna logika)" href="matematika\ostrva-(iskazna-logika).html" class="internal-link" target="_self" rel="noopener">Ostrva (iskazna logika)</a><br><br><br>]]></description><link>matematika\iskazna-logika.html</link><guid isPermaLink="false">Matematika/Iskazna logika.md</guid><pubDate>Fri, 20 Sep 2024 20:46:12 GMT</pubDate></item><item><title><![CDATA[Izbor elemenata]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:ds2" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ds2</a> 
  <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:ds2" class="tag" target="_blank" rel="noopener">#ds2</a> [deo <a data-tooltip-position="top" aria-label="Kombinatorika" data-href="Kombinatorika" href="matematika\kombinatorika.html" class="internal-link" target="_self" rel="noopener">kombinatorike</a>]<br>
 <br> elemenata,  mesta<br><br><br><br>
 Svakom preslikavanju  odgovara jedan izbor elta, tako da je -ti izabrani element je .<br>
@@ -584,7 +649,105 @@ Dokaz:  iz definicije<br>
 <br>
 
 <br><br>
-<img alt="karakt fja.png" src="lib\media\karakt-fja.png"><br><a class="internal-link" data-href="karakt fja primer 2.png" href="media\karakt-fja-primer-2.png" target="_self" rel="noopener">Primer</a>]]></description><link>matematika\karakteristična-funkcija.html</link><guid isPermaLink="false">Matematika/Karakteristična funkcija.md</guid><pubDate>Wed, 11 Sep 2024 00:40:58 GMT</pubDate><enclosure url="lib\media\karakt-fja.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\karakt-fja.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Kardinalnost. Prebrojivost]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:ds1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ds1</a> 
+<img alt="karakt fja.png" src="lib\media\karakt-fja.png"><br><a class="internal-link" data-href="karakt fja primer 2.png" href="media\karakt-fja-primer-2.png" target="_self" rel="noopener">Primer</a>]]></description><link>matematika\karakteristična-funkcija.html</link><guid isPermaLink="false">Matematika/Karakteristična funkcija.md</guid><pubDate>Wed, 11 Sep 2024 00:40:58 GMT</pubDate><enclosure url="lib\media\karakt-fja.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\karakt-fja.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Karakteristični i minimalni polinom]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:laag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#laag</a> 
+ <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:laag" class="tag" target="_blank" rel="noopener">#laag</a> [deo <a data-tooltip-position="top" aria-label="Linearna algebra" data-href="Linearna algebra" href="matematika\linearna-algebra.html" class="internal-link" target="_self" rel="noopener">linearne algebre</a>]<br><br>Def.  — proizvoljna <a data-tooltip-position="top" aria-label="Matrica" data-href="Matrica" href="matematika\matrica.html" class="internal-link" target="_self" rel="noopener">matrica</a>, tada matrica  , gde je  promenljiva, zove se karakteristična matrica matrice .<br> je karakteristični polinom matrice .<br>
+Oblika je <br> — karakteristična jednačina matrice .<br>Teorema. Karakteristični polinom je <a data-tooltip-position="top" aria-label="Kvadratna matrica > Sličnost matrica" data-href="Kvadratna matrica#Sličnost matrica" href="matematika\kvadratna-matrica.html#Sličnost_matrica" class="internal-link" target="_self" rel="noopener">invarijanta sličnosti</a>.<br>
+Dokaz: <br>
+Tada <br>
+
+<br>Def. Karakteristični polinom <a data-tooltip-position="top" aria-label="Linearni operator" data-href="Linearni operator" href="matematika\linearni-operator.html" class="internal-link" target="_self" rel="noopener">LO</a>  je  za proizvoljnu bazu  VP-a .<br>
+<br><br>
+
+<br>
+
+<br>Stav. <br>Lema (Bezuova). , za  važi ,   gde <br>
+Tada <br>Teorema (Hamilton-Kejlijeva). <br><br>Def. Minimalni polinom <a data-tooltip-position="top" aria-label="Matrica" data-href="Matrica" href="matematika\matrica.html" class="internal-link" target="_self" rel="noopener">matrice</a>  je  — moničan (viši koef. je jednak ) polinom najmanjeg stepena za koji važi .<br>Teorema. .<br>
+<br>
+<br> je jedinstven 
+<br> je invarijanta sličnosti
+
+Dokaz:
+
+<br>pps <br>
+Tada , stepen  je manji od stepena <br>
+<br>
+kontradikcija, jer stepen  je manji od stepena minimalnog polinoma<br>
+
+<br>pps  dva minimalnih polinoma stepena . Tada<br>
+<br>
+<br>
+Oduzmemo jednu jednačinu od druge:<br>
+<br>
+dobili smo polinom  stepena manjeg od minimalnog, za koji važi . Kontradikcija.<br>
+
+<br><br>
+Tada <br>
+<br>
+Neka je <br>
+<br>
+<br>
+Slično: <br>
+<br>
+Odakle:<br>
+  (jer su monične)
+
+
+
+<br>Def. Minimalni polinom <a data-tooltip-position="top" aria-label="Linearni operator" data-href="Linearni operator" href="matematika\linearni-operator.html" class="internal-link" target="_self" rel="noopener">LO</a>  je  za proizvoljnu bazu  VP-a .<br>Stav. Minimalni polinom matrice  je <br>Stav. <br>
+<br> je invertibilna
+<br> je invertibilna
+<br>
+Dokaz.
+
+<br>Neka <br>
+<br>
+<br>
+
+<br> Dokazano u 1.<br>
+ pps ,<br>
+tada <br>
+pomnožimo sa :<br>
+,<br>
+dobili smo polinom  stepena manjeg od minimalnog, za koji važi . Kontradikcija.<br>
+
+
+<br><br><br>Def.  je sopstvena vrednost LO , ako .<br>
+Tada  se zove sopstveni vektor.<br> — spektar  — skup svih sopstvenih vrednosti.<br> — sopstveni potprostor sopstvene vrednosti  operatora  — skup sopstvenih vrednosti , koji odgovaraju sopstvenoj vrednosti , i nula vektora.<br>Stav. <br>Teorema. <br>
+ je sopstvena vrednost   <br>
+Napomene:
+
+<br>Sopstvene vrednosti su <a data-tooltip-position="top" aria-label="Kvadratna matrica > Sličnost matrica" data-href="Kvadratna matrica#Sličnost matrica" href="matematika\kvadratna-matrica.html#Sličnost_matrica" class="internal-link" target="_self" rel="noopener">invarijante sličnosti</a>.
+<br>Definicija sopstvene vrednosti bitno zavisi o polju:<br>
+<br>
+ako :  nema sopstvenih vrednosti<br>
+ako :  ima sopstvene vrednosti 
+
+<br><br>
+Teorema. ,  je VP nad poljem , <br>
+Tada  ima tačno  sopstvenih vrednosti (među kojima može biti istih).<br>
+(Jer u  samo linearni (faktori) polinomi nisu reducibilni)<br>Posledica. ,  Tada  ima najviše  sopstvenih vrednosti.<br><br>Teorema. <br>
+Ako , gde<br>
+ je ireducibilan moničan polinom nad , tada je<br>
+, gde<br>
+<br>
+Minimalni polinom tražimo tako što smanjujemo stepen ireducibilnih faktora karakterističnog polinoma, dok polinom od polazne matrice jednak .
+<br><br>Def. .<br>
+Algebarska višestrukost  — višestrukost  kao nule .<br>
+Geometrijska višestrukost  — dimenzija .<br>Stav. Algebarska višestrukost  geometrijska višestrukost.<br><br>Stav. . Tada je  je linearno nezavisan.<br>Def. Dijagonalizacija je nalaženje baze  u kojoj matrica operatora  je dijagonalna.<br>
+ je dijagonalizabilan ako takva baza postoji.<br>Teorema (O dijagonalizabilnosti).<br>
+,  Tada su ekvivalentni:<br>
+<br> je dijagonalizabilan
+<br> — baza od  koja sastoji od sopstvenih vektora .
+<br> ima  sopstvenih vektora.
+<br> je proizvod različitih linearnih faktora.
+<br>Matrica  u bazi :<br>
+,<br>
+gde je  odgovarajuća sopstvenom vektoru  sopstvena vrednost.<br><br> je dijagonalizabilna ako , takva da , tj. <br> su rešenja <br>, gde je  sopstveni vektor, <br>tj. <br>! Sopstvenom vektoru  odgovara sopstvena vrednost <br>
+Korišćenje:<br>
+nalaženje :<br>
+
+
+]]></description><link>matematika\karakteristični-i-minimalni-polinom.html</link><guid isPermaLink="false">Matematika/Karakteristični i minimalni polinom.md</guid><pubDate>Sun, 22 Sep 2024 20:14:22 GMT</pubDate></item><item><title><![CDATA[Kardinalnost. Prebrojivost]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:ds1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ds1</a> 
  <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:ds1" class="tag" target="_blank" rel="noopener">#ds1</a> [deo <a data-tooltip-position="top" aria-label="Teorija skupova" data-href="Teorija skupova" href="matematika\teorija-skupova.html" class="internal-link" target="_self" rel="noopener">teoriji skupova</a>]<br>
 <br> — kardinalnost <a class="internal-link" data-href="Teorija skupova" href="matematika\teorija-skupova.html" target="_self" rel="noopener">skupa</a> .<br> je konačan skup,<br>
 inače je beskonačan<br>Teorema. Skup  je beskonačan ako postoji pravi podskup  , takav da su  i  u bijekciji.<br><a data-tooltip-position="top" aria-label="teorema. N je beskonačan.png" data-href="teorema. N je beskonačan.png" href="media\teorema.-n-je-beskonačan.png" class="internal-link" target="_self" rel="noopener">Teorema</a>. Skup prirodnih brojeva je beskonačan.<br>Def.<br>
@@ -740,7 +903,29 @@ Funkcija je konkavna () u  ako <br><br>Def.  je konveksna (konkavna) na  ako<br>
 <br>  je konveksna (konkavna) 
 <br>  je konveksna (konkavna)  
 <br>Stav.  je konveksna (konkavna) na  <br>
- je konkavna (konveksna) na ]]></description><link>matematika\konveksnost-i-konkavnost.html</link><guid isPermaLink="false">Matematika/Konveksnost i konkavnost.md</guid><pubDate>Wed, 11 Sep 2024 00:40:58 GMT</pubDate><enclosure url="lib\media\analiza1_2_konveksnostgrafik.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\analiza1_2_konveksnostgrafik.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Košijev niz]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:a1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#a1</a> 
+ je konkavna (konveksna) na ]]></description><link>matematika\konveksnost-i-konkavnost.html</link><guid isPermaLink="false">Matematika/Konveksnost i konkavnost.md</guid><pubDate>Wed, 11 Sep 2024 00:40:58 GMT</pubDate><enclosure url="lib\media\analiza1_2_konveksnostgrafik.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\analiza1_2_konveksnostgrafik.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Koordinatizacija. Zavisnost koordinata vektora o bazi]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:laag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#laag</a> 
+ <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:laag" class="tag" target="_blank" rel="noopener">#laag</a> [deo poglavlja <a data-tooltip-position="top" aria-label="Vektorski prostor" data-href="Vektorski prostor" href="matematika\vektorski-prostor.html" class="internal-link" target="_self" rel="noopener">"vektorski prostor"</a>]<br>
+<br>Def.  je VP dimenzije  nad poljem ,   je neka baza VP-a . Tada za bazu , koordinatizacija je preslikavanje , koje je definisano formulom . <br> je <a data-tooltip-position="top" aria-label="Linearni operator > ^86cf6f" data-href="Linearni operator#^86cf6f" href="matematika\linearni-operator.html#^86cf6f" class="internal-link" target="_self" rel="noopener">izomorfizam</a> VP-a  i  jer važe:<br>
+<br>
+<br>
+<br> je bijekcija
+<br><br>Neka su  i  baze VP-a .<br><br>
+Matrično:<br>
+<br> — matrica prelaska sa  u <br>
+<br><br><br>Odakle: <br>
+Matrično:<br>
+<br>
+<br>Teorema.  su baze VP-a . Tada:<br>
+<br> — skraćeni matrični zapis 
+<br> — jedinična matrica
+<br>
+<br>
+<br>
+Dokaz:<br>
+3. 
+   
+   4. 
+]]></description><link>matematika\koordinatizacija.-zavisnost-koordinata-vektora-o-bazi.html</link><guid isPermaLink="false">Matematika/Koordinatizacija. Zavisnost koordinata vektora o bazi.md</guid><pubDate>Tue, 17 Sep 2024 20:20:20 GMT</pubDate></item><item><title><![CDATA[Košijev niz]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:a1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#a1</a> 
  <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:a1" class="tag" target="_blank" rel="noopener">#a1</a> [deo poglavlja <a data-tooltip-position="top" aria-label="Niz brojeva" data-href="Niz brojeva" href="matematika\niz-brojeva.html" class="internal-link" target="_self" rel="noopener">"niz brojeva"</a>]<br>
 <br>
 Def. Niz  je Košijev ako <br><a data-tooltip-position="top" aria-label="analiza1_3_9.png" data-href="analiza1_3_9.png" href="media\analiza1_3_9.png" class="internal-link" target="_self" rel="noopener">Stav 1</a>. Košijev niz  je ograničen<br><a data-tooltip-position="top" aria-label="analiza1_3_10.png" data-href="analiza1_3_10.png" href="media\analiza1_3_10.png" class="internal-link" target="_self" rel="noopener">Stav 2</a>. Košijev niz  koji ima <a data-tooltip-position="top" aria-label="Podnizovi" data-href="Podnizovi" href="matematika\podnizovi.html" class="internal-link" target="_self" rel="noopener">tačku nagomilavanja</a> konvergira.<br>
@@ -759,7 +944,19 @@ Dokaz:<br>
 <br>Stav.  je neutral za množenje, tj. <br>
  <br>Teorema.  je asocijativna -<a data-tooltip-position="top" aria-label="Algebra nad poljem" data-href="Algebra nad poljem" href="matematika\algebra-nad-poljem.html" class="internal-link" target="_self" rel="noopener">algebra</a> sa jedinicom.<br>
 Dokaz: <a data-tooltip-position="top" aria-label="Matrica > ^9c7738" data-href="Matrica#^9c7738" href="matematika\matrica.html#^9c7738" class="internal-link" target="_self" rel="noopener">asocijativna</a> -algebra (<a data-tooltip-position="top" aria-label="Matrica > ^66baee" data-href="Matrica#^66baee" href="matematika\matrica.html#^66baee" class="internal-link" target="_self" rel="noopener">A2.1</a>, <a data-tooltip-position="top" aria-label="Matrica > ^43f815" data-href="Matrica#^43f815" href="matematika\matrica.html#^43f815" class="internal-link" target="_self" rel="noopener">A2.2</a>, <a data-tooltip-position="top" aria-label="Matrica > ^fda602" data-href="Matrica#^fda602" href="matematika\matrica.html#^fda602" class="internal-link" target="_self" rel="noopener">A3</a>) <a data-tooltip-position="top" aria-label="Kvadratna matrica > ^f56ca1" data-href="Kvadratna matrica#^f56ca1" href="matematika\kvadratna-matrica.html#^f56ca1" class="internal-link" target="_self" rel="noopener">sa jedinicom</a>.
-<br><br><br><br><br>Def.  je nilpotentna ako .<br>Ako  i ,  je indeks nilpotentnosti matrice .<br>! Na glavnoj dijagonali su .  <br>
+<br><br>
+Oznaka: <br><br><br><br>Def. Trag matrice je <a data-tooltip-position="top" aria-label="Linearni funkcional" data-href="Linearni funkcional" href="matematika\linearni-funkcional.html" class="internal-link" target="_self" rel="noopener">linearni funkcional</a>  def. sa <br>Stav (svojstva traga):<br>
+<br>
+<br>
+<br>
+<br><br>Def.  su slične:<br>
+<br>Stav.  je relacija ekvivalencije.<br>
+<br>
+,  tada 
+
+<br><br>
+Slične matrice su <a data-tooltip-position="top" aria-label="Matrica linearnog operatora" data-href="Matrica linearnog operatora" href="matematika\matrica-linearnog-operatora.html" class="internal-link" target="_self" rel="noopener">matrice istog LO</a> iz  u različitim bazama [<a data-tooltip-position="top" aria-label="Matrica linearnog operatora > ^4e5174" data-href="Matrica linearnog operatora#^4e5174" href="matematika\matrica-linearnog-operatora.html#^4e5174" class="internal-link" target="_self" rel="noopener">*</a>].<br>Invarijanta sličnosti — svojstvo koje važi za svaku matricu u nekoj klasi ekvivalencije, tj. svojstvo LO koje ne zavisi od matričnog zapisa.<br><br>Stav. Determinanta je invarijanta sličnosti.<br>
+Stav. Trag je invarijanta sličnosti.<br><a data-tooltip-position="top" aria-label="Karakteristični i minimalni polinom" data-href="Karakteristični i minimalni polinom" href="matematika\karakteristični-i-minimalni-polinom.html" class="internal-link" target="_self" rel="noopener">Karakteristični i minimalni polinomi</a> su invarijante sličnosti.<br><br>Def.  je nilpotentna ako .<br>Ako  i ,  je indeks nilpotentnosti matrice .<br>! Na glavnoj dijagonali su .  <br>
 <br>Kanonska nilpotentna matrica indeksa :<br>
 <br>
 <br><br> je monoid jer operacija množenja je:<br>
@@ -773,9 +970,9 @@ Dokaz: <a data-tooltip-position="top" aria-label="Matrica > ^9c7738" data-href="
  nije grupa, jer  nije antisimetrična.<br><br> je ortogonalna ako <br>Skup ortogonalnih matrica: <br>
  nije <a data-tooltip-position="top" aria-label="Vektorski prostor" data-href="Vektorski prostor" href="matematika\vektorski-prostor.html" class="internal-link" target="_self" rel="noopener">VP</a>.<br>
  je podgrupa , i zove se ortogonalna grupa.<br><br> je dijagonalna ako  za sve <br>Oznaka: <br>Skup dijagonalnih matrica  je <a data-tooltip-position="top" aria-label="Vektorski prostor" data-href="Vektorski prostor" href="matematika\vektorski-prostor.html" class="internal-link" target="_self" rel="noopener">VP</a>.<br>
- i  su izomorfni.<br>Skup invertibilnih dijagonalnih matrica  je podgrupa .<br><br> je skalarna ako .<br>Skup skalarnih matrica: <br>
+ i  su <a data-tooltip-position="top" aria-label="Linearni operator > ^86cf6f" data-href="Linearni operator#^86cf6f" href="matematika\linearni-operator.html#^86cf6f" class="internal-link" target="_self" rel="noopener">izomorfni</a>.<br>Skup invertibilnih dijagonalnih matrica  je podgrupa .<br><br> je skalarna ako .<br>Skup skalarnih matrica: <br>
  je <a data-tooltip-position="top" aria-label="Vektorski prostor" data-href="Vektorski prostor" href="matematika\vektorski-prostor.html" class="internal-link" target="_self" rel="noopener">VP</a>.<br>
- i  su izomorfni.<br>Skup skalarnih ne-nula matrica  je  podgrupa .]]></description><link>matematika\kvadratna-matrica.html</link><guid isPermaLink="false">Matematika/Kvadratna matrica.md</guid><pubDate>Wed, 11 Sep 2024 22:56:32 GMT</pubDate></item><item><title><![CDATA[Limes funkcije]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:a1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#a1</a> 
+ i  su <a data-tooltip-position="top" aria-label="Linearni operator > ^86cf6f" data-href="Linearni operator#^86cf6f" href="matematika\linearni-operator.html#^86cf6f" class="internal-link" target="_self" rel="noopener">izomorfni</a>.<br>Skup skalarnih ne-nula matrica  je  podgrupa .]]></description><link>matematika\kvadratna-matrica.html</link><guid isPermaLink="false">Matematika/Kvadratna matrica.md</guid><pubDate>Sun, 22 Sep 2024 15:10:25 GMT</pubDate></item><item><title><![CDATA[Limes funkcije]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:a1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#a1</a> 
  <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:a1" class="tag" target="_blank" rel="noopener">#a1</a> [deo <a data-tooltip-position="top" aria-label="Analiza" data-href="Analiza" href="matematika\analiza.html" class="internal-link" target="_self" rel="noopener">analize</a>]<br>
 <br><a data-href="Okolina tačke" href="matematika\okolina-tačke.html" class="internal-link" target="_self" rel="noopener">Okolina tačke</a><br>
 <a data-tooltip-position="top" aria-label="Vrste tačaka u odnosu na neki skup > ^3de7f2" data-href="Vrste tačaka u odnosu na neki skup#^3de7f2" href="matematika\vrste-tačaka-u-odnosu-na-neki-skup.html#^3de7f2" class="internal-link" target="_self" rel="noopener">Tačaka nagomilavanja skupa</a><br>Def. Limes funkcije  u tački  je jednak    akko <br>Def. Levi/desni limes funkcije  u tački  je jednak    akko <br><br><a data-tooltip-position="top" aria-label="analiza1_3_Hajne.png" data-href="analiza1_3_Hajne.png" href="media\analiza1_3_hajne.png" class="internal-link" target="_self" rel="noopener">Teorema</a> (Hajneova definicija limesa funkcije).<br>
@@ -892,11 +1089,11 @@ a zatim menjamo svaki član niza sa  (limes niza) u datoj jednačini, rešavamo 
 <a data-href="Matrica" href="matematika\matrica.html" class="internal-link" target="_self" rel="noopener">Matrica</a> (<a data-tooltip-position="top" aria-label="Kvadratna matrica" data-href="Kvadratna matrica" href="matematika\kvadratna-matrica.html" class="internal-link" target="_self" rel="noopener">kvadratna</a>)<br>
 <a data-href="Vektorski prostor" href="matematika\vektorski-prostor.html" class="internal-link" target="_self" rel="noopener">Vektorski prostor</a><br>
 <a data-tooltip-position="top" aria-label="Algebra nad poljem" data-href="Algebra nad poljem" href="matematika\algebra-nad-poljem.html" class="internal-link" target="_self" rel="noopener">Algebra</a><br>
-Linearni operator<br>
-Sistem linearnih jednačina<br>
-Karakteristični i minimalni polinom<br>
+<a data-href="Linearni operator" href="matematika\linearni-operator.html" class="internal-link" target="_self" rel="noopener">Linearni operator</a><br>
+<a data-href="Sistem linearnih jednačina" href="matematika\sistem-linearnih-jednačina.html" class="internal-link" target="_self" rel="noopener">Sistem linearnih jednačina</a><br>
+<a data-href="Karakteristični i minimalni polinom" href="matematika\karakteristični-i-minimalni-polinom.html" class="internal-link" target="_self" rel="noopener">Karakteristični i minimalni polinom</a><br>
 Unitarni prostor<br>
-Bilinearna i kvadratna forma]]></description><link>matematika\linearna-algebra.html</link><guid isPermaLink="false">Matematika/Linearna algebra.md</guid><pubDate>Fri, 13 Sep 2024 13:08:03 GMT</pubDate></item><item><title><![CDATA[Linearna zavisnost i nezavisnost. Skup generatora, baza i dimenzija VP-a]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:laag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#laag</a> 
+Bilinearna i kvadratna forma]]></description><link>matematika\linearna-algebra.html</link><guid isPermaLink="false">Matematika/Linearna algebra.md</guid><pubDate>Sat, 21 Sep 2024 15:28:57 GMT</pubDate></item><item><title><![CDATA[Linearna zavisnost i nezavisnost. Skup generatora, baza i dimenzija VP-a]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:laag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#laag</a> 
  <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:laag" class="tag" target="_blank" rel="noopener">#laag</a> [deo poglavlja <a data-tooltip-position="top" aria-label="Vektorski prostor" data-href="Vektorski prostor" href="matematika\vektorski-prostor.html" class="internal-link" target="_self" rel="noopener">"vektorski prostor"</a>]<br>
 <br>Def. .   je linearna kombinacija vektora  ako<br>
 <br><br>Def. Ako   je linearna kombinacija vektora .<br>
@@ -916,15 +1113,104 @@ ima jedinstveno rešenje <br> je linearno zavisan inače.<br>Svojstva:<br>
 <br> baza VP-a .
 <br>Ako su  baze VP-a , tada 
 <br>Def. Dimenzija VP-a  je kardinalni broj neke baze VP-a .<br>
-Oznaka: <br>VP  je konačno dimenzioni ako je <br>Lema. Neka je  skup generatora ,  je linearno nezavisan skup. Tada<br>
+Oznaka: <br>VP  je konačnodimenzioni ako je <br>Lema. Neka je  skup generatora ,  je linearno nezavisan skup. Tada<br>
  i <br>
  je baza <br>Stav.  je VP. . Tada:<br>
 <br> je linearno zavisan;
 <br> je linearno nezavisan je baza ;
 <br> je skup generatora  je baza ;
-<br><br>Stav.  je skup generatora konačno dim. VP-a . Tada<br>
-maksimalan linearno nezavisan podskup  je baza <br>Stav.  je linearno nezavisan,  je konačno dim. VP. Tada<br>
- je podskup neke baze , koji moguće dopuniti do baze.]]></description><link>matematika\linearna-zavisnost-i-nezavisnost.-skup-generatora,-baza-i-dimenzija-vp-a.html</link><guid isPermaLink="false">Matematika/Linearna zavisnost i nezavisnost. Skup generatora, baza i dimenzija VP-a.md</guid><pubDate>Wed, 11 Sep 2024 13:49:24 GMT</pubDate></item><item><title><![CDATA[Logička funkcija]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:ds1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ds1</a> 
+<br><br>Stav.  je skup generatora konačnodimenzionog VP-a . Tada<br>
+maksimalan linearno nezavisan podskup  je baza <br>Stav.  je linearno nezavisan,  je konačnodimenzioni VP. Tada<br>
+ je podskup neke baze , koji moguće dopuniti do baze.]]></description><link>matematika\linearna-zavisnost-i-nezavisnost.-skup-generatora,-baza-i-dimenzija-vp-a.html</link><guid isPermaLink="false">Matematika/Linearna zavisnost i nezavisnost. Skup generatora, baza i dimenzija VP-a.md</guid><pubDate>Sun, 15 Sep 2024 19:26:53 GMT</pubDate></item><item><title><![CDATA[Linearni funkcional]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:laag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#laag</a> 
+ <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:laag" class="tag" target="_blank" rel="noopener">#laag</a> [deo poglavlja <a data-tooltip-position="top" aria-label="Linearni operator" data-href="Linearni operator" href="matematika\linearni-operator.html" class="internal-link" target="_self" rel="noopener">"linearni operator"</a>]<br>
+<br>Def. Neka je i  <a data-tooltip-position="top" aria-label="Vektorski prostor" data-href="Vektorski prostor" href="matematika\vektorski-prostor.html" class="internal-link" target="_self" rel="noopener">vektorski prostor</a> nad poljem . <a data-href="Linearni operator" href="matematika\linearni-operator.html" class="internal-link" target="_self" rel="noopener">Linearni operator</a>  se zove linearni funkcional.<br> — skup svih linearnih funkcionala na  (jeste <a data-tooltip-position="top" aria-label="Linearni operator > VP $ mathrm{Hom}(U, ,V)$ i algebra $ mathrm{Hom} ,V$" data-href="Linearni operator#VP $ mathrm{Hom}(U, ,V)$ i algebra $ mathrm{Hom} ,V$" href="matematika\linearni-operator.html#VP_$_mathrm{Hom}(U,_,V)$_i_algebra_$_mathrm{Hom}_,V$" class="internal-link" target="_self" rel="noopener">VP</a>).<br>Neka je . Tada  i <br><br><br>Neka je  — ne-nula linearni funkcional, .<br>
+Tada  i <br> je hiperravan u .<br>
+ je baza .<br> je baza .  <br><br>
+<br>Neka je  baza VP-a .<br>
+Tada .<br>
+Projektor na -tu komponentu ():<br>
+ def. sa  je linearni funkcional.
+<br><a data-tooltip-position="top" aria-label="Kvadratna matrica > Trag matrice" data-href="Kvadratna matrica#Trag matrice" href="matematika\kvadratna-matrica.html#Trag_matrice" class="internal-link" target="_self" rel="noopener">Trag matrice</a>
+<br> je skup svih <a data-tooltip-position="top" aria-label="Neprekidnost" data-href="Neprekidnost" href="matematika\neprekidnost.html" class="internal-link" target="_self" rel="noopener">neprekidnih</a> realnih funkcija na .<br>
+Tada je  VP.<br>
+<br>
+ def. sa .<br>
+ je linearni funkcional.
+<br><br>Stav. Neka je , . Tada je  jedinstvena baza od  za koju važi   ( je projektor iz premera)<br> je dualna baza.<br>Stav.  je baza VP-a ,  je baza . Tada važi:<br>
+<br>
+<br>  — jer 
+<br>
+Dokaz 1.<br>
+<br>
+<br>
+Odakle sledi tvrđenje.
+<br><br><br>Def. ,  je VP. Tada anihilator je .<br><br><br>
+<br>Teorema.  je konačnodimenzioni VP nad ,  .<br>
+Tada  <br>Neka je  baza od , tako da je<br>
+ baza od .<br>
+ je baza od .<br>
+Tada je  je baza od <br>Posledica. . Tada ]]></description><link>matematika\linearni-funkcional.html</link><guid isPermaLink="false">Matematika/Linearni funkcional.md</guid><pubDate>Tue, 17 Sep 2024 18:18:28 GMT</pubDate></item><item><title><![CDATA[Linearni operator]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:laag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#laag</a> 
+ <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:laag" class="tag" target="_blank" rel="noopener">#laag</a> [deo <a data-tooltip-position="top" aria-label="Linearna algebra" data-href="Linearna algebra" href="matematika\linearna-algebra.html" class="internal-link" target="_self" rel="noopener">linearne algebre</a>]<br>
+<br>Def. Neka su  i  <a data-tooltip-position="top" aria-label="Vektorski prostor" data-href="Vektorski prostor" href="matematika\vektorski-prostor.html" class="internal-link" target="_self" rel="noopener">vektorski prostori</a> nad istim poljem . <a data-tooltip-position="top" aria-label="Funkcija" data-href="Funkcija" href="matematika\funkcija.html" class="internal-link" target="_self" rel="noopener">Preslikavanje</a>  se zove linearni operator (linearna transformacija), ako važi jedan od ekvivalentnih uslova:<br>
+<br>
+<br>
+<br><br>
+
+<br>Def. ___ linearni operator se zove ___:<br>
+<br>
+ <br>Oznake:<br>
+ — skup svih LO sa  u .<br>
+ — skup svih LO sa  u  (svih endomorfizama).<br>
+( se ne piše, ako se i tako zna nad kojem poljem)<br>Stav. . Tada<br>
+<br>
+<br><br>
+
+<br>Lema. LO  je u potpunosti određen svojim dejstvom na bazi  VP-a .<br>
+Dokaz:<br>
+ je baza od .<br>
+ — slike baznih vektora (dejstvo  na bazi ).
+
+
+<br><br>
+<br>Nula preslikavanje.  def. sa  .
+<br>Identičko preslikavanje.  def. sa  .
+<br>Projektor — LO za koji važi .<br>
+Na primer projekcija na ravan  u :<br>
+ def. sa   je LO:<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>Diferencirane.  je VP svih glatkih funkcija na . Tada  je LO:<br>
+<br>
+
+<br><br>Stav. <a data-tooltip-position="top" aria-label="Kompozicija funkcija" data-href="Kompozicija funkcija" href="matematika\kompozicija-funkcija.html" class="internal-link" target="_self" rel="noopener">Kompozicija</a> LO je LO:<br>
+.<br>
+ def. sa <br>
+Tada <br>Stav (svojstva kompozicije LO).<br>
+<br><br>
+
+<br><br>
+
+<br><br>
+
+<br><br>Oznaka: .  <br><br> je monoid jer kompozicija LO je:<br>
+<br>zatvorena: 
+<br>asocijativna
+<br>postoji neutral: 
+<br> ima <a data-tooltip-position="top" aria-label="Inverzna funkcija > ^d44f5e" data-href="Inverzna funkcija#^d44f5e" href="matematika\inverzna-funkcija.html#^d44f5e" class="internal-link" target="_self" rel="noopener">inverz</a>   je izomorfizam (bijekcija)<br><br>Stav.  je <a data-tooltip-position="top" aria-label="Vektorski prostor" data-href="Vektorski prostor" href="matematika\vektorski-prostor.html" class="internal-link" target="_self" rel="noopener">VP</a> uz operacije:<br>
+<br>(s) <br>
+
+<br>(ms) <br>
+
+<br>Nula preslikavanje  kao neutral za sabiranje.<br>Stav.  je baza ;  je baza .<br>
+ je LO, tako da <br>
+Tada  je baza .<br>
+Specijalno: <br><br>Stav.  je asocijativna -<a data-tooltip-position="top" aria-label="Algebra nad poljem" data-href="Algebra nad poljem" href="matematika\algebra-nad-poljem.html" class="internal-link" target="_self" rel="noopener">algebra</a> sa jedinicom.<br>Identičko preslikavanje  kao neutral za kompoziciju.<br><br><br><br><br>Def. Determinanta operatora .<br>
+  def. sa  za proizvoljnu bazu  VP-a .<br>Def. Trag operatora .<br>
+  def. sa  za proizvoljnu bazu  VP-a .<br>]]></description><link>matematika\linearni-operator.html</link><guid isPermaLink="false">Matematika/Linearni operator.md</guid><pubDate>Sat, 21 Sep 2024 21:03:11 GMT</pubDate></item><item><title><![CDATA[Logička funkcija]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:ds1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ds1</a> 
  <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:ds1" class="tag" target="_blank" rel="noopener">#ds1</a> [deo <a data-tooltip-position="top" aria-label="Iskazna logika" data-href="Iskazna logika" href="matematika\iskazna-logika.html" class="internal-link" target="_self" rel="noopener">iskazne logike</a>]<br>
 <br>Def. Logička funkcija reda  je <a data-href="funkcija" href="matematika\funkcija.html" class="internal-link" target="_self" rel="noopener">funkcija</a> <br>
 <br>Svaka funkcija ima  različitih ulaza.<br>
@@ -1004,9 +1290,9 @@ tada  važi za svaki prirodni broj .
 <a class="internal-link" data-href="Relacija" href="matematika\relacija.html" target="_self" rel="noopener">Relacije</a> i <a class="internal-link" data-href="Funkcija" href="matematika\funkcija.html" target="_self" rel="noopener">funkcije</a><br>
 <a data-href="Brojevi" href="matematika\brojevi.html" class="internal-link" target="_self" rel="noopener">Brojevi</a><br>
 <a data-href="Linearna algebra" href="matematika\linearna-algebra.html" class="internal-link" target="_self" rel="noopener">Linearna algebra</a><br>
-Geometrija<br>
+<a data-href="Geometrija" href="matematika\geometrija.html" class="internal-link" target="_self" rel="noopener">Geometrija</a><br>
 <a data-href="Kombinatorika" href="matematika\kombinatorika.html" class="internal-link" target="_self" rel="noopener">Kombinatorika</a><br>
-<a data-href="Analiza" href="matematika\analiza.html" class="internal-link" target="_self" rel="noopener">Analiza</a>]]></description><link>matematika\matematika.html</link><guid isPermaLink="false">Matematika/Matematika.md</guid><pubDate>Wed, 11 Sep 2024 00:40:58 GMT</pubDate></item><item><title><![CDATA[Matrica]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:laag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#laag</a> 
+<a data-href="Analiza" href="matematika\analiza.html" class="internal-link" target="_self" rel="noopener">Analiza</a>]]></description><link>matematika\matematika.html</link><guid isPermaLink="false">Matematika/Matematika.md</guid><pubDate>Sun, 22 Sep 2024 17:31:53 GMT</pubDate></item><item><title><![CDATA[Matrica]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:laag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#laag</a> 
  <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:laag" class="tag" target="_blank" rel="noopener">#laag</a> [deo <a data-tooltip-position="top" aria-label="Linearna algebra" data-href="Linearna algebra" href="matematika\linearna-algebra.html" class="internal-link" target="_self" rel="noopener">linearne algebre</a>]<br>
 <br><br>
 — skup svih matrica  ( vrsta,  kolona).<br>Stav.  je <a data-tooltip-position="top" aria-label="Vektorski prostor" data-href="Vektorski prostor" href="matematika\vektorski-prostor.html" class="internal-link" target="_self" rel="noopener">VP</a> uz operacije:<br>
@@ -1058,10 +1344,37 @@ Dokaz poslednjeg tvrđenja:<br>
 <br>
 
 
-]]></description><link>matematika\matrica.html</link><guid isPermaLink="false">Matematika/Matrica.md</guid><pubDate>Wed, 11 Sep 2024 22:28:23 GMT</pubDate></item><item><title><![CDATA[Matrica relacije]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:ds1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ds1</a> 
+<br>]]></description><link>matematika\matrica.html</link><guid isPermaLink="false">Matematika/Matrica.md</guid><pubDate>Tue, 17 Sep 2024 20:41:07 GMT</pubDate></item><item><title><![CDATA[Matrica linearnog operatora]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:laag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#laag</a> 
+ <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:laag" class="tag" target="_blank" rel="noopener">#laag</a> [deo poglavlja <a data-tooltip-position="top" aria-label="Linearni operator" data-href="Linearni operator" href="matematika\linearni-operator.html" class="internal-link" target="_self" rel="noopener">"linearni operator"</a>]<br>
+<br>Napomena: <a data-tooltip-position="top" aria-label="Koordinatizacija. Zavisnost koordinata vektora o bazi > ^0319ea" data-href="Koordinatizacija. Zavisnost koordinata vektora o bazi#^0319ea" href="matematika\koordinatizacija.-zavisnost-koordinata-vektora-o-bazi.html#^0319ea" class="internal-link" target="_self" rel="noopener">koordinatizacija</a><br>
+<br>Veza između    je baza  i   je baza  i .<br>, def. sa:<br>
+, tako da <br> — slike baznih vektora,<br>
+tada , tj. kolone matrice  su redom <br>
+Dakle, ako , onda <br>Teorema.  i jeste izomorfizam.<br><br>Teorema.   i  su izomorfni algebre sa jedinicom.<br>
+ slika regularni LO u invertibilne matrice.<br><br>,<br>
+.<br> je baza ,  je baza ,  je baza ,<br>
+, , .<br><br><br>
+<br>
+<br>Odakle: <br><br>Konačno,  <br><br>Napomena: <a data-tooltip-position="top" aria-label="Koordinatizacija. Zavisnost koordinata vektora o bazi > Prelazak sa jedne baze na drugu" data-href="Koordinatizacija. Zavisnost koordinata vektora o bazi#Prelazak sa jedne baze na drugu" href="matematika\koordinatizacija.-zavisnost-koordinata-vektora-o-bazi.html#Prelazak_sa_jedne_baze_na_drugu" class="internal-link" target="_self" rel="noopener">Zavisnost koordinata vektora o bazi</a><br>
+<br>Teorema. Neka su<br>
+ i  baze VP-a ,<br>
+ i  baze VP-a ,<br>
+<br>Tada: <br>
+Dokaz:<br>
+ posmatrajmo <br>
+u bazama  i :    (1)<br>
+u bazama  i :    (2)
+Iz <a data-tooltip-position="top" aria-label="Koordinatizacija. Zavisnost koordinata vektora o bazi > ^da8114" data-href="Koordinatizacija. Zavisnost koordinata vektora o bazi#^da8114" href="matematika\koordinatizacija.-zavisnost-koordinata-vektora-o-bazi.html#^da8114" class="internal-link" target="_self" rel="noopener">teoreme</a>:<br>
+  (3)<br>
+  (4)
+
+Odakle, jer je  regularna, imamo:<br>
+
+<br><br>Specijalno za  i<br>
+,  baze VP-a :<br> <br><br>Operatori  i  imaju istu matricu u svim bazama:  i <br><br><a data-tooltip-position="top" aria-label="Kvadratna matrica > Sličnost matrica" data-href="Kvadratna matrica#Sličnost matrica" href="matematika\kvadratna-matrica.html#Sličnost_matrica" class="internal-link" target="_self" rel="noopener">Sličnost matrica</a>]]></description><link>matematika\matrica-linearnog-operatora.html</link><guid isPermaLink="false">Matematika/Matrica linearnog operatora.md</guid><pubDate>Tue, 17 Sep 2024 20:56:32 GMT</pubDate></item><item><title><![CDATA[Matrica relacije]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:ds1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ds1</a> 
  <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:ds1" class="tag" target="_blank" rel="noopener">#ds1</a> [deo <a data-tooltip-position="top" aria-label="Relacija" data-href="Relacija" href="matematika\relacija.html" class="internal-link" target="_self" rel="noopener">poglavlja "relacija"</a>]<br>
 <br>Def. ,  su konačni skupovi, <br>
-Matrica relacije  (oznaka ) je matrica sa komponentima <br>
+Matrica relacije  (oznaka ) je <a data-tooltip-position="top" aria-label="Matrica" data-href="Matrica" href="matematika\matrica.html" class="internal-link" target="_self" rel="noopener">matrica</a> sa komponentima <br>
 <br><a class="internal-link" data-href="matrica relacije primer.png" href="media\matrica-relacije-primer.png" target="_self" rel="noopener">Primer</a><br>Def. Bulov proizvod matrica  i  je matrica  ako važi ,<br>
 gde su <br>
 definisani slično kao <a class="internal-link" data-href="Logičke operacije" href="matematika\logičke-operacije.html" target="_self" rel="noopener">logičke konjunkcija i disjunkcija</a>.<br>
@@ -1071,7 +1384,7 @@ Oznaka: <br><a class="internal-link" data-href="bulov proizvod primer.png" href=
 <br>(S)    matrica je simetrična u odnosu na glavnu dijagonalu
 <br>(AS)   za ,  i  ne mogu oba biti 1 ()
 <br>(T)    za svako  i  ako je jedinica na mestu  u matrici , tada je jedinica na mesu  u matrici .
-]]></description><link>matematika\matrica-relacije.html</link><guid isPermaLink="false">Matematika/Matrica relacije.md</guid><pubDate>Wed, 11 Sep 2024 00:40:58 GMT</pubDate></item><item><title><![CDATA[Minimalizacija logičkih izraza]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:cs/ar" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/ar</a> 
+]]></description><link>matematika\matrica-relacije.html</link><guid isPermaLink="false">Matematika/Matrica relacije.md</guid><pubDate>Thu, 19 Sep 2024 22:21:15 GMT</pubDate></item><item><title><![CDATA[Minimalizacija logičkih izraza]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:cs/ar" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/ar</a> 
  <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:cs\ar" class="tag" target="_blank" rel="noopener">#cs/ar</a> [deo <a data-tooltip-position="top" aria-label="Iskazna logika" data-href="Iskazna logika" href="matematika\iskazna-logika.html" class="internal-link" target="_self" rel="noopener">iskazne logike</a> i <a data-tooltip-position="top" aria-label="Računarstvo" data-href="Računarstvo" href="računarstvo\računarstvo.html" class="internal-link" target="_self" rel="noopener">računarstva</a>]<br>
 <br>Transformirati <a data-tooltip-position="top" aria-label="Normalne forme" data-href="Normalne forme" href="matematika\normalne-forme.html" class="internal-link" target="_self" rel="noopener">savršeni DNF</a> u <a data-tooltip-position="top" aria-label="Normalne forme" data-href="Normalne forme" href="matematika\normalne-forme.html" class="internal-link" target="_self" rel="noopener">DNF</a> sa najmanje veznika.<br><br>
 <br>grupisanje: <br>
@@ -1295,7 +1608,7 @@ Oznaka: <br>Teorema (karakterizacija potprostora). ,  je VP. Tada su ekvivalentn
 b) 
 <br>
 <br>
-<br>Stav.  je konačno dim. VP, . Tada <br>
+<br>Stav.  je konačnodimenzioni VP, . Tada <br>
 Specijalno ako , onda <br><br>Teorema. Neka je  familija potprostora VP-a .<br>
 Presek potprostora  je potprostor od .<br><br>Def.  i  su VP nad .   je direktan proizvod prostora ako:<br>
 <br>(s)  važi:<br>
@@ -1317,10 +1630,10 @@ Oznaka: .<br>Stav. ,  je VP. Tada<br>
 <br>Teorema. ,  je VP,  Tada<br>
 <br>
 <br> gde je   familija svih potprostora od  koji sadrže .
-<br>! VP/potprostor je lineal nad svojom bazom <br><br>Def. ,  je konačno dim. VP. Tada je suma potprostora .<br>
+<br>! VP/potprostor je lineal nad svojom bazom <br><br>Def. ,  je konačnodimenzioni VP. Tada je suma potprostora .<br>
 Suma je direktna ako  Oznaka: <br>Teorema. ,  je VP. Tada<br>
 <br>Stav. ,  je VP. Tada<br>
-<br>Teorema (Grasmanova formula). ,  je VP. Tada .<br>Posledica. <br>Stav. ]]></description><link>matematika\potprostor.-operacije-nad-potprostorima.html</link><guid isPermaLink="false">Matematika/Potprostor. Operacije nad potprostorima.md</guid><pubDate>Wed, 11 Sep 2024 12:07:02 GMT</pubDate></item><item><title><![CDATA[Prebrojavanja]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:ds2" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ds2</a> 
+<br>Teorema (Grasmanova formula). ,  je VP. Tada .<br>Posledica. <br>Stav. ]]></description><link>matematika\potprostor.-operacije-nad-potprostorima.html</link><guid isPermaLink="false">Matematika/Potprostor. Operacije nad potprostorima.md</guid><pubDate>Sun, 15 Sep 2024 19:27:48 GMT</pubDate></item><item><title><![CDATA[Prebrojavanja]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:ds2" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ds2</a> 
  <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:ds2" class="tag" target="_blank" rel="noopener">#ds2</a> [deo <a data-tooltip-position="top" aria-label="Kombinatorika" data-href="Kombinatorika" href="matematika\kombinatorika.html" class="internal-link" target="_self" rel="noopener">kombinatorike</a>]<br>
 <br><br>
 <br>princip jednakosti:<br>
@@ -1444,7 +1757,36 @@ Neka su to <br>
 Tada  mora biti složen (jer )<br>
 nijedan od brojeva  ne deli    je prost (kontradikcija).
 <br><br><a data-tooltip-position="top" aria-label="prost teorema.png" data-href="prost teorema.png" href="media\prost-teorema.png" class="internal-link" target="_self" rel="noopener">Teorema</a>. Svaki prirodni broj  može se napisati u obliku proizvoda stepena prostih brojeva na jedinstven način (do na redosled faktora).<br>
-,   su prosti;  ]]></description><link>matematika\prost-broj.html</link><guid isPermaLink="false">Matematika/Prost broj.md</guid><pubDate>Wed, 11 Sep 2024 00:40:58 GMT</pubDate></item><item><title><![CDATA[Realni brojevi]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:a1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#a1</a> 
+,   su prosti;  ]]></description><link>matematika\prost-broj.html</link><guid isPermaLink="false">Matematika/Prost broj.md</guid><pubDate>Wed, 11 Sep 2024 00:40:58 GMT</pubDate></item><item><title><![CDATA[Rang matrice. Elementarne transformacije]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:laag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#laag</a> 
+ <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:laag" class="tag" target="_blank" rel="noopener">#laag</a> [deo poglavlja <a data-tooltip-position="top" aria-label="Matrica" data-href="Matrica" href="matematika\matrica.html" class="internal-link" target="_self" rel="noopener">"matrica"</a>]<br><br>Napomena: <a data-tooltip-position="top" aria-label="Matrica linearnog operatora" data-href="Matrica linearnog operatora" href="matematika\matrica-linearnog-operatora.html" class="internal-link" target="_self" rel="noopener">matrica linearnog operatora</a><br>Pojam ranga matrice se prenosi sa <a data-tooltip-position="top" aria-label="Slika i jezgro, rang i defekt linearnog operatora. Regularni operator" data-href="Slika i jezgro, rang i defekt linearnog operatora. Regularni operator" href="matematika\slika-i-jezgro,-rang-i-defekt-linearnog-operatora.-regularni-operator.html" class="internal-link" target="_self" rel="noopener">linearnih operatora</a>, pomoću izomorfizma :<br>
+ je baza ,  je baza ,<br>
+<br><br>
+ je skup generatora od .<br>
+ — kolone .<br>, tj. broj linearno nezavisnih od .<br>
+ je broj linearno nezavisnih kolona .<br><br>Def. Kanonska matrica ranga  tipa  je matrica:<br><br><br>Teorema (<a data-tooltip-position="top" aria-label="Slika i jezgro, rang i defekt linearnog operatora. Regularni operator > ^6367f1" data-href="Slika i jezgro, rang i defekt linearnog operatora. Regularni operator#^6367f1" href="matematika\slika-i-jezgro,-rang-i-defekt-linearnog-operatora.-regularni-operator.html#^6367f1" class="internal-link" target="_self" rel="noopener">analogna za LO</a>). .<br>
+<br> 
+<br> je relacija ekvivalencije na 
+<br><br>Def. Elementarne transformacije su:<br>
+<br>(el1) Množenje vrste (kolone) sa skalarom 
+<br>(el2) Zamena mesta dve vrste (kolone) 
+<br>(el3) Dodavanje -te vrste (kolone) -toj vrsti (koloni). 
+<br><br>(el1):<br>
+
+ — množi -tu vrstu  sa <br>
+ — množi -tu kolonu  sa 
+
+<br>(el2):<br>
+
+ — menja -tu i -tu vrstu  mestima<br>
+ — menja -tu i -tu kolonu  mestima
+
+<br>(el3):<br>
+ , 
+ — doda -tu vrstu -toj vrsti <br>
+ — doda -tu kolonu -toj koloni 
+
+<br>Stav. Elementarne transformacije ne menjaju rang matrice. (Posledica iz prethodne teoreme)<br>Stav. . Postoji konačan broj elementarnih transformacija  i  tako da . Odakle <br>Specijalno: ako je  invertibilna, primenom konačnog broja elementarnih transformacija samo nad vrstama (kolonama) može da se dobija .<br>
+<br><a data-tooltip-position="top" aria-label="Inverzna matrica > Traženje pomoću elementarnih transformacija" data-href="Inverzna matrica#Traženje pomoću elementarnih transformacija" href="matematika\inverzna-matrica.html#Traženje_pomoću_elementarnih_transformacija" class="internal-link" target="_self" rel="noopener">Traženje inverzne matrice pomoću elementarnih transformacija</a><br><a data-tooltip-position="top" aria-label="Sistem linearnih jednačina > Gausova metoda rešavanja sistema" data-href="Sistem linearnih jednačina#Gausova metoda rešavanja sistema" href="matematika\sistem-linearnih-jednačina.html#Gausova_metoda_rešavanja_sistema" class="internal-link" target="_self" rel="noopener">Gausova metoda rešavanja sistema</a>]]></description><link>matematika\rang-matrice.-elementarne-transformacije.html</link><guid isPermaLink="false">Matematika/Rang matrice. Elementarne transformacije.md</guid><pubDate>Thu, 19 Sep 2024 21:11:21 GMT</pubDate></item><item><title><![CDATA[Realni brojevi]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:a1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#a1</a> 
  <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:a1" class="tag" target="_blank" rel="noopener">#a1</a> [deo <a data-tooltip-position="top" aria-label="Brojevi" data-href="Brojevi" href="matematika\brojevi.html" class="internal-link" target="_self" rel="noopener">poglavlja "brojevi"</a>]<br>
 <br><br><br>
 Abelova grupa :<br>
@@ -1484,7 +1826,30 @@ Abelova grupa :<br>
 <br>
 Svaki neprazan <a data-tooltip-position="top" aria-label="Relacija poretka > Najmanji, najveći, minimalni, maksimalni" data-href="Relacija poretka#Najmanji, najveći, minimalni, maksimalni" href="matematika\relacija-poretka.html#Najmanji,_najveći,_minimalni,_maksimalni" class="internal-link" target="_self" rel="noopener">ograničen odozgo</a> skup ima <a data-tooltip-position="top" aria-label="Relacija poretka > Najmanji, najveći, minimalni, maksimalni" data-href="Relacija poretka#Najmanji, najveći, minimalni, maksimalni" href="matematika\relacija-poretka.html#Najmanji,_najveći,_minimalni,_maksimalni" class="internal-link" target="_self" rel="noopener">supremum</a>. (SUP)
 
-<br>(SUP)  <a data-tooltip-position="top" aria-label="Realni brojevi > Arhimedovo svojstvo ($ mathbb{R}$)" data-href="Realni brojevi#Arhimedovo svojstvo ($ mathbb{R}$)" href="matematika\realni-brojevi.html#Arhimedovo_svojstvo_($_mathbb{R}$)" class="internal-link" target="_self" rel="noopener">(ARH)</a> i <a data-tooltip-position="top" aria-label="Realni brojevi > Kantorova teorema (umetnuti segmenti)" data-href="Realni brojevi#Kantorova teorema (umetnuti segmenti)" href="matematika\realni-brojevi.html#Kantorova_teorema_(umetnuti_segmenti)" class="internal-link" target="_self" rel="noopener">(KANT)</a><br><a data-tooltip-position="top" aria-label="Relacija poretka > Relacija $ leqslant$ u skupu $ mathbb{R}$" data-href="Relacija poretka#Relacija $ leqslant$ u skupu $ mathbb{R}$" href="matematika\relacija-poretka.html#Relacija_$_leqslant$_u_skupu_$_mathbb{R}$" class="internal-link" target="_self" rel="noopener">Maksimum i supremum, minimum i infinum</a><br><a data-href="Broj e" href="matematika\broj-e.html" class="internal-link" target="_self" rel="noopener">Broj e</a><br>Def. <br><br><a data-tooltip-position="top" aria-label="analiza1_0_Arhimedova.png" data-href="analiza1_0_Arhimedova.png" href="media\analiza1_0_arhimedova.png" class="internal-link" target="_self" rel="noopener">Teorema</a>. <br><br>Def. Segment u  je ograničen zatvoren interval.<br><a data-tooltip-position="top" aria-label="analiza1_0_Katorova.png" data-href="analiza1_0_Katorova.png" href="media\analiza1_0_katorova.png" class="internal-link" target="_self" rel="noopener">Teorema</a>.  Tada <br><br>]]></description><link>matematika\realni-brojevi.html</link><guid isPermaLink="false">Matematika/Realni brojevi.md</guid><pubDate>Wed, 11 Sep 2024 00:40:58 GMT</pubDate></item><item><title><![CDATA[Rekurentna jednačina]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:ds2" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ds2</a> 
+<br>(SUP)  <a data-tooltip-position="top" aria-label="Realni brojevi > Arhimedovo svojstvo ($ mathbb{R}$)" data-href="Realni brojevi#Arhimedovo svojstvo ($ mathbb{R}$)" href="matematika\realni-brojevi.html#Arhimedovo_svojstvo_($_mathbb{R}$)" class="internal-link" target="_self" rel="noopener">(ARH)</a> i <a data-tooltip-position="top" aria-label="Realni brojevi > Kantorova teorema (umetnuti segmenti)" data-href="Realni brojevi#Kantorova teorema (umetnuti segmenti)" href="matematika\realni-brojevi.html#Kantorova_teorema_(umetnuti_segmenti)" class="internal-link" target="_self" rel="noopener">(KANT)</a><br><a data-tooltip-position="top" aria-label="Relacija poretka > Relacija $ leqslant$ u skupu $ mathbb{R}$" data-href="Relacija poretka#Relacija $ leqslant$ u skupu $ mathbb{R}$" href="matematika\relacija-poretka.html#Relacija_$_leqslant$_u_skupu_$_mathbb{R}$" class="internal-link" target="_self" rel="noopener">Maksimum i supremum, minimum i infinum</a><br><a data-href="Broj e" href="matematika\broj-e.html" class="internal-link" target="_self" rel="noopener">Broj e</a><br>Def. <br><br><a data-tooltip-position="top" aria-label="analiza1_0_Arhimedova.png" data-href="analiza1_0_Arhimedova.png" href="media\analiza1_0_arhimedova.png" class="internal-link" target="_self" rel="noopener">Teorema</a>. <br><br>Def. Segment u  je ograničen zatvoren interval.<br><a data-tooltip-position="top" aria-label="analiza1_0_Katorova.png" data-href="analiza1_0_Katorova.png" href="media\analiza1_0_katorova.png" class="internal-link" target="_self" rel="noopener">Teorema</a>.  Tada <br><br>]]></description><link>matematika\realni-brojevi.html</link><guid isPermaLink="false">Matematika/Realni brojevi.md</guid><pubDate>Wed, 11 Sep 2024 00:40:58 GMT</pubDate></item><item><title><![CDATA[Redukcija linearnog operatora]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:laag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#laag</a> 
+ <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:laag" class="tag" target="_blank" rel="noopener">#laag</a> [deo poglavlja <a data-tooltip-position="top" aria-label="Linearni operator" data-href="Linearni operator" href="matematika\linearni-operator.html" class="internal-link" target="_self" rel="noopener">"linearni operator"</a>]<br>
+<br>Def. , .<br>
+ je invarijantan potprostor operatora  ako .<br>
+<br>Restrikcija  na :    def. sa  <br>Trivijalni invarijantni prostori:  i <br>Stav. . Tada:  i  su invarijantni prostori od .<br><br>Def.  je<br>
+<br>reducibilan, ako ima netrivijalan invarijantni potprostor;
+<br>ireducibilan, ako ima samo trivijalne inv. potprostore;
+<br>dekompozabilan, ako ima netrivijalne inv. potprostore  i , takve da  
+<br>potpuno reducibilan, ako za svaki netrivijalan inv. potprostor  postoji netrivijalan inv. potprostor .
+<br>Def. Ako je  dekompozabilan, onda  je u potpunosti određen<br>
+restrikcijama  i :<br>
+<br>
+Dakle, <br>
+Tada  je direktna suma operatora  i .<br>
+Oznaka: <br>Teorema. <br>
+<br> je reducibilan,  je invarijantan potprostor <br>
+  — baza od  takva da matrica operatora  u bazi  je oblika , gde je  matrica operatora .<br>
+
+<br> je dekompozabilan,  <br>
+  — baza od  takva da matrica operatora  u bazi  je oblika , gde su  i  matrice operatora  i .<br>
+
+<br> je potpuno reducibilan,  su invarijantni potprostori takvi da   <br>
+  — baza od  takva da matrica operatora  u bazi  je oblika , gde je  matrica operatora .
+]]></description><link>matematika\redukcija-linearnog-operatora.html</link><guid isPermaLink="false">Matematika/Redukcija linearnog operatora.md</guid><pubDate>Sun, 22 Sep 2024 14:06:18 GMT</pubDate></item><item><title><![CDATA[Rekurentna jednačina]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:ds2" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ds2</a> 
  <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:ds2" class="tag" target="_blank" rel="noopener">#ds2</a> [deo <a data-tooltip-position="top" aria-label="Kombinatorika" data-href="Kombinatorika" href="matematika\kombinatorika.html" class="internal-link" target="_self" rel="noopener">kombinatorike</a>]<br>
 <br>Opšti oblik rekurentne jednačine -tog reda:<br>
 <br>Def. <br>
@@ -1659,7 +2024,68 @@ Dokaz za , za  analagno
 (Za proizvoljno  naći  koristeći <a data-tooltip-position="top" aria-label="Realni brojevi > Arhimedovo svojstvo ($ mathbb{R}$)" data-href="Realni brojevi#Arhimedovo svojstvo ($ mathbb{R}$)" href="matematika\realni-brojevi.html#Arhimedovo_svojstvo_($_mathbb{R}$)" class="internal-link" target="_self" rel="noopener">(ARH)</a>)
 
 
-]]></description><link>matematika\relacija-poretka.html</link><guid isPermaLink="false">Matematika/Relacija poretka.md</guid><pubDate>Wed, 11 Sep 2024 00:40:58 GMT</pubDate><enclosure url="lib\media\haseov-dijagram-primer-1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\haseov-dijagram-primer-1.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Svojstva skupova]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:ds1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ds1</a> 
+]]></description><link>matematika\relacija-poretka.html</link><guid isPermaLink="false">Matematika/Relacija poretka.md</guid><pubDate>Wed, 11 Sep 2024 00:40:58 GMT</pubDate><enclosure url="lib\media\haseov-dijagram-primer-1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\haseov-dijagram-primer-1.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Sistem linearnih jednačina]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:laag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#laag</a> 
+ <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:laag" class="tag" target="_blank" rel="noopener">#laag</a> [deo <a data-tooltip-position="top" aria-label="Linearna algebra" data-href="Linearna algebra" href="matematika\linearna-algebra.html" class="internal-link" target="_self" rel="noopener">linearne algebre</a>]<br>
+<br>Def. Sistem linearnih jednačina u promenljivima  je:<br>
+<br>Kraće: <br>Matrični oblik: , gde <br> — <a data-tooltip-position="top" aria-label="Matrica" data-href="Matrica" href="matematika\matrica.html" class="internal-link" target="_self" rel="noopener">matrica</a> sistema<br><br>Def. Proširena matrica sistema: <br>Rešenje sistema je svaka uređena -torka , takva da zamenom  važi svaka jednačina u sistemu.<br>Kada je  i  je <a data-tooltip-position="top" aria-label="Inverzna matrica" data-href="Inverzna matrica" href="matematika\inverzna-matrica.html" class="internal-link" target="_self" rel="noopener">invertibilna</a> rešenje je <br><br>Prelazak na <a data-tooltip-position="top" aria-label="Linearni operator" data-href="Linearni operator" href="matematika\linearni-operator.html" class="internal-link" target="_self" rel="noopener">LO</a>:<br> i  su <a data-tooltip-position="top" aria-label="Vektorski prostor" data-href="Vektorski prostor" href="matematika\vektorski-prostor.html" class="internal-link" target="_self" rel="noopener">VP</a> nad ,<br>
+ je baza ,<br>
+ je baza .<br>
+Tada , takav da .<br>Rešavanje sistema se svodi na određivanje , tada  za svako pronađeno .<br>Teorema (Kroneker-Kapelijva) uslovi gore.<br>
+Sledeći iskazi su ekvivalentni:<br>
+<br>sistem ima rešenja
+<br>
+<br>
+<br>Posledica. Ako  (tj. ), sistem ima rešenja.<br><br>Def. Sistem je Kramerov ako <br>Teorema. Kramerov sistem uvek ima jedinstveno rešenje: <br>gde je <br><br>Homogeni sistem ,  :<br>
+<br>Skup rešenja je jezgro LO :<br>
+Ako je  baza , tada je svako rešenje sistema oblika 
+<br>Ima bar jedno rešenje  — trivijalno rešenje.
+<br> netrivijalno rešenje
+<br><br>Nehomogeni sistem :<br>
+Svakom nehomogenom sistemu pridružen je homogeni:  .<br>Teorema. Ako  onda svako rešenje sistema  je oblika: , <br>gde je   baza ,<br>
+i  je neko rešenje tj.  <br><br><br>Napomena: <a data-tooltip-position="top" aria-label="Rang matrice. Elementarne transformacije > Elementarne transformacije" data-href="Rang matrice. Elementarne transformacije#Elementarne transformacije" href="matematika\rang-matrice.-elementarne-transformacije.html#Elementarne_transformacije" class="internal-link" target="_self" rel="noopener">elementarne transformacije</a><br><br>Ako , sistem nema rešenja.<br>Ako , sistem ima rešenja.<br>
+,  <br>Rešenja su:<br>
+<br> su slobodni parametri.<br>
+Dimenzija skupa rešenja je .<br><br>
+<br> je partikularno rešenje<br>
+ su rešenja homogenog sistema ]]></description><link>matematika\sistem-linearnih-jednačina.html</link><guid isPermaLink="false">Matematika/Sistem linearnih jednačina.md</guid><pubDate>Thu, 19 Sep 2024 22:19:03 GMT</pubDate></item><item><title><![CDATA[Slika i jezgro, rang i defekt linearnog operatora. Regularni operator]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:laag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#laag</a> 
+ <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:laag" class="tag" target="_blank" rel="noopener">#laag</a> [deo poglavlja <a data-tooltip-position="top" aria-label="Linearni operator" data-href="Linearni operator" href="matematika\linearni-operator.html" class="internal-link" target="_self" rel="noopener">"linearni operator"</a>]<br>
+<br>Napomene: <a data-href="direktna i inverzna slika skupa" href="matematika\direktna-i-inverzna-slika-skupa.html" class="internal-link" target="_self" rel="noopener">direktna i inverzna slika skupa</a>, <a data-tooltip-position="top" aria-label="Potprostor. Operacije nad potprostorima" data-href="Potprostor. Operacije nad potprostorima" href="matematika\potprostor.-operacije-nad-potprostorima.html" class="internal-link" target="_self" rel="noopener">potprostor</a><br>Stav. . Tada<br>
+<br>
+<br>
+<br><br><br>
+Def. . Tada<br>
+<br>slika lin. operatora  je 
+<br>jezgro lin. operatora  je 
+<br>Stav. . Tada<br>
+<br>
+<br>
+<br> je monomorfizam (1-1)
+<br><br>Def. . Tada<br>
+<br>rang  je 
+<br>defekt  je 
+<br>Teorema (o rangu i defektu). . Tada <br>Posledica 1.  je pravi potprostor od konačnodimenzionog VP-a . Tada  i  nisu izomorfni: <br>
+<br> ne može biti epimorfizam (na)
+<br> ne može biti monomorfizam (1-1)
+<br>Posledica 2.  je konačnodimenzioni VP, . Tada su ekvivalentne:<br>
+<br> je epimorfizam (na)
+<br> je monomorfizam (1-1)
+<br> je izomorfizam (bijekcija)
+<br>Posledica 3.  je konačnodimenzioni VP, , takve da <br>
+Tada su  i  izomorfizmi i  <br><br>Stav (svojstva projektora).  je konačnodimenzioni VP,  i važi . Tada<br>
+<br>
+<br> nije izomorfizam
+<br>
+<br><br>Def.  je regularan ako je maksimalnog ranga:<br>
+<br>ako <br>
+ je regularan <br>
+
+<br>ako <br>
+ je regularan 
+<br>Stav. <br>
+ je regularan  je invertibilan  je izomorfizam<br>Teorema (<a data-tooltip-position="top" aria-label="Rang matrice. Elementarne transformacije > ^4f9e63" data-href="Rang matrice. Elementarne transformacije#^4f9e63" href="matematika\rang-matrice.-elementarne-transformacije.html#^4f9e63" class="internal-link" target="_self" rel="noopener">analogna za matrice</a>). <br>
+<br> 
+<br> je relacija ekvivalencije na 
+]]></description><link>matematika\slika-i-jezgro,-rang-i-defekt-linearnog-operatora.-regularni-operator.html</link><guid isPermaLink="false">Matematika/Slika i jezgro, rang i defekt linearnog operatora. Regularni operator.md</guid><pubDate>Tue, 17 Sep 2024 13:33:56 GMT</pubDate></item><item><title><![CDATA[Svojstva skupova]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:ds1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ds1</a> 
  <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:ds1" class="tag" target="_blank" rel="noopener">#ds1</a> [deo <a data-tooltip-position="top" aria-label="Teorija skupova" data-href="Teorija skupova" href="matematika\teorija-skupova.html" class="internal-link" target="_self" rel="noopener">teoriji skupova</a>]<br>
 <br>
 <br> — asocijativnost<br>
@@ -1907,18 +2333,14 @@ Iz teoreme<br>
 <br>Skup <a data-tooltip-position="top" aria-label="Vektor" data-href="Vektor" href="matematika\vektor.html" class="internal-link" target="_self" rel="noopener">vektora</a> u prostoru 
 <br>Skup radijus-vektora u prostoru 
 <br> — skup uređenih -torki
-<br> — <a data-tooltip-position="top" aria-label="Matrica" data-href="Matrica" href="matematika\matrica.html" class="internal-link" target="_self" rel="noopener">matrice</a>
-<br> — polinomi
+<br> — <a data-tooltip-position="top" aria-label="Matrica" data-href="Matrica" href="matematika\matrica.html" class="internal-link" target="_self" rel="noopener">matrice</a> 
+<br> — polinomi stepena (najviše) 
 <br>Skup <a data-tooltip-position="top" aria-label="Niz brojeva" data-href="Niz brojeva" href="matematika\niz-brojeva.html" class="internal-link" target="_self" rel="noopener">nizova</a> 
 <br><a data-tooltip-position="top" aria-label="Red" data-href="Red" href="Red" class="internal-link" target="_self" rel="noopener">Redovi</a> 
 <br>Funkcije .  i <br>
 (s) <br>
 (ms) 
-<br><br><br><br>Def.  i  su VP nad . Preslikavanje  zove se izomorfizam VP-a  i  ako <br>
-<br>
-<br>
-<br> je bijekcija
-<br>]]></description><link>matematika\vektorski-prostor.html</link><guid isPermaLink="false">Matematika/Vektorski prostor.md</guid><pubDate>Wed, 11 Sep 2024 23:18:26 GMT</pubDate></item><item><title><![CDATA[Vrste tačaka u odnosu na neki skup]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:a1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#a1</a> 
+<br><br><br>]]></description><link>matematika\vektorski-prostor.html</link><guid isPermaLink="false">Matematika/Vektorski prostor.md</guid><pubDate>Tue, 17 Sep 2024 20:10:44 GMT</pubDate></item><item><title><![CDATA[Vrste tačaka u odnosu na neki skup]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:a1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#a1</a> 
  <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:a1" class="tag" target="_blank" rel="noopener">#a1</a> [deo <a data-tooltip-position="top" aria-label="Realni brojevi" data-href="Realni brojevi" href="matematika\realni-brojevi.html" class="internal-link" target="_self" rel="noopener">poglavlja "realni brojevi"</a>]<br>
 <br>
 <a data-href="Okolina tačke" href="matematika\okolina-tačke.html" class="internal-link" target="_self" rel="noopener">Okolina tačke</a><br>Def. Neka je  neki podskup . Tada<br>
@@ -2173,7 +2595,7 @@ f: a = 3, b = 5
 Copy]]></description><link>računarstvo\doseg,-životni-vek-i-povezanost-(c).html</link><guid isPermaLink="false">Računarstvo/Doseg, životni vek i povezanost (C).md</guid><pubDate>Thu, 12 Sep 2024 16:18:45 GMT</pubDate></item><item><title><![CDATA[Funkcije (C)]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:cs/prog/c" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/prog/c</a> 
  <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:cs\prog\c" class="tag" target="_blank" rel="noopener">#cs/prog/c</a> [deo <a data-tooltip-position="top" aria-label="Programski jezik C" data-href="Programski jezik C" href="računarstvo\programski-jezik-c.html" class="internal-link" target="_self" rel="noopener">jezika C</a>]<br>
 <br>Funkcija main je glavna funkcija sa koje počinje izvršavanje programa.<br>
-Iz main (i drugih funkcija) pozivaju se druge funkcije: <a data-tooltip-position="top" aria-label="Standardne biblioteke (C)" data-href="Standardne biblioteke (C)" href="standardne-biblioteke-(c).html" class="internal-link" target="_self" rel="noopener">bibliotečke</a> ili korisnički.<br>U funkciju se obično izdvajaju neka izračunavanja, koja predstavljaju celinu i koristi se više puta u programu.<br><br>#include &lt;stdio.h&gt;
+Iz main (i drugih funkcija) pozivaju se druge funkcije: <a data-tooltip-position="top" aria-label="Standardne biblioteke (C)" data-href="Standardne biblioteke (C)" href="računarstvo\standardne-biblioteke-(c).html" class="internal-link" target="_self" rel="noopener">bibliotečke</a> ili korisnički.<br>U funkciju se obično izdvajaju neka izračunavanja, koja predstavljaju celinu i koristi se više puta u programu.<br><br>#include &lt;stdio.h&gt;
 
 int kvadrat(int n);    // deklaracija
 // kvadrat ima jedan parametar tipa int i vrača rezultat tipa int
@@ -2223,7 +2645,7 @@ RunCopy<br>Funkcija ne vraća ništa:<br>void funkcija(...) {
 	return; // opcion; samo prekida fju.
 }
 RunCopy<br>Povratna vrednost može biti korisnički definisanog tipa, ali ne može biti niz.<br>main mora da ima povratni tip int<br>
-Konvencija: main vraća 0 ako nema grešaka, i ne-nula kod greške, ako je došlo do greške.<br><br>Tip podataka: va_list — lista argumenata.<br>
+Konvencija: main vraća 0 ako nema grešaka, i ne-nula kod greške, ako je došlo do greške.<br><br>Koriste se uz pomoć uključivanja zaglavlja &lt;stdarg.h&gt;.<br>Tip podataka: va_list — lista argumenata.<br>
 va_start(lista, br_argumenata) — početak<br>
 va_arg(lista, tip) — vrača naredni argument<br>
 va_end(lista) — kraj<br>Primer:<br>#include &lt;stdio.h&gt;
@@ -2245,7 +2667,7 @@ int main() {
 	printf("%d\n", sumof(4, 4, 34, 9, 6));
 	return 0;
 }
-RunCopy]]></description><link>računarstvo\funkcije-(c).html</link><guid isPermaLink="false">Računarstvo/Funkcije (C).md</guid><pubDate>Thu, 12 Sep 2024 20:07:56 GMT</pubDate><enclosure url="lib\media\argumenti_main.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\argumenti_main.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Makroi i uslovno prevođenje (C)]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:cs/prog/c" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/prog/c</a> 
+RunCopy]]></description><link>računarstvo\funkcije-(c).html</link><guid isPermaLink="false">Računarstvo/Funkcije (C).md</guid><pubDate>Fri, 20 Sep 2024 15:28:54 GMT</pubDate><enclosure url="lib\media\argumenti_main.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\argumenti_main.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Makroi i uslovno prevođenje (C)]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:cs/prog/c" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/prog/c</a> 
  <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:cs\prog\c" class="tag" target="_blank" rel="noopener">#cs/prog/c</a> [deo <a data-tooltip-position="top" aria-label="Programski jezik C" data-href="Programski jezik C" href="računarstvo\programski-jezik-c.html" class="internal-link" target="_self" rel="noopener">jezika C</a>]<br>
 <br>Jednostavne operacije nad tekstualnim sadržajem programa, koje se vrše u fazi <a data-tooltip-position="top" aria-label="Organizacija izvornog koda (C) > ^14a8a4" data-href="Organizacija izvornog koda (C)#^14a8a4" href="računarstvo\organizacija-izvornog-koda-(c).html#^14a8a4" class="internal-link" target="_self" rel="noopener">pretprocesiranja</a>.<br><br>uključivanje u program prototipa funkcija:<br>#include "ime_datoteke.h"  //iz direktorijuma programa
 #include &lt;ime_datoteke.h&gt;  //iz direktorijuma standardnih biblioteka
@@ -2549,8 +2971,8 @@ main.o : main.c liste.h
     gcc -c main.c
 Copy<br><br>make određuje zavisnost datoteka, tako što<br>fajl1 : fajle_od_kojih_zavisi_fajl1
 	gcc kako se kreira fajl
-Copy<br>Prvim treba navesti ciljni fajl.<br>
-make će kreirati stablo zavisnosti i gledajući na vreme poslednje promene datoteka će izvršavati samo potrebne komande u potrebnom redosledu.<br>U primeru ako se promenio main.c, prvo će biti izvršeno gcc -c main.c da bi se dobio main.o pa će izvršiti gcc -o program main.o liste.o.]]></description><link>računarstvo\organizacija-izvornog-koda-(c).html</link><guid isPermaLink="false">Računarstvo/Organizacija izvornog koda (C).md</guid><pubDate>Thu, 12 Sep 2024 22:02:48 GMT</pubDate></item><item><title><![CDATA[Organizacija memorije (C)]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:cs/prog/c" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/prog/c</a> <a class="tag" href="?query=tag:todo" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#todo</a> 
+Copy<br>Prvim treba navesti ciljni fajl.<br>Komandna linija:<br>make
+Copy<br>make će kreirati stablo zavisnosti i gledajući na vreme poslednjih promena datoteka će izvršavati samo potrebne komande u potrebnom redosledu.<br>U primeru ako se promenio main.c, prvo će biti izvršeno gcc -c main.c da bi se dobio main.o pa će izvršiti gcc -o program main.o liste.o.]]></description><link>računarstvo\organizacija-izvornog-koda-(c).html</link><guid isPermaLink="false">Računarstvo/Organizacija izvornog koda (C).md</guid><pubDate>Wed, 18 Sep 2024 12:29:27 GMT</pubDate></item><item><title><![CDATA[Organizacija memorije (C)]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:cs/prog/c" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/prog/c</a> <a class="tag" href="?query=tag:todo" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#todo</a> 
  <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:cs\prog\c" class="tag" target="_blank" rel="noopener">#cs/prog/c</a> [deo <a data-tooltip-position="top" aria-label="Programski jezik C" data-href="Programski jezik C" href="računarstvo\programski-jezik-c.html" class="internal-link" target="_self" rel="noopener">jezika C</a>]<br>
 <br><br><br>— mašinski kod programa zaštićen od pisanja<br><br>— globalne, statičke lokalne promenljive, konstantni podaci: konstantni niske.<br><br>— <a data-tooltip-position="top" aria-label="Dinamička alokacija memorije (C)" data-href="Dinamička alokacija memorije (C)" href="računarstvo\dinamička-alokacija-memorije-(c).html" class="internal-link" target="_self" rel="noopener">dinamička alokacija memorije</a><br><br>— prostor za funkcije<br>
 Prilikom jednog poziva funkcije kreira se stek okvir, koji sadrži:<br>
@@ -2919,7 +3341,7 @@ n-ti element je na adresi ime_niza + n * sizeof(tip)<br>Treba paziti da ne prist
 na primer b[-1] ili b[6]<br><br>Niska je niz karaktera koji se završava terminirajućem nulom '\0'.<br>Sledeće inicijalizacije niski su ekvivalentne:<br>char s1[] = "Zdravo";
 char s2[] = {'Z', 'd', 'r', 'a', 'v', 'o', '\0'};
 RunCopy<br>'x' = 120 je karakter;<br>
-"x" = {'x', '\0'} je niska;<br>'\0' = 0<br>printf("547", " + as"); je isto što i printf("547 + as");<br>biblioteka za rad sa niskama <a class="internal-link" data-href="Standardne biblioteke (C).md" href="standardne-biblioteke-(c).html" target="_self" rel="noopener"><code></code></a>&lt;string.h&gt;:<br>dužina niske: strlen(a)<br>
+"x" = {'x', '\0'} je niska;<br>'\0' = 0<br>printf("547", " + as"); je isto što i printf("547 + as");<br>biblioteka za rad sa niskama <a class="internal-link" data-href="Standardne biblioteke (C).md" href="računarstvo\standardne-biblioteke-(c).html" target="_self" rel="noopener"><code></code></a>&lt;string.h&gt;:<br>dužina niske: strlen(a)<br>
 kopiranje niske a u nisku b: strcpy(b, a)<br>
 (duža b mora da bude dovoljna, inače će doći do greške ili do neočekivanog ponašanja)<br><br>tip ime_niza[dim_1][dim2]...;
 RunCopy<br>Na primer:<br>char a[2][3] = {
@@ -2993,51 +3415,322 @@ Point a = {1, 0, 4}, b;   // deklaracija promenljivih
 b.z = 9;
 RunCopy]]></description><link>računarstvo\predstavljanje-podataka-i-operacije-nad-njima-(c).html</link><guid isPermaLink="false">Računarstvo/Predstavljanje podataka i operacije nad njima (C).md</guid><pubDate>Fri, 13 Sep 2024 19:03:32 GMT</pubDate><enclosure url="lib\media\promenljive.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\promenljive.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Programski jezik C]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:cs/prog/c" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/prog/c</a> 
  <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:cs\prog\c" class="tag" target="_blank" rel="noopener">#cs/prog/c</a> [deo <a data-tooltip-position="top" aria-label="Računarstvo" data-href="Računarstvo" href="računarstvo\računarstvo.html" class="internal-link" target="_self" rel="noopener">računarstva</a>]<br>
-<br><br><br><br><br><br><br><br><br><br><br><br>]]></description><link>računarstvo\programski-jezik-c.html</link><guid isPermaLink="false">Računarstvo/Programski jezik C.md</guid><pubDate>Sun, 15 Sep 2024 02:06:11 GMT</pubDate></item><item><title><![CDATA[Računarstvo]]></title><description><![CDATA[<a class="tag" href="?query=tag:cs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs</a> 
- <br><a href=".?query=tag:cs" class="tag" target="_blank" rel="noopener">#cs</a>  [ <a data-href="Home" href="home.html" class="internal-link" target="_self" rel="noopener">Home</a> ]<br>
+<br><br><br><br><br><br><br><br><br><br><br><br>]]></description><link>računarstvo\programski-jezik-c.html</link><guid isPermaLink="false">Računarstvo/Programski jezik C.md</guid><pubDate>Wed, 18 Sep 2024 15:11:07 GMT</pubDate></item><item><title><![CDATA[Računarstvo]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:cs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs</a> 
+ <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:cs" class="tag" target="_blank" rel="noopener">#cs</a>  [ <a data-href="Home" href="home.html" class="internal-link" target="_self" rel="noopener">Home</a> ]<br>
 <br><a data-href="Programski jezik C" href="računarstvo\programski-jezik-c.html" class="internal-link" target="_self" rel="noopener">Programski jezik C</a><br>Programske paradigme<br>
-Interpretacija i kompilacija<br>Izračunljivost funkcije<br>
-Ispravnost programa<br>
-<a data-href="Složenost algoritma" href="složenost-algoritma.html" class="internal-link" target="_self" rel="noopener">Složenost algoritma</a><br>Rekurzija<br>
-Osnovni algoritmi<br>
-Strukture podataka<br><a data-tooltip-position="top" aria-label="Normalne forme" data-href="Normalne forme" href="matematika\normalne-forme.html" class="internal-link" target="_self" rel="noopener">Digitalna logika</a>]]></description><link>računarstvo\računarstvo.html</link><guid isPermaLink="false">Računarstvo/Računarstvo.md</guid><pubDate>Thu, 12 Sep 2024 22:01:48 GMT</pubDate></item><item><title><![CDATA[Home]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:home" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#home</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:laag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#laag</a> <a class="tag" href="?query=tag:ds1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ds1</a> <a class="tag" href="?query=tag:ds2" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ds2</a> <a class="tag" href="?query=tag:a1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#a1</a> <a class="tag" href="?query=tag:a2" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#a2</a> <a class="tag" href="?query=tag:cs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs</a> <a class="tag" href="?query=tag:cs/prog" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/prog</a> <a class="tag" href="?query=tag:cs/ar" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/ar</a> <a class="tag" href="?query=tag:cs/os" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/os</a> 
- <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:home" class="tag" target="_blank" rel="noopener">#home</a><br>
-<br><br><a href=".?query=tag:laag" class="tag" target="_blank" rel="noopener">#laag</a> <a href=".?query=tag:ds1" class="tag" target="_blank" rel="noopener">#ds1</a> <a href=".?query=tag:ds2" class="tag" target="_blank" rel="noopener">#ds2</a> <a href=".?query=tag:a1" class="tag" target="_blank" rel="noopener">#a1</a> <a href=".?query=tag:a2" class="tag" target="_blank" rel="noopener">#a2</a><br>
-<br><br><a href=".?query=tag:cs\prog" class="tag" target="_blank" rel="noopener">#cs/prog</a> <a href=".?query=tag:cs\ar" class="tag" target="_blank" rel="noopener">#cs/ar</a> <a href=".?query=tag:cs\os" class="tag" target="_blank" rel="noopener">#cs/os</a><br>
-<br><br><br><br>Poslednje ažuriranje: 04:03 15.09.2024]]></description><link>home.html</link><guid isPermaLink="false">Home.md</guid><pubDate>Sun, 15 Sep 2024 02:04:02 GMT</pubDate></item><item><title><![CDATA[Inverzna matrica]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:laag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#laag</a> 
- <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:laag" class="tag" target="_blank" rel="noopener">#laag</a> [deo poglavlja <a data-tooltip-position="top" aria-label="Matrica" data-href="Matrica" href="matematika\matrica.html" class="internal-link" target="_self" rel="noopener">"matrica"</a>]<br>
-<br>Def. Inverzna matrica (inverz) matrici  je matrica  ako važi <br>Tada su  i  invertibilni/regularni.<br>Teorema (svojstva invertibilnih matrica).<br>
-<br>
-<br>
-<br>
-<br>
-<br>  (Posledica Bine-Košijeve teoreme)
-<br><br><br>]]></description><link>inverzna-matrica.html</link><guid isPermaLink="false">Inverzna matrica.md</guid><pubDate>Wed, 11 Sep 2024 22:18:23 GMT</pubDate></item><item><title><![CDATA[Složenost algoritma]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:cs/prog" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/prog</a> 
+Interpretacija i kompilacija<br>Ispravnost programa<br>
+<a data-href="Složenost algoritma" href="računarstvo\složenost-algoritma.html" class="internal-link" target="_self" rel="noopener">Složenost algoritma</a><br>
+Rekurzija<br>Osnovni algoritmi<br>
+Strukture podataka<br><a data-tooltip-position="top" aria-label="Normalne forme" data-href="Normalne forme" href="matematika\normalne-forme.html" class="internal-link" target="_self" rel="noopener">Digitalna logika</a>]]></description><link>računarstvo\računarstvo.html</link><guid isPermaLink="false">Računarstvo/Računarstvo.md</guid><pubDate>Fri, 20 Sep 2024 21:40:00 GMT</pubDate></item><item><title><![CDATA[Složenost algoritma]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:cs/prog" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/prog</a> 
  <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:cs\prog" class="tag" target="_blank" rel="noopener">#cs/prog</a> [deo <a data-tooltip-position="top" aria-label="Računarstvo" data-href="Računarstvo" href="računarstvo\računarstvo.html" class="internal-link" target="_self" rel="noopener">računarstva</a>]<br>
-]]></description><link>složenost-algoritma.html</link><guid isPermaLink="false">Složenost algoritma.md</guid><pubDate>Wed, 11 Sep 2024 00:40:58 GMT</pubDate></item><item><title><![CDATA[Standardne biblioteke (C)]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:cs/prog/c" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/prog/c</a> 
+<br>Efikasnost algoritma:<br>
+<br>vremenska složenost
+<br>memorijska (prostorna) složenost<br>
+
+<br>za neku konkretnu ulaznu veličinu
+<br>asimptotsko ponašanje kado veličina ulaza raste
+<br><br>— Merenje vremena (na primer, u C-u pomoću biblioteke <a class="internal-link" data-href="Standardne biblioteke (C).md" href="računarstvo\standardne-biblioteke-(c).html" target="_self" rel="noopener"><code></code></a>&lt;time.h&gt;).<br>— Procenjivanje vremena, ako znamo prosečno vreme za izvršavanje operacija.<br>— Profajliranje<br>
+<br>analiza performansa programa;
+<br>koliko puta je bila pozvana i koliko vremena je utrošila funkcija.
+<br>Sa ovim znanjem možemo da razumemo koje (najčešće korišćene i koje  najviše troše) funkcije treba da optimizujemo<br><br>
+<br>vreme izvršavanja — funkcija od broja argumenata
+<br>analiza najgoreg slučaja
+<br> — broj instrukcija za  argumenata.<br>,  <br><br>Def.  <br> — klasa funkcija koje raste sporije od <br><br>Def.  <br> — klasa funkcija koje raste brže od <br><br>Def.  <br> — klasa funkcija koje raste slično kao i <br><br>Teorema. važi za ,  i :<br>
+<br>
+<br> Tada:
+
+<br>
+<br>
+
+
+<br><br>
+
+<br>Teorema.<br>
+<br>
+<br><br>
+Odakle:  
+<br>Primeri:<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br><br>Def.  — vreme izvršavanja algoritma  za ulaz veličine , . Tada je algoritam  složenosti (reda) .<br>Složenost algoritama obično se izražava u terminima , pri tome što se traži funkcija  koja raste što sporije.<br>
+Na primer, .<br>
+Iako važi  i  i  i ,<br>
+Kažemo da je taj algoritam složenosti .
+<br>Procenjivane u terminima  je preciznije ali nije uvek moguće.<br>
+Na primer:<br>
+Za neke ulaze , a za neke , tada algoritam nije ni složenosti  ni , ali jeste složenosti 
+<br><br>Složenost:<br>
+ — konstantna<br>
+ — logaritamska<br>
+ — linearna<br>
+ — kvazilinearna<br>
+ — kvadratna<br>
+ — kubna<br>
+ — polinomna <br>
+ — eksponencijalna <br><br>Izračunavanje složenosti:<br>
+<br>Vremenska:
+
+<br>Naredbe bez petlji i poziva funkcija — 
+<br>Blok složenosti  a posle blok  — 
+<br>if (...)  else  — 
+<br>petlja sa  iteracija i  u telu — 
+<br>petlja sa  iteracija unutra petlji sa  iteracija — 
+
+
+<br>Prostorna:
+
+<br>bez poziva fja i dinamička alokacija — 
+<br>alokacija  elemenata složenosti  — 
+<br>alokacija niza od  elemenata  — 
+<br> poziva fje složenosti  iz fje složenosti  — 
+
+
+<br><br>Klasa .<br>
+Def. Algoritam sa  ulaza je polinomske složenosti ako  za neko .<br>
+Klasa problema za koje postoji algoritam sa  označava se sa .<br>Problem zadovoljivosti:<br>
+Da li je <a data-tooltip-position="top" aria-label="Iskazna logika > ^f1f8bc" data-href="Iskazna logika#^f1f8bc" href="matematika\iskazna-logika.html#^f1f8bc" class="internal-link" target="_self" rel="noopener">zadovoljiva</a> data logička formula od  primenljivih?<br>
+ kombinacija  .<br>
+Pripada li problem klasi ? Nema dokaza ni da pripada ni da ne pripada. <br><br>Vremenske:<br>
+<br>Naći delovi (funkcije) koje dominantno utiču na složenost
+<br>Prvo naći algoritam sa najboljim asimptotskim ponašanjem
+<br>Kada je asimptotsko ponašanje najbolje, smanjiti broj naredbi
+<br>Koristiti optimizaciju kompilatora
+<br>Izdvojiti ponavljajući izvršavanja (izdvojiti što više moguće izvan petlji)
+<br>[Prioritet vreme]: Čuvati neka ponavljajuća izračunavanja
+<br>Prostorne:<br>
+<br>Najmanji mogući tipovi
+<br>[Prioritet memorija]: Ne čuvati stvari koje se lako računaju.
+]]></description><link>računarstvo\složenost-algoritma.html</link><guid isPermaLink="false">Računarstvo/Složenost algoritma.md</guid><pubDate>Sat, 21 Sep 2024 14:50:01 GMT</pubDate></item><item><title><![CDATA[Standardne biblioteke (C)]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:cs/prog/c" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/prog/c</a> 
  <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:cs\prog\c" class="tag" target="_blank" rel="noopener">#cs/prog/c</a> [deo <a data-tooltip-position="top" aria-label="Programski jezik C" data-href="Programski jezik C" href="računarstvo\programski-jezik-c.html" class="internal-link" target="_self" rel="noopener">jezika C</a>]<br>
-]]></description><link>standardne-biblioteke-(c).html</link><guid isPermaLink="false">Standardne biblioteke (C).md</guid><pubDate>Wed, 11 Sep 2024 00:40:58 GMT</pubDate></item><item><title><![CDATA[Standardni ulaz i izlaz (C)]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:cs/prog/c" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/prog/c</a> 
+<br><br>// dinamička alokacija:
+void *malloc(size_t n);
+void *calloc(size_t n, size_t size);
+void *realloc(void *memblock, size_t size);
+void free(void* p);
+
+int system(char* command);
+
+// pseudo-slučajni brojevi:
+int rand(void);
+void srand(unsigned);
+
+// zaustavljane programa:
+void exit(int);
+
+// konverzije:
+double atof(const char *str); //str to double
+int atoi(const char *str);    //str to int
+long atol(const char *str);   //str to long
+
+// konverzije:
+// ako endptr nije NULL, stavlja *endptr na karakter posle pročitanog broja
+double strtod(const char *str, char **endptr);
+long strtol(const char *str, char **endptr, int base);
+unsigned long strtoul(const char *str, char **endptr, int base);
+
+
+// binarna pretraga:
+void *bsearch(const void *key, const void *base, size_t nitems, size_t size, int (*compar)(const void *, const void *));
+
+// sortiranje niza:
+void qsort(void *base, size_t nitems, size_t size, int (*compar)(const void *, const void*));
+
+// absolutna vrednost:
+int abs(int x);
+long labs(long x)
+RunCopy<br>Funkcija int rand(void); generiše pseudo-slučajne cele brojeve u intervalu od 0 do RAND_MAX (definisana u zaglavlju)<br>Pseudo-slučajni brojevi u pokretnom zarezu iz intervala [0, 1):<br>((double)rand() / (RAND_MAX+1.0))
+RunCopy<br>Pseudo-slučajni brojevi u  intervalu :<br>n + (m-n+1)*((double)rand() / (RAND_MAX + 1.0))
+RunCopy<br>Funkcija rand niz pseudo-slučajnih brojeva generiše uvek počev od iste podrazumevane vrednosti (koja je jednaka 1). To znači da će se u svakom pokretanju programa dobiti isti niz pseudo-slučajnih brojeva. Funkcija void srand(unsigned); menja tu vrednost.<br>
+Za bilo koju vrednost funkcije srand, niz brojeva koji vraća funkcija rand je uvek isti. <br>Često se kao argument u pozivu funkcije srand navodi trenutno<br>
+vreme: srand(time(NULL)), gde se koristi funkcija time iz zaglavlja &lt;time.h&gt;, da bi se postiglo da se pri svakom pokretanju programa dobije različt niz vrednosti.<br><br>void assert(int x);
+RunCopy<br>Ako je x nula zaustavi program sa greškom:<br>Assertion failed: expression, file filename, line nnn
+Copy<br><br>// dužina:
+size_t strlen (const char* str);
+
+// kopiranje:
+char* strcpy (char* destination, const char* source);
+char* strncpy (char* destination, const char* source,
+size_t num);
+
+// nadovezivanje:
+char* strcat (char* destination, const char* source);
+char* strncat (char* destination, const char* source,
+size_t num);
+
+// poredak: 
+// -1 ako str1 leksikografski manje od str2 
+// 0 ako su iste
+// 1 ako str1 leksikografski veće od str2
+int strcmp (const char* str1, const char* str2);
+int strncmp (const char* str1, const char* str2,
+size_t num);
+
+// vraća pokazivač na prvo pojavljivane karaktera c u niski, NULL ako c nije u niski:
+char* strchr (const char* str, int c);
+// vraća pokazivač na poslednje pojavljivane karaktera c u niski, NULL ako c nije u niski:
+char* strrchr (const char* str, int c);
+// vraća pokazivač na na prvo pojavljivane nekog od karaktera niske str2 i niski str1, NULL ako nijedan karakter nije u niski:
+char* strpbrk (char* str1, char* str2);
+// vraća pokazivač na podnisku jednaku sa str2 u niski str1, NULL ako nije podniska:
+char* strstr (const char* str1, const char* str2);
+
+// dužina početnog dela str1 koji sadrži samo karaktere iz str2:
+size_t strspn (const char* str1, const char* str2);
+// dužina početnog dela str1 koji ne sadrži nijedan od karaktera iz str2:
+size_t strcspn (const char* str1, const char* str2);
+
+// deljenje niske str karakterima iz delimiters, korišćenje dole:
+char* strtok (char* str, const char* delimiters);
+RunCopy<br>strtok:<br>char str[] ="- Ovo, je jedna niska.", delims[] = " ,.-";
+char *s = strtok (str, delims);
+while (s != NULL) {
+	printf ("%s\n", s);
+	s = strtok (NULL, delims);
+}
+RunCopy<br>ispis:<br>Ovo
+je
+jedna
+niska
+Copy<br><br>int isalpha(int c); // vraća ne-nulu ako je c slovo
+int isdigit(int c); // cifra
+int isalnum(int c); // cifra ili broj
+int isspace(int c); // belina (razmak, tab, ...)
+int isupper(int c); // veliko slovo
+int islower(int c); // malo slovo
+int toupper(int c); // vraća c, ako je c bio malo slovo, vraća veliko
+int tolower(int c); // vraća c, ako je c bio veliko slovo, vraća malo
+RunCopy<br><br>double sin(double); double asin(double);
+double cos(double); double acos(double);
+double tan(double); double atan(double);
+double atan2(double, double);
+
+double log(double);
+double log10(double);
+double log2(double);
+double exp(double);
+double pow(double, double);
+double sqrt(double);
+double fabs(double);
+double floor(double);
+double ceil(double);
+double trunc(double);
+double round(double).
+RunCopy<br><br>time_t — tip podataka za predstavljanje vremena u sekundama.<br>
+clock_t — tip podataka za predstavljanje vremena u tikovima.<br>CLOCKS_PER_SEC — broj tikova u sekundi (def. u zaglavlju).<br>time_t time(time_t *time);
+// ako je argument NULL vraća vreme od 1970
+// inače vraća vreme, koje je upisano na adresi time
+
+double difftime(time_t end, time_t start);
+// razlika između dva vremena u sekundama
+
+clock_t clock(void);
+// trenutno vreme u tikovima
+RunCopy<br>U tikovima ima smisla samo oduzeti vreme početka od vremena kraja i podeliti sa CLOCKS_PER_SEC. Time ćemo dobiti vreme potrošeno samo na izvršavanje ovog programa (ne i drugih koji izvršavaju u isto vreme).<br>Primer<br>#include &lt;stdio.h&gt;
+#include &lt;stdlib.h&gt;
+#include &lt;time.h&gt;
+
+#define BROJ_POZIVA 1000
+#define NS_U_S 1000000000 // nanosekundi u sekundi
+
+// funkcija za testiranje:
+int f(void) {
+	int i;
+	for (i = 0; i &lt; 10000; i++);
+}
+
+int main() {
+	int i;
+	double ukupno_ns, f_ns;
+	clock_t t_pocetak = clock();
+	
+	for(i = 0; i &lt; BROJ_POZIVA; i++)
+		f();
+	
+	clock_t t_kraj = clock();
+	
+	ukupno_ns = (double)(t_kraj-t_pocetak) / 
+		CLOCKS_PER_SEC * NS_U_S;
+	f_ns = ukupno_ns / BROJ_POZIVA;
+	
+	printf("%.2lf ns\n", f_ns);
+	return 0;
+}
+RunCopy]]></description><link>računarstvo\standardne-biblioteke-(c).html</link><guid isPermaLink="false">Računarstvo/Standardne biblioteke (C).md</guid><pubDate>Fri, 20 Sep 2024 15:17:38 GMT</pubDate></item><item><title><![CDATA[Ulaz i izlaz (C)]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:cs/prog/c" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/prog/c</a> 
  <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:cs\prog\c" class="tag" target="_blank" rel="noopener">#cs/prog/c</a> [deo <a data-tooltip-position="top" aria-label="Programski jezik C" data-href="Programski jezik C" href="računarstvo\programski-jezik-c.html" class="internal-link" target="_self" rel="noopener">jezika C</a>]<br>
-]]></description><link>standardni-ulaz-i-izlaz-(c).html</link><guid isPermaLink="false">Standardni ulaz i izlaz (C).md</guid><pubDate>Thu, 12 Sep 2024 20:08:59 GMT</pubDate></item><item><title><![CDATA[Zavisnost koordinata vektora i matrice operatora o bazi]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:laag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#laag</a> 
- <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:math" class="tag" target="_blank" rel="noopener">#math</a> <a href=".?query=tag:laag" class="tag" target="_blank" rel="noopener">#laag</a> [deo poglavlja <a data-tooltip-position="top" aria-label="Vektorski prostor" data-href="Vektorski prostor" href="matematika\vektorski-prostor.html" class="internal-link" target="_self" rel="noopener">"vektorski prostor"</a> i <a data-tooltip-position="top" aria-label="Linearni operator" data-href="Linearni operator" href="Linearni operator" class="internal-link" target="_self" rel="noopener">"linearni operator"</a>]<br>
-<br><br>Def.  je VP dimenzije  nad poljem ,   je neka baza VP-a . Tada za bazu , koordinatizacija je preslikavanje , koje je definisano formulom .<br> je izomorfizam VP-a  i  jer važe:<br>
-<br>
-<br>
-<br> je bijekcija
-<br><br>Neka su  i  baze VP-a .<br><br>
-Matrično:<br>
-<br> — matrica prelaska sa  u <br>
-<br><br><br>Odakle: <br>
-Matrično:<br>
-<br>
-<br>Teorema.  su baze VP-a . Tada:<br>
-<br> — skraćeni matrični zapis
-<br> — jedinična matrica
-<br>
-<br>
-<br>
-Dokaz:<br>
-3. 
-   
-   4. 
-<br><br>]]></description><link>zavisnost-koordinata-vektora-i-matrice-operatora-o-bazi.html</link><guid isPermaLink="false">Zavisnost koordinata vektora i matrice operatora o bazi.md</guid><pubDate>Wed, 11 Sep 2024 14:02:45 GMT</pubDate></item></channel></rss>
+<br>Sve funkcije su u zaglavlju &lt;stdio.h&gt;<br><br>Fajlovi standardnog ulaza, izlaza i izlaza za greške pri pokretanju programa:<br>./prog &lt; infile
+./prog &gt; outfile
+./prog 2&gt; errorfile
+Copy<br><br>int getchar(void);  // vraća po 1 karakter sa ulaza, EOF (=-1) na kraju ulaza
+RunCopy<br>int putchar(int c);  // ispisuje jedan karakter na standardni izlaz i vraća taj karakter ili EOF ako je došlo do grške 
+RunCopy<br><br>char* gets(char* s);  // !!! ne gledajući na dužinu niske !!! upisuje u s liniju sa ulaza do EOF ili '\n', umesto kojih stavi '\0', vraća s ili NULL ako nije uspelo (U slučaju greške ne menja s)
+RunCopy<br>int puts(const char* s);  // ispisuje nisku s na standardni izlaz, na kraju umesto '\0' ispisuje '\n'. Ako nije uspelo vraća EOF, inače drugu vrednost
+RunCopy<br><br>int printf(const char *format, ...);
+RunCopy<br>— vraća broj odštampanih karaktera.<br>format niska sadrži obične karaktere za štampanje kao i specifikacije konverzija za argumente ...; jednom argumentu odgovara zapis redom:<br>
+<br>%  —   (obavezan)
+<br>-  —  levo poravnanje
+<br>broj  —  najmanja dužina polja za argument
+<br>.
+<br>broj  —  niske: najmanji broj karaktera<br>
+ pokretan zarez: broj decimala posle tačke<br>
+ celi: najmanji broj cifara<br>
+ili *   —  preciznost u odvojenom argumentu tipa int<br>
+  (primer dole)
+<br>modifikator
+<br>karakter konverzije (obavezan)
+<br>Karakteri konverzije:<br>
+<img alt="karakteri konverzije printf.png" src="lib\media\karakteri-konverzije-printf.png"><br>Modifikatori:<br>
+<br>h — short — %hd
+<br>l — long — %ld
+<br>L — long double i long long — Lf i Ld
+<br>! float se implicitno konvertuje u double<br>* - argument:<br>pritntf("%.*s", max, s); // odštampa najviše max karaktera niske s
+RunCopy<br><br>int scanf(const char *format, ...);
+RunCopy<br>— vraća broj uspešnih dodeljivanja, EOF u slučaju kraja ulaza.<br>format niska sadrži obične karaktere, koje se ignorišu, razmake za ignorisanje razmaka na ulazu pri korišćenju %c,  kao i specifikacije konverzija za argumente ..., argumente su uvek pokazivači; jednom argumentu odgovara zapis redom:<br>
+<br>%  —   (obavezan)
+<br>*   —  čitanje bez dodeljivanja; bez argumenta
+<br>broj  —  dužina za čitanje
+<br>modifikator
+<br>karakter konverzije (obavezan)
+<br>Karakteri konverzije:<br>
+<img alt="karakteri konverzije scanf.png" src="lib\media\karakteri-konverzije-scanf.png"><br>
+Modifikatori se podudaraju sa printf.<br><br>int sprintf(char* out_string, const char *format, ...);
+RunCopy<br>— u nisku out_string upisuje isto što bi bilo ispisano printf-om na standardni izlaz.<br>int sscanf(char* in_string, const char *format, ...);
+RunCopy<br>— iz niske in_string čita tako kako bi scanf pročitao sa standardnog ulaza.<br><br><br>FILE* fopen(const char* filename, const char* mode);
+RunCopy<br>— vraća pokazivač na strukturu FILE, u koja sadrži informacije o fajlu, u slučaju greške vraća NULL.<br>filename — niska koja sadrži ime datoteke.<br>
+mode — način otvaranja datoteke:<br>
+<br>"r" — čitanje
+<br>"w" — pisanje (brišu se prethodne podatke)
+<br>"a" — dopisivanje (pisanje posle već postojećih podataka)
+<br>dodavanjem '+' u nisku omogućava se i čitanje i pisanje
+<br>dodavanjem 'b' u nisku datoteka se otvara kao binarna.
+<br>Treba uvek proveravati da li je dobro otvorio fajl, tj. da li pokazivač nije NULL.<br>int fclose(FILE* fp);
+RunCopy<br>— zatvaranje fajla; treba uvek zatvarati fajl za obezbeđivanje podataka.<br><br>FILE* stdin;  // datoteka standardnog ulaza
+FILE* stdout; // datoteka standardnog izlaza
+FILE* stderr; // datoteka standardnog izlaza za greške
+RunCopy<br><br>int getc(FILE* fp);  // vraća po 1 karakter iz fp, EOF (=-1) na kraju datoteke
+RunCopy<br>int putc(int c, FILE* fp);  // upisuje jedan karakter u datoteku i vraća taj karakter ili EOF ako je došlo do grške 
+RunCopy<br>int unget(int c, FILE* fp);  // "vraća" karakter c u datoteku (ne menja datoteku), sledeći getc će njega pročitati 
+RunCopy<br><br>int feof(FILE* fp);   // vraća ne-nulu ako je došlo do kraja datoteke 
+RunCopy<br>int ferror(FILE* fp); // vraća ne-nulu ako je došlo do greške sa datotekom
+RunCopy<br><br>char* fgets(char* s, int n, FILE* fp);  // upisuje u s liniju iz datoteke do EOF ili '\n' dužine najviše (n-1), na krraju stavi '\0', vraća s ili NULL ako nije uspelo (U slučaju greške ne menja s)
+RunCopy<br>int fputs(const char* s, FILE* fp);  // upisuje nisku s u datoteku, na kraju umesto '\0' ispisuje '\n'. Ako nije uspelo vraća EOF, inače drugu vrednost
+RunCopy<br><br>size_t getline(char** paloc_linija, int* n, FILE* fp);
+RunCopy<br>paloc_linija — pokazivač na pokazivač koji pokazuje na početak niske (alociranog bloka), u prvi poziv pokazuje na NULL,<br>
+n — pokazivač na broj — za koliko karaktera je alocirano memorije.<br>getline čita liniju iz datoteke i upisuje u nisku *paloc_linija ako je moguće ili (re)alocira memoriju i upisuje.<br>Korišćenje:<br>char *linija = NULL;
+int n = 0;
+getline(&amp;linija, &amp;n, file);    // čitanje prve linije
+...
+getline(&amp;linija, &amp;n, file);    // čitanje druge linije
+...
+free(linija);                  // !!!
+RunCopy<br><br>int fprintf(FILE* fp, const char *format, ...);
+RunCopy<br>int fscanf(FILE* fp, const char *format, ...);
+RunCopy<br>]]></description><link>računarstvo\ulaz-i-izlaz-(c).html</link><guid isPermaLink="false">Računarstvo/Ulaz i izlaz (C).md</guid><pubDate>Wed, 18 Sep 2024 21:29:28 GMT</pubDate><enclosure url="lib\media\karakteri-konverzije-printf.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\karakteri-konverzije-printf.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Home]]></title><description><![CDATA[<a class="tag" href="?query=tag:fax" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fax</a> <a class="tag" href="?query=tag:home" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#home</a> <a class="tag" href="?query=tag:math" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#math</a> <a class="tag" href="?query=tag:ds1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ds1</a> <a class="tag" href="?query=tag:ds2" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ds2</a> <a class="tag" href="?query=tag:laag" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#laag</a> <a class="tag" href="?query=tag:geom" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#geom</a> <a class="tag" href="?query=tag:a1" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#a1</a> <a class="tag" href="?query=tag:a2" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#a2</a> <a class="tag" href="?query=tag:cs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs</a> <a class="tag" href="?query=tag:cs/prog" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/prog</a> <a class="tag" href="?query=tag:cs/ar" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/ar</a> <a class="tag" href="?query=tag:cs/os" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#cs/os</a> 
+ <br><a href=".?query=tag:fax" class="tag" target="_blank" rel="noopener">#fax</a> <a href=".?query=tag:home" class="tag" target="_blank" rel="noopener">#home</a><br>
+<br><br><a href=".?query=tag:ds1" class="tag" target="_blank" rel="noopener">#ds1</a> <a href=".?query=tag:ds2" class="tag" target="_blank" rel="noopener">#ds2</a> <a href=".?query=tag:laag" class="tag" target="_blank" rel="noopener">#laag</a> <a href=".?query=tag:geom" class="tag" target="_blank" rel="noopener">#geom</a> <br><a href=".?query=tag:a1" class="tag" target="_blank" rel="noopener">#a1</a> <a href=".?query=tag:a2" class="tag" target="_blank" rel="noopener">#a2</a><br>
+<br><br><a href=".?query=tag:cs\prog" class="tag" target="_blank" rel="noopener">#cs/prog</a> <a href=".?query=tag:cs\ar" class="tag" target="_blank" rel="noopener">#cs/ar</a> <a href=".?query=tag:cs\os" class="tag" target="_blank" rel="noopener">#cs/os</a><br>
+<br><br><br><br>Poslednja promena: 22:18 22.09.2024]]></description><link>home.html</link><guid isPermaLink="false">Home.md</guid><pubDate>Sun, 22 Sep 2024 20:17:43 GMT</pubDate></item></channel></rss>
