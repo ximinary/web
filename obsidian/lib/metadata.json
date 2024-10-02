@@ -1,6 +1,6 @@
 {
   "vaultName": "Obsidian Vault",
-  "lastExport": 1727038476966,
+  "lastExport": 1727903143292,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -11,6 +11,7 @@
     "Matematika/Aritmetička i geometrijska progresija.md",
     "Matematika/Asimptota.md",
     "Matematika/Asimptotske klase. Asimptotska relacija ekvivalencije.md",
+    "Matematika/Bilinearna i kvadratna forma.md",
     "Matematika/Binomna formula.md",
     "Matematika/Binomni koeficijenti.md",
     "Matematika/Broj e.md",
@@ -32,6 +33,7 @@
     "Matematika/Funkcija generatrisa.md",
     "Matematika/Geometrija.md",
     "Matematika/Grafik funkcije.md",
+    "Matematika/Gramova matrica.md",
     "Matematika/Grupa permutacija.md",
     "Matematika/Inverzna funkcija.md",
     "Matematika/Inverzna matrica.md",
@@ -55,6 +57,7 @@
     "Matematika/Linearna zavisnost i nezavisnost. Skup generatora, baza i dimenzija VP-a.md",
     "Matematika/Linearni funkcional.md",
     "Matematika/Linearni operator.md",
+    "Matematika/Linearni operator u unitarnom prostoru.md",
     "Matematika/Logička funkcija.md",
     "Matematika/Logičke operacije.md",
     "Matematika/Logika.md",
@@ -97,6 +100,7 @@
     "Matematika/Tejlorov polinom.md",
     "Matematika/Teoreme o srednjoj vrednosti.md",
     "Matematika/Teorija skupova.md",
+    "Matematika/Unitarni prostor.md",
     "Matematika/Valuacija (iskazna logika).md",
     "Matematika/Vektor.md",
     "Matematika/Vektorski i mešoviti proizvod vektora.md",
@@ -260,6 +264,8 @@
     "Media/najminmaks primer.png",
     "Media/najminmaks teorema.png",
     "Media/neasocijativnostVektProizv.png",
+    "Media/niz niski.png",
+    "Media/Od izvornog do izvršivog.png",
     "Media/ojlerova fja prostog broja.png",
     "Media/ojlevova teorema.png",
     "Media/ostrva 1.1.png",
@@ -294,6 +300,7 @@
     "Media/stav. jednakost skupova.png",
     "Media/stav. jednakost uređenih parova.png",
     "Media/stav. relacija poretka u bulovim algebrama.png",
+    "Media/stek.png",
     "Media/tautologija primer 2.png",
     "Media/tautologija primer 3.png",
     "Media/teorema. N je beskonačan.png",
@@ -314,6 +321,9 @@
     "Računarstvo/Standardne biblioteke (C).md",
     "Računarstvo/Ulaz i izlaz (C).md",
     "Home.md",
+    "lib/media/logičkefjeidnf_knf.png",
+    "lib/media/stek.png",
+    "lib/media/niz-niski.png",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -374,7 +384,6 @@
     "lib/media/analiza1_3_limnizsv3.png",
     "lib/media/karnoovemape.png",
     "lib/media/kvinmek.png",
-    "lib/media/logičkefjeidnf_knf.png",
     "lib/media/ostrva-1.1.png",
     "lib/media/ostrva-1.2.png",
     "lib/media/ostrva-2.1.png",
@@ -465,8 +474,8 @@
       "dependencies": []
     },
     "Matematika/Aritmetička i geometrijska progresija.md": {
-      "modifiedTime": 1727036645328,
-      "sourceSize": 1548,
+      "modifiedTime": 1727903143292,
+      "sourceSize": 1549,
       "exportedPath": "matematika/aritmetička-i-geometrijska-progresija.html",
       "dependencies": []
     },
@@ -613,8 +622,8 @@
       "dependencies": []
     },
     "Matematika/Grupa permutacija.md": {
-      "modifiedTime": 1727036645328,
-      "sourceSize": 899,
+      "modifiedTime": 1727903143292,
+      "sourceSize": 935,
       "exportedPath": "matematika/grupa-permutacija.html",
       "dependencies": []
     },
@@ -625,8 +634,8 @@
       "dependencies": []
     },
     "Matematika/Inverzna matrica.md": {
-      "modifiedTime": 1727036645328,
-      "sourceSize": 2865,
+      "modifiedTime": 1727903143292,
+      "sourceSize": 2868,
       "exportedPath": "matematika/inverzna-matrica.html",
       "dependencies": []
     },
@@ -637,8 +646,8 @@
       "dependencies": []
     },
     "Matematika/Izbor elemenata.md": {
-      "modifiedTime": 1727036645328,
-      "sourceSize": 3813,
+      "modifiedTime": 1727903143292,
+      "sourceSize": 3837,
       "exportedPath": "matematika/izbor-elemenata.html",
       "dependencies": []
     },
@@ -657,8 +666,8 @@
       ]
     },
     "Matematika/Karakteristični i minimalni polinom.md": {
-      "modifiedTime": 1727036645328,
-      "sourceSize": 12267,
+      "modifiedTime": 1727903143292,
+      "sourceSize": 12369,
       "exportedPath": "matematika/karakteristični-i-minimalni-polinom.html",
       "dependencies": []
     },
@@ -701,8 +710,8 @@
       ]
     },
     "Matematika/Koordinatizacija. Zavisnost koordinata vektora o bazi.md": {
-      "modifiedTime": 1727036645328,
-      "sourceSize": 2876,
+      "modifiedTime": 1727903143292,
+      "sourceSize": 2942,
       "exportedPath": "matematika/koordinatizacija.-zavisnost-koordinata-vektora-o-bazi.html",
       "dependencies": []
     },
@@ -713,8 +722,8 @@
       "dependencies": []
     },
     "Matematika/Kvadratna matrica.md": {
-      "modifiedTime": 1727036645328,
-      "sourceSize": 6222,
+      "modifiedTime": 1727903143292,
+      "sourceSize": 7212,
       "exportedPath": "matematika/kvadratna-matrica.html",
       "dependencies": []
     },
@@ -735,8 +744,8 @@
       ]
     },
     "Matematika/Linearna algebra.md": {
-      "modifiedTime": 1727036645328,
-      "sourceSize": 305,
+      "modifiedTime": 1727903143292,
+      "sourceSize": 313,
       "exportedPath": "matematika/linearna-algebra.html",
       "dependencies": []
     },
@@ -747,14 +756,14 @@
       "dependencies": []
     },
     "Matematika/Linearni funkcional.md": {
-      "modifiedTime": 1727036645328,
-      "sourceSize": 3525,
+      "modifiedTime": 1727903143292,
+      "sourceSize": 3653,
       "exportedPath": "matematika/linearni-funkcional.html",
       "dependencies": []
     },
     "Matematika/Linearni operator.md": {
-      "modifiedTime": 1727036645328,
-      "sourceSize": 5952,
+      "modifiedTime": 1727903143292,
+      "sourceSize": 5999,
       "exportedPath": "matematika/linearni-operator.html",
       "dependencies": []
     },
@@ -795,8 +804,8 @@
       "dependencies": []
     },
     "Matematika/Matrica.md": {
-      "modifiedTime": 1727036645328,
-      "sourceSize": 7364,
+      "modifiedTime": 1727903143292,
+      "sourceSize": 7971,
       "exportedPath": "matematika/matrica.html",
       "dependencies": []
     },
@@ -846,8 +855,8 @@
       "dependencies": []
     },
     "Matematika/Normalne forme.md": {
-      "modifiedTime": 1727036645328,
-      "sourceSize": 2079,
+      "modifiedTime": 1727903143292,
+      "sourceSize": 2078,
       "exportedPath": "matematika/normalne-forme.html",
       "dependencies": [
         "lib/media/logičkefjeidnf_knf.png"
@@ -944,8 +953,8 @@
       "dependencies": []
     },
     "Matematika/Rang matrice. Elementarne transformacije.md": {
-      "modifiedTime": 1727036645328,
-      "sourceSize": 4832,
+      "modifiedTime": 1727903143292,
+      "sourceSize": 4838,
       "exportedPath": "matematika/rang-matrice.-elementarne-transformacije.html",
       "dependencies": []
     },
@@ -990,8 +999,8 @@
       ]
     },
     "Matematika/Sistem linearnih jednačina.md": {
-      "modifiedTime": 1727036645328,
-      "sourceSize": 5285,
+      "modifiedTime": 1727903143292,
+      "sourceSize": 5288,
       "exportedPath": "matematika/sistem-linearnih-jednačina.html",
       "dependencies": []
     },
@@ -2283,22 +2292,26 @@
       "dependencies": []
     },
     "Računarstvo/Organizacija izvornog koda (C).md": {
-      "modifiedTime": 1727036645328,
-      "sourceSize": 4520,
+      "modifiedTime": 1727903143292,
+      "sourceSize": 4514,
       "exportedPath": "računarstvo/organizacija-izvornog-koda-(c).html",
       "dependencies": []
     },
     "Računarstvo/Organizacija memorije (C).md": {
-      "modifiedTime": 1727036645328,
-      "sourceSize": 1042,
+      "modifiedTime": 1727903143292,
+      "sourceSize": 1036,
       "exportedPath": "računarstvo/organizacija-memorije-(c).html",
-      "dependencies": []
+      "dependencies": [
+        "lib/media/stek.png"
+      ]
     },
     "Računarstvo/Pokazivači (C).md": {
-      "modifiedTime": 1727036645328,
-      "sourceSize": 6573,
+      "modifiedTime": 1727903143292,
+      "sourceSize": 6568,
       "exportedPath": "računarstvo/pokazivači-(c).html",
-      "dependencies": []
+      "dependencies": [
+        "lib/media/niz-niski.png"
+      ]
     },
     "Računarstvo/Predstavljanje podataka i operacije nad njima (C).md": {
       "modifiedTime": 1727036645328,
@@ -2315,13 +2328,13 @@
       "dependencies": []
     },
     "Računarstvo/Računarstvo.md": {
-      "modifiedTime": 1727036645328,
-      "sourceSize": 233,
+      "modifiedTime": 1727903143292,
+      "sourceSize": 567,
       "exportedPath": "računarstvo/računarstvo.html",
       "dependencies": []
     },
     "Računarstvo/Složenost algoritma.md": {
-      "modifiedTime": 1727036645328,
+      "modifiedTime": 1727903143292,
       "sourceSize": 5116,
       "exportedPath": "računarstvo/složenost-algoritma.html",
       "dependencies": []
@@ -2390,7 +2403,7 @@
       "dependencies": []
     },
     "lib/media/logičkefjeidnf_knf.png": {
-      "modifiedTime": 1727036645328,
+      "modifiedTime": 1727903143292,
       "sourceSize": 705991,
       "exportedPath": "lib/media/logičkefjeidnf_knf.png",
       "dependencies": []
@@ -2522,321 +2535,375 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/mathjax_zero.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/mathjax_main-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/mathjax_main-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/mathjax_math-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/mathjax_main-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/mathjax_script-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1727038476966,
-      "sourceSize": 113054,
+      "modifiedTime": 1727903143292,
+      "sourceSize": 115530,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1727038476966,
-      "sourceSize": 11647,
+      "modifiedTime": 1727903143292,
+      "sourceSize": 12159,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 130471,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 312,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 1676,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "Home.md": {
-      "modifiedTime": 1727038476966,
+      "modifiedTime": 1727903143292,
       "sourceSize": 229,
       "exportedPath": "home.html",
+      "dependencies": []
+    },
+    "Matematika/Bilinearna i kvadratna forma.md": {
+      "modifiedTime": 1727903143292,
+      "sourceSize": 5609,
+      "exportedPath": "matematika/bilinearna-i-kvadratna-forma.html",
+      "dependencies": []
+    },
+    "Matematika/Gramova matrica.md": {
+      "modifiedTime": 1727903143292,
+      "sourceSize": 2441,
+      "exportedPath": "matematika/gramova-matrica.html",
+      "dependencies": []
+    },
+    "Matematika/Linearni operator u unitarnom prostoru.md": {
+      "modifiedTime": 1727903143292,
+      "sourceSize": 4300,
+      "exportedPath": "matematika/linearni-operator-u-unitarnom-prostoru.html",
+      "dependencies": []
+    },
+    "Matematika/Unitarni prostor.md": {
+      "modifiedTime": 1727903143292,
+      "sourceSize": 8407,
+      "exportedPath": "matematika/unitarni-prostor.html",
+      "dependencies": []
+    },
+    "Media/niz niski.png": {
+      "modifiedTime": 1727903143292,
+      "sourceSize": 580057,
+      "exportedPath": "media/niz-niski.png",
+      "dependencies": []
+    },
+    "Media/Od izvornog do izvršivog.png": {
+      "modifiedTime": 1727903143292,
+      "sourceSize": 1586210,
+      "exportedPath": "media/od-izvornog-do-izvršivog.png",
+      "dependencies": []
+    },
+    "Media/stek.png": {
+      "modifiedTime": 1727903143292,
+      "sourceSize": 1648084,
+      "exportedPath": "media/stek.png",
+      "dependencies": []
+    },
+    "lib/media/stek.png": {
+      "modifiedTime": 1727903143292,
+      "sourceSize": 1648084,
+      "exportedPath": "lib/media/stek.png",
+      "dependencies": []
+    },
+    "lib/media/niz-niski.png": {
+      "modifiedTime": 1727903143292,
+      "sourceSize": 580057,
+      "exportedPath": "lib/media/niz-niski.png",
       "dependencies": []
     }
   }
