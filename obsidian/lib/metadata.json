@@ -1,6 +1,6 @@
 {
   "vaultName": "Obsidian Vault",
-  "lastExport": 1748990916155,
+  "lastExport": 1753125580393,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -28,10 +28,13 @@
     "Matematika/Bulova algebra.md",
     "Matematika/Celi brojevi.md",
     "Matematika/Centar mase i težište.md",
+    "Matematika/Dejstvo grupe.md",
     "Matematika/Deljivost.md",
     "Matematika/Determinanta.md",
     "Matematika/Diferencijabilnost funkcije više promenljivih.md",
+    "Matematika/Diferencijalna jednačina.md",
     "Matematika/Diofantova jednačina.md",
+    "Matematika/Direktan proizvod grupa.md",
     "Matematika/Direktna i inverzna slika skupa.md",
     "Matematika/Dvostruki integral.md",
     "Matematika/Ekstremum funkcije jedne promenljive.md",
@@ -54,6 +57,7 @@
     "Matematika/Grupa.md",
     "Matematika/Grupa permutacija.md",
     "Matematika/Hiperbola.md",
+    "Matematika/Homomorfizam grupa.md",
     "Matematika/Integracija nekih iracionalnih funkcija.md",
     "Matematika/Integracija racionalnih funkcija.md",
     "Matematika/Integracija racionalnih funkcija od sinusa i kosinusa.md",
@@ -69,6 +73,8 @@
     "Matematika/Kombinatorika.md",
     "Matematika/Kompozicija funkcija.md",
     "Matematika/Kompozicija i particija broja.md",
+    "Matematika/Komutativan prsten sa jedinicom.md",
+    "Matematika/Konačno generisana Abelova grupa.md",
     "Matematika/Kongruentnost.md",
     "Matematika/Konveksnost i konkavnost.md",
     "Matematika/Konvergencija nekih brojevnih redova.md",
@@ -113,6 +119,7 @@
     "Matematika/Niz funkcija.md",
     "Matematika/Niz n-torki realnih brojeva.md",
     "Matematika/Normalne forme.md",
+    "Matematika/Normalne podgrupe.md",
     "Matematika/Određeni integral.md",
     "Matematika/Okolina tačke.md",
     "Matematika/Osnovni limesi.md",
@@ -134,6 +141,7 @@
     "Matematika/Prostor C₀.md",
     "Matematika/Rang matrice. Elementarne transformacije.md",
     "Matematika/Realni brojevi.md",
+    "Matematika/Red grupe i elementa. Indeks podgrupe.md",
     "Matematika/Redukcija linearnog operatora.md",
     "Matematika/Rekurentna jednačina.md",
     "Matematika/Relacija.md",
@@ -225,7 +233,7 @@
     "Media/analiza1_2_lagranz_p1.png",
     "Media/analiza1_2_lagranz_p2.png",
     "Media/analiza1_2_lagranz_p3.png",
-    "Media/analiza1_2_lagranzevOblikOst.png",
+    "Media/analiza1_2_lagranzovOblikOst.png",
     "Media/analiza1_2_lajbnicovo.png",
     "Media/analiza1_2_lp.png",
     "Media/analiza1_2_osnovniIzvodi.png",
@@ -400,7 +408,6 @@
     "Računarstvo/Standardne biblioteke (C).md",
     "Računarstvo/Ulaz i izlaz (C).md",
     "Home.md",
-    "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -415,91 +422,30 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/6155340132a851f6089e.svg",
-    "lib/fonts/mathjax_zero.woff",
-    "lib/fonts/mathjax_main-regular.woff",
-    "lib/fonts/mathjax_main-bold.woff",
-    "lib/fonts/mathjax_math-italic.woff",
-    "lib/fonts/mathjax_main-italic.woff",
-    "lib/fonts/mathjax_math-bolditalic.woff",
-    "lib/fonts/mathjax_size1-regular.woff",
-    "lib/fonts/mathjax_size2-regular.woff",
-    "lib/fonts/mathjax_size3-regular.woff",
-    "lib/fonts/mathjax_size4-regular.woff",
-    "lib/fonts/mathjax_ams-regular.woff",
-    "lib/fonts/mathjax_calligraphic-regular.woff",
-    "lib/fonts/mathjax_calligraphic-bold.woff",
-    "lib/fonts/mathjax_fraktur-regular.woff",
-    "lib/fonts/mathjax_fraktur-bold.woff",
-    "lib/fonts/mathjax_sansserif-regular.woff",
-    "lib/fonts/mathjax_sansserif-bold.woff",
-    "lib/fonts/mathjax_sansserif-italic.woff",
-    "lib/fonts/mathjax_script-regular.woff",
-    "lib/fonts/mathjax_typewriter-regular.woff",
-    "lib/fonts/mathjax_vector-regular.woff",
-    "lib/fonts/mathjax_vector-bold.woff",
-    "lib/html/file-tree.html",
-    "lib/scripts/webpage.js",
-    "lib/scripts/graph-view.js",
-    "lib/scripts/graph-wasm.js",
-    "lib/scripts/graph-render-worker.js",
-    "lib/scripts/tinycolor.js",
-    "lib/scripts/pixi.js",
-    "lib/scripts/minisearch.js",
-    "lib/media/favicon.png",
-    "lib/scripts/graph-data.js",
-    "lib/styles/obsidian.css",
-    "lib/styles/global-variable-styles.css",
-    "lib/styles/supported-plugins.css",
-    "lib/styles/main-styles.css",
-    "lib/media/afina-preslikavanja-2-geo.png",
-    "lib/media/afina-preslikavanja-3.1-geo.png",
-    "lib/media/afina-preslikavanja-3.2-geo.png",
-    "lib/media/afina-preslikavanja-3.3-geo.png",
-    "lib/media/afina-preslikavanja-4-geo.gif",
-    "lib/media/afina-preslikavanja-1-geo.png",
-    "lib/media/elipsa.png",
-    "lib/media/zlatna-podela.png",
-    "lib/media/funkcija.png",
-    "lib/media/hiperbola.png",
-    "lib/media/grinova-formula-slika1.png",
-    "lib/media/grinova-formula-slika2.png",
-    "lib/media/karakt-fja.png",
-    "lib/media/analiza1_2_konveksnostgrafik.png",
-    "lib/media/konusni-preseci.png",
-    "lib/media/analiza1_1_8.png",
-    "lib/media/analiza1_3_limnizsv3.png",
-    "lib/media/karnoovemape.png",
-    "lib/media/kvinmek.png",
-    "lib/media/logickefjeidnf_knf.png",
-    "lib/media/ostrva-1.1.png",
-    "lib/media/ostrva-1.2.png",
-    "lib/media/ostrva-2.1.png",
-    "lib/media/ostrva-2.2.png",
-    "lib/media/parabola.png",
-    "lib/media/predik1.png",
-    "lib/media/predik2.png",
-    "lib/media/predik3.png",
-    "lib/media/predik4.png",
-    "lib/media/predik5.png",
-    "lib/media/predik6.png",
-    "lib/media/haseov-dijagram-primer-1.png",
-    "lib/media/haseov-dijagram-primer-2.png",
-    "lib/media/haseov-dijagram-primer-3.png",
-    "lib/media/transformacija-baze-1-geo.png",
-    "lib/media/transformacija-baze-2-geo.png",
-    "lib/media/tautologija-primer-2.png",
-    "lib/media/tautologija-primer-3.png",
-    "lib/media/analiza1_0_vrste_tačaka.png",
-    "lib/media/realokacija.png",
-    "lib/media/argumenti_main.png",
-    "lib/media/stek.png",
-    "lib/media/niz-niski.png",
-    "lib/media/promenljive.png",
-    "lib/media/karakteri-konverzije-printf.png",
-    "lib/media/karakteri-konverzije-scanf.png"
+    "lib/fonts/MathJax_Zero.woff",
+    "lib/fonts/MathJax_Main-Regular.woff",
+    "lib/fonts/MathJax_Main-Bold.woff",
+    "lib/fonts/MathJax_Math-Italic.woff",
+    "lib/fonts/MathJax_Main-Italic.woff",
+    "lib/fonts/MathJax_Math-BoldItalic.woff",
+    "lib/fonts/MathJax_Size1-Regular.woff",
+    "lib/fonts/MathJax_Size2-Regular.woff",
+    "lib/fonts/MathJax_Size3-Regular.woff",
+    "lib/fonts/MathJax_Size4-Regular.woff",
+    "lib/fonts/MathJax_AMS-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Bold.woff",
+    "lib/fonts/MathJax_Fraktur-Regular.woff",
+    "lib/fonts/MathJax_Fraktur-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Regular.woff",
+    "lib/fonts/MathJax_SansSerif-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Italic.woff",
+    "lib/fonts/MathJax_Script-Regular.woff",
+    "lib/fonts/MathJax_Typewriter-Regular.woff",
+    "lib/fonts/MathJax_Vector-Regular.woff",
+    "lib/fonts/MathJax_Vector-Bold.woff"
   ],
   "mainDependencies": [
-    "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -514,3061 +460,2656 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/6155340132a851f6089e.svg",
-    "lib/fonts/mathjax_zero.woff",
-    "lib/fonts/mathjax_main-regular.woff",
-    "lib/fonts/mathjax_main-bold.woff",
-    "lib/fonts/mathjax_math-italic.woff",
-    "lib/fonts/mathjax_main-italic.woff",
-    "lib/fonts/mathjax_math-bolditalic.woff",
-    "lib/fonts/mathjax_size1-regular.woff",
-    "lib/fonts/mathjax_size2-regular.woff",
-    "lib/fonts/mathjax_size3-regular.woff",
-    "lib/fonts/mathjax_size4-regular.woff",
-    "lib/fonts/mathjax_ams-regular.woff",
-    "lib/fonts/mathjax_calligraphic-regular.woff",
-    "lib/fonts/mathjax_calligraphic-bold.woff",
-    "lib/fonts/mathjax_fraktur-regular.woff",
-    "lib/fonts/mathjax_fraktur-bold.woff",
-    "lib/fonts/mathjax_sansserif-regular.woff",
-    "lib/fonts/mathjax_sansserif-bold.woff",
-    "lib/fonts/mathjax_sansserif-italic.woff",
-    "lib/fonts/mathjax_script-regular.woff",
-    "lib/fonts/mathjax_typewriter-regular.woff",
-    "lib/fonts/mathjax_vector-regular.woff",
-    "lib/fonts/mathjax_vector-bold.woff",
-    "lib/html/file-tree.html",
-    "lib/scripts/webpage.js",
-    "lib/scripts/graph-view.js",
-    "lib/scripts/graph-wasm.js",
-    "lib/scripts/graph-render-worker.js",
-    "lib/scripts/tinycolor.js",
-    "lib/scripts/pixi.js",
-    "lib/scripts/minisearch.js",
-    "lib/media/favicon.png",
-    "lib/scripts/graph-data.js",
-    "lib/styles/obsidian.css",
-    "lib/styles/global-variable-styles.css",
-    "lib/styles/supported-plugins.css",
-    "lib/styles/main-styles.css"
+    "lib/fonts/MathJax_Zero.woff",
+    "lib/fonts/MathJax_Main-Regular.woff",
+    "lib/fonts/MathJax_Main-Bold.woff",
+    "lib/fonts/MathJax_Math-Italic.woff",
+    "lib/fonts/MathJax_Main-Italic.woff",
+    "lib/fonts/MathJax_Math-BoldItalic.woff",
+    "lib/fonts/MathJax_Size1-Regular.woff",
+    "lib/fonts/MathJax_Size2-Regular.woff",
+    "lib/fonts/MathJax_Size3-Regular.woff",
+    "lib/fonts/MathJax_Size4-Regular.woff",
+    "lib/fonts/MathJax_AMS-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Bold.woff",
+    "lib/fonts/MathJax_Fraktur-Regular.woff",
+    "lib/fonts/MathJax_Fraktur-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Regular.woff",
+    "lib/fonts/MathJax_SansSerif-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Italic.woff",
+    "lib/fonts/MathJax_Script-Regular.woff",
+    "lib/fonts/MathJax_Typewriter-Regular.woff",
+    "lib/fonts/MathJax_Vector-Regular.woff",
+    "lib/fonts/MathJax_Vector-Bold.woff"
   ],
   "fileInfo": {
     "Matematika/Afino preslikavanje.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 2450,
-      "exportedPath": "matematika/afino-preslikavanje.html",
+      "exportedPath": "Matematika/Afino preslikavanje.html",
       "dependencies": []
     },
     "Matematika/Afino preslikavanje u prostoru.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 7829,
-      "exportedPath": "matematika/afino-preslikavanje-u-prostoru.html",
-      "dependencies": [
-        "lib/media/afina-preslikavanja-2-geo.png",
-        "lib/media/afina-preslikavanja-3.1-geo.png",
-        "lib/media/afina-preslikavanja-3.2-geo.png",
-        "lib/media/afina-preslikavanja-3.3-geo.png",
-        "lib/media/afina-preslikavanja-4-geo.gif"
-      ]
+      "exportedPath": "Matematika/Afino preslikavanje u prostoru.html",
+      "dependencies": []
     },
     "Matematika/Afino preslikavanje u ravni.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 7572,
-      "exportedPath": "matematika/afino-preslikavanje-u-ravni.html",
-      "dependencies": [
-        "lib/media/afina-preslikavanja-1-geo.png"
-      ]
+      "exportedPath": "Matematika/Afino preslikavanje u ravni.html",
+      "dependencies": []
     },
     "Matematika/Algebarska struktura.md": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 1189,
-      "exportedPath": "matematika/algebarska-struktura.html",
+      "modifiedTime": 1753125580393,
+      "sourceSize": 1229,
+      "exportedPath": "Matematika/Algebarska struktura.html",
       "dependencies": []
     },
     "Matematika/Algebra nad poljem.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 783,
-      "exportedPath": "matematika/algebra-nad-poljem.html",
+      "exportedPath": "Matematika/Algebra nad poljem.html",
       "dependencies": []
     },
     "Matematika/Analitička geometrija u prostoru.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 12360,
-      "exportedPath": "matematika/analitička-geometrija-u-prostoru.html",
+      "exportedPath": "Matematika/Analitička geometrija u prostoru.html",
       "dependencies": []
     },
     "Matematika/Analitička geometrija u ravni.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 6931,
-      "exportedPath": "matematika/analitička-geometrija-u-ravni.html",
+      "exportedPath": "Matematika/Analitička geometrija u ravni.html",
       "dependencies": []
     },
     "Matematika/Analiza.md": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 1130,
-      "exportedPath": "matematika/analiza.html",
+      "modifiedTime": 1753125580393,
+      "sourceSize": 1165,
+      "exportedPath": "Matematika/Analiza.html",
       "dependencies": []
     },
     "Matematika/Aritmetička i geometrijska progresija.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1549,
-      "exportedPath": "matematika/aritmetička-i-geometrijska-progresija.html",
+      "exportedPath": "Matematika/Aritmetička i geometrijska progresija.html",
       "dependencies": []
     },
     "Matematika/Asimptota.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 2112,
-      "exportedPath": "matematika/asimptota.html",
+      "exportedPath": "Matematika/Asimptota.html",
       "dependencies": []
     },
     "Matematika/Asimptotske klase. Asimptotska relacija ekvivalencije.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 3707,
-      "exportedPath": "matematika/asimptotske-klase.-asimptotska-relacija-ekvivalencije.html",
+      "exportedPath": "Matematika/Asimptotske klase. Asimptotska relacija ekvivalencije.html",
       "dependencies": []
     },
     "Matematika/Beskonačnodimenzioni Euklidski prostor. Niz i red vektora.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 4008,
-      "exportedPath": "matematika/beskonačnodimenzioni-euklidski-prostor.-niz-i-red-vektora.html",
+      "exportedPath": "Matematika/Beskonačnodimenzioni Euklidski prostor. Niz i red vektora.html",
       "dependencies": []
     },
     "Matematika/Bezijeove krive.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 2879,
-      "exportedPath": "matematika/bezijeove-krive.html",
+      "exportedPath": "Matematika/Bezijeove krive.html",
       "dependencies": []
     },
     "Matematika/Bilinearna i kvadratna forma.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 7795,
-      "exportedPath": "matematika/bilinearna-i-kvadratna-forma.html",
+      "exportedPath": "Matematika/Bilinearna i kvadratna forma.html",
       "dependencies": []
     },
     "Matematika/Binomna formula.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 2175,
-      "exportedPath": "matematika/binomna-formula.html",
+      "exportedPath": "Matematika/Binomna formula.html",
       "dependencies": []
     },
     "Matematika/Binomni koeficijenti.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1428,
-      "exportedPath": "matematika/binomni-koeficijenti.html",
+      "exportedPath": "Matematika/Binomni koeficijenti.html",
       "dependencies": []
     },
     "Matematika/Broj e.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 462,
-      "exportedPath": "matematika/broj-e.html",
+      "exportedPath": "Matematika/Broj e.html",
       "dependencies": []
     },
     "Matematika/Brojevi.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 268,
-      "exportedPath": "matematika/brojevi.html",
+      "exportedPath": "Matematika/Brojevi.html",
       "dependencies": []
     },
     "Matematika/Brojevni red.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 5196,
-      "exportedPath": "matematika/brojevni-red.html",
+      "exportedPath": "Matematika/Brojevni red.html",
       "dependencies": []
     },
     "Matematika/Bulova algebra.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 3503,
-      "exportedPath": "matematika/bulova-algebra.html",
+      "exportedPath": "Matematika/Bulova algebra.html",
       "dependencies": []
     },
     "Matematika/Celi brojevi.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 358,
-      "exportedPath": "matematika/celi-brojevi.html",
+      "exportedPath": "Matematika/Celi brojevi.html",
       "dependencies": []
     },
     "Matematika/Centar mase i težište.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 2552,
-      "exportedPath": "matematika/centar-mase-i-težište.html",
+      "exportedPath": "Matematika/Centar mase i težište.html",
+      "dependencies": []
+    },
+    "Matematika/Dejstvo grupe.md": {
+      "modifiedTime": 1753125580393,
+      "sourceSize": 5622,
+      "exportedPath": "Matematika/Dejstvo grupe.html",
       "dependencies": []
     },
     "Matematika/Deljivost.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 2501,
-      "exportedPath": "matematika/deljivost.html",
+      "exportedPath": "Matematika/Deljivost.html",
       "dependencies": []
     },
     "Matematika/Determinanta.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 6858,
-      "exportedPath": "matematika/determinanta.html",
+      "exportedPath": "Matematika/Determinanta.html",
       "dependencies": []
     },
     "Matematika/Diferencijabilnost funkcije više promenljivih.md": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 12409,
-      "exportedPath": "matematika/diferencijabilnost-funkcije-više-promenljivih.html",
+      "modifiedTime": 1753125580393,
+      "sourceSize": 12396,
+      "exportedPath": "Matematika/Diferencijabilnost funkcije više promenljivih.html",
+      "dependencies": []
+    },
+    "Matematika/Diferencijalna jednačina.md": {
+      "modifiedTime": 1753125580393,
+      "sourceSize": 8609,
+      "exportedPath": "Matematika/Diferencijalna jednačina.html",
       "dependencies": []
     },
     "Matematika/Diofantova jednačina.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 2168,
-      "exportedPath": "matematika/diofantova-jednačina.html",
+      "exportedPath": "Matematika/Diofantova jednačina.html",
+      "dependencies": []
+    },
+    "Matematika/Direktan proizvod grupa.md": {
+      "modifiedTime": 1753125580393,
+      "sourceSize": 3437,
+      "exportedPath": "Matematika/Direktan proizvod grupa.html",
       "dependencies": []
     },
     "Matematika/Direktna i inverzna slika skupa.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1983,
-      "exportedPath": "matematika/direktna-i-inverzna-slika-skupa.html",
+      "exportedPath": "Matematika/Direktna i inverzna slika skupa.html",
       "dependencies": []
     },
     "Matematika/Dvostruki integral.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 11250,
-      "exportedPath": "matematika/dvostruki-integral.html",
+      "exportedPath": "Matematika/Dvostruki integral.html",
       "dependencies": []
     },
     "Matematika/Ekstremum funkcije jedne promenljive.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1528,
-      "exportedPath": "matematika/ekstremum-funkcije-jedne-promenljive.html",
+      "exportedPath": "Matematika/Ekstremum funkcije jedne promenljive.html",
       "dependencies": []
     },
     "Matematika/Ekstremum funkcije više promenljivih.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 11774,
-      "exportedPath": "matematika/ekstremum-funkcije-više-promenljivih.html",
+      "exportedPath": "Matematika/Ekstremum funkcije više promenljivih.html",
       "dependencies": []
     },
     "Matematika/Ekvivalentne formule.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 2139,
-      "exportedPath": "matematika/ekvivalentne-formule.html",
+      "exportedPath": "Matematika/Ekvivalentne formule.html",
       "dependencies": []
     },
     "Matematika/Elementarna matematika.md": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 5039,
-      "exportedPath": "matematika/elementarna-matematika.html",
+      "modifiedTime": 1753125580393,
+      "sourceSize": 5149,
+      "exportedPath": "Matematika/Elementarna matematika.html",
       "dependencies": []
     },
     "Matematika/Elipsa.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1896,
-      "exportedPath": "matematika/elipsa.html",
-      "dependencies": [
-        "lib/media/elipsa.png"
-      ]
+      "exportedPath": "Matematika/Elipsa.html",
+      "dependencies": []
     },
     "Matematika/Euklidov algoritam.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 2401,
-      "exportedPath": "matematika/euklidov-algoritam.html",
+      "exportedPath": "Matematika/Euklidov algoritam.html",
       "dependencies": []
     },
     "Matematika/Euklidsko deljenje.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 488,
-      "exportedPath": "matematika/euklidsko-deljenje.html",
+      "exportedPath": "Matematika/Euklidsko deljenje.html",
       "dependencies": []
     },
     "Matematika/Fibonačijevi i Lukasovi brojevi. Zlatna podela.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 2355,
-      "exportedPath": "matematika/fibonačijevi-i-lukasovi-brojevi.-zlatna-podela.html",
-      "dependencies": [
-        "lib/media/zlatna-podela.png"
-      ]
+      "exportedPath": "Matematika/Fibonačijevi i Lukasovi brojevi. Zlatna podela.html",
+      "dependencies": []
     },
     "Matematika/Formula uključenja-isključenja.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 503,
-      "exportedPath": "matematika/formula-uključenja-isključenja.html",
+      "exportedPath": "Matematika/Formula uključenja-isključenja.html",
       "dependencies": []
     },
     "Matematika/Funkcija.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1640,
-      "exportedPath": "matematika/funkcija.html",
-      "dependencies": [
-        "lib/media/funkcija.png"
-      ]
+      "exportedPath": "Matematika/Funkcija.html",
+      "dependencies": []
     },
     "Matematika/Funkcija generatrisa.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 2857,
-      "exportedPath": "matematika/funkcija-generatrisa.html",
+      "exportedPath": "Matematika/Funkcija generatrisa.html",
       "dependencies": []
     },
     "Matematika/Funkcionalni red.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 5506,
-      "exportedPath": "matematika/funkcionalni-red.html",
+      "exportedPath": "Matematika/Funkcionalni red.html",
       "dependencies": []
     },
     "Matematika/Furijeov red u prostoru C₀.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 12884,
-      "exportedPath": "matematika/furijeov-red-u-prostoru-c₀.html",
+      "exportedPath": "Matematika/Furijeov red u prostoru C₀.html",
       "dependencies": []
     },
     "Matematika/Gama funkcija i beta funkcija.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 3222,
-      "exportedPath": "matematika/gama-funkcija-i-beta-funkcija.html",
+      "exportedPath": "Matematika/Gama funkcija i beta funkcija.html",
       "dependencies": []
     },
     "Matematika/Geometrija.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 679,
-      "exportedPath": "matematika/geometrija.html",
+      "exportedPath": "Matematika/Geometrija.html",
       "dependencies": []
     },
     "Matematika/Grafik funkcije (jedne promenljive).md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 5010,
-      "exportedPath": "matematika/grafik-funkcije-(jedne-promenljive).html",
+      "exportedPath": "Matematika/Grafik funkcije (jedne promenljive).html",
       "dependencies": []
     },
     "Matematika/Gramova matrica.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 2460,
-      "exportedPath": "matematika/gramova-matrica.html",
+      "exportedPath": "Matematika/Gramova matrica.html",
       "dependencies": []
     },
     "Matematika/Grupa.md": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 19833,
-      "exportedPath": "matematika/grupa.html",
+      "modifiedTime": 1753125580393,
+      "sourceSize": 10588,
+      "exportedPath": "Matematika/Grupa.html",
       "dependencies": []
     },
     "Matematika/Grupa permutacija.md": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 6815,
-      "exportedPath": "matematika/grupa-permutacija.html",
+      "modifiedTime": 1753125580393,
+      "sourceSize": 7651,
+      "exportedPath": "Matematika/Grupa permutacija.html",
       "dependencies": []
     },
     "Matematika/Hiperbola.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 2035,
-      "exportedPath": "matematika/hiperbola.html",
-      "dependencies": [
-        "lib/media/hiperbola.png"
-      ]
+      "exportedPath": "Matematika/Hiperbola.html",
+      "dependencies": []
+    },
+    "Matematika/Homomorfizam grupa.md": {
+      "modifiedTime": 1753125580393,
+      "sourceSize": 4327,
+      "exportedPath": "Matematika/Homomorfizam grupa.html",
+      "dependencies": []
     },
     "Matematika/Integracija nekih iracionalnih funkcija.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 3233,
-      "exportedPath": "matematika/integracija-nekih-iracionalnih-funkcija.html",
+      "exportedPath": "Matematika/Integracija nekih iracionalnih funkcija.html",
       "dependencies": []
     },
     "Matematika/Integracija racionalnih funkcija.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 6667,
-      "exportedPath": "matematika/integracija-racionalnih-funkcija.html",
+      "exportedPath": "Matematika/Integracija racionalnih funkcija.html",
       "dependencies": []
     },
     "Matematika/Integracija racionalnih funkcija od sinusa i kosinusa.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1914,
-      "exportedPath": "matematika/integracija-racionalnih-funkcija-od-sinusa-i-kosinusa.html",
+      "exportedPath": "Matematika/Integracija racionalnih funkcija od sinusa i kosinusa.html",
       "dependencies": []
     },
     "Matematika/Integralna veza skupa i njegove granice.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 10179,
-      "exportedPath": "matematika/integralna-veza-skupa-i-njegove-granice.html",
-      "dependencies": [
-        "lib/media/grinova-formula-slika1.png",
-        "lib/media/grinova-formula-slika2.png"
-      ]
+      "exportedPath": "Matematika/Integralna veza skupa i njegove granice.html",
+      "dependencies": []
     },
     "Matematika/Inverzna funkcija.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1235,
-      "exportedPath": "matematika/inverzna-funkcija.html",
+      "exportedPath": "Matematika/Inverzna funkcija.html",
       "dependencies": []
     },
     "Matematika/Inverzna matrica.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 2868,
-      "exportedPath": "matematika/inverzna-matrica.html",
+      "exportedPath": "Matematika/Inverzna matrica.html",
       "dependencies": []
     },
     "Matematika/Iskazna logika.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1371,
-      "exportedPath": "matematika/iskazna-logika.html",
+      "exportedPath": "Matematika/Iskazna logika.html",
       "dependencies": []
     },
     "Matematika/Izbor elemenata.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 3837,
-      "exportedPath": "matematika/izbor-elemenata.html",
+      "exportedPath": "Matematika/Izbor elemenata.html",
       "dependencies": []
     },
     "Matematika/Izvod funkcije jedne promenljive.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 4392,
-      "exportedPath": "matematika/izvod-funkcije-jedne-promenljive.html",
+      "exportedPath": "Matematika/Izvod funkcije jedne promenljive.html",
       "dependencies": []
     },
     "Matematika/Karakteristična funkcija.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 775,
-      "exportedPath": "matematika/karakteristična-funkcija.html",
-      "dependencies": [
-        "lib/media/karakt-fja.png"
-      ]
+      "exportedPath": "Matematika/Karakteristična funkcija.html",
+      "dependencies": []
     },
     "Matematika/Karakteristični i minimalni polinom.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 12369,
-      "exportedPath": "matematika/karakteristični-i-minimalni-polinom.html",
+      "exportedPath": "Matematika/Karakteristični i minimalni polinom.html",
       "dependencies": []
     },
     "Matematika/Kardinalnost. Prebrojivost.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 2696,
-      "exportedPath": "matematika/kardinalnost.-prebrojivost.html",
+      "exportedPath": "Matematika/Kardinalnost. Prebrojivost.html",
       "dependencies": []
     },
     "Matematika/Kombinatorika.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 394,
-      "exportedPath": "matematika/kombinatorika.html",
+      "exportedPath": "Matematika/Kombinatorika.html",
       "dependencies": []
     },
     "Matematika/Kompozicija funkcija.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1668,
-      "exportedPath": "matematika/kompozicija-funkcija.html",
+      "exportedPath": "Matematika/Kompozicija funkcija.html",
       "dependencies": []
     },
     "Matematika/Kompozicija i particija broja.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 3369,
-      "exportedPath": "matematika/kompozicija-i-particija-broja.html",
+      "exportedPath": "Matematika/Kompozicija i particija broja.html",
+      "dependencies": []
+    },
+    "Matematika/Komutativan prsten sa jedinicom.md": {
+      "modifiedTime": 1753125580393,
+      "sourceSize": 86,
+      "exportedPath": "Matematika/Komutativan prsten sa jedinicom.html",
+      "dependencies": []
+    },
+    "Matematika/Konačno generisana Abelova grupa.md": {
+      "modifiedTime": 1753125580393,
+      "sourceSize": 3796,
+      "exportedPath": "Matematika/Konačno generisana Abelova grupa.html",
       "dependencies": []
     },
     "Matematika/Kongruentnost.md": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 6168,
-      "exportedPath": "matematika/kongruentnost.html",
+      "modifiedTime": 1753125580393,
+      "sourceSize": 7018,
+      "exportedPath": "Matematika/Kongruentnost.html",
       "dependencies": []
     },
     "Matematika/Konveksnost i konkavnost.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 2144,
-      "exportedPath": "matematika/konveksnost-i-konkavnost.html",
-      "dependencies": [
-        "lib/media/analiza1_2_konveksnostgrafik.png"
-      ]
+      "exportedPath": "Matematika/Konveksnost i konkavnost.html",
+      "dependencies": []
     },
     "Matematika/Konvergencija nekih brojevnih redova.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 3486,
-      "exportedPath": "matematika/konvergencija-nekih-brojevnih-redova.html",
+      "exportedPath": "Matematika/Konvergencija nekih brojevnih redova.html",
       "dependencies": []
     },
     "Matematika/Konzervativno vektorsko polje.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 5679,
-      "exportedPath": "matematika/konzervativno-vektorsko-polje.html",
+      "exportedPath": "Matematika/Konzervativno vektorsko polje.html",
       "dependencies": []
     },
     "Matematika/Koordinatizacija. Zavisnost koordinata vektora o bazi.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 3141,
-      "exportedPath": "matematika/koordinatizacija.-zavisnost-koordinata-vektora-o-bazi.html",
+      "exportedPath": "Matematika/Koordinatizacija. Zavisnost koordinata vektora o bazi.html",
       "dependencies": []
     },
     "Matematika/Košijev niz.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1359,
-      "exportedPath": "matematika/košijev-niz.html",
+      "exportedPath": "Matematika/Košijev niz.html",
       "dependencies": []
     },
     "Matematika/Kriterijumi konvergencije brojevnih redova.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 11332,
-      "exportedPath": "matematika/kriterijumi-konvergencije-brojevnih-redova.html",
+      "exportedPath": "Matematika/Kriterijumi konvergencije brojevnih redova.html",
       "dependencies": []
     },
     "Matematika/Kriterijumi konvergencije nesvojstvenih integrala.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 6312,
-      "exportedPath": "matematika/kriterijumi-konvergencije-nesvojstvenih-integrala.html",
+      "exportedPath": "Matematika/Kriterijumi konvergencije nesvojstvenih integrala.html",
       "dependencies": []
     },
     "Matematika/Kriva i površ.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 3032,
-      "exportedPath": "matematika/kriva-i-površ.html",
+      "exportedPath": "Matematika/Kriva i površ.html",
       "dependencies": []
     },
     "Matematika/Krive drugog reda.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 2156,
-      "exportedPath": "matematika/krive-drugog-reda.html",
-      "dependencies": [
-        "lib/media/konusni-preseci.png"
-      ]
+      "exportedPath": "Matematika/Krive drugog reda.html",
+      "dependencies": []
     },
     "Matematika/Krivolinijski integral.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 11329,
-      "exportedPath": "matematika/krivolinijski-integral.html",
+      "exportedPath": "Matematika/Krivolinijski integral.html",
       "dependencies": []
     },
     "Matematika/Krug.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1227,
-      "exportedPath": "matematika/krug.html",
+      "exportedPath": "Matematika/Krug.html",
       "dependencies": []
     },
     "Matematika/Kvadratna matrica.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 7212,
-      "exportedPath": "matematika/kvadratna-matrica.html",
+      "exportedPath": "Matematika/Kvadratna matrica.html",
       "dependencies": []
     },
     "Matematika/Kvaternion.md": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 2141,
-      "exportedPath": "matematika/kvaternion.html",
+      "modifiedTime": 1753125580393,
+      "sourceSize": 2293,
+      "exportedPath": "Matematika/Kvaternion.html",
       "dependencies": []
     },
     "Matematika/Limes funkcije jedne promenljive.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 7477,
-      "exportedPath": "matematika/limes-funkcije-jedne-promenljive.html",
-      "dependencies": [
-        "lib/media/analiza1_1_8.png"
-      ]
+      "exportedPath": "Matematika/Limes funkcije jedne promenljive.html",
+      "dependencies": []
     },
     "Matematika/Limes i neprekidnost funkcije više promenljivih.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 4137,
-      "exportedPath": "matematika/limes-i-neprekidnost-funkcije-više-promenljivih.html",
+      "exportedPath": "Matematika/Limes i neprekidnost funkcije više promenljivih.html",
       "dependencies": []
     },
     "Matematika/Limes niza.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 4299,
-      "exportedPath": "matematika/limes-niza.html",
-      "dependencies": [
-        "lib/media/analiza1_3_limnizsv3.png"
-      ]
+      "exportedPath": "Matematika/Limes niza.html",
+      "dependencies": []
     },
     "Matematika/Linearna algebra.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 332,
-      "exportedPath": "matematika/linearna-algebra.html",
+      "exportedPath": "Matematika/Linearna algebra.html",
       "dependencies": []
     },
     "Matematika/Linearna zavisnost i nezavisnost. Skup generatora, baza i dimenzija VP-a.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 3124,
-      "exportedPath": "matematika/linearna-zavisnost-i-nezavisnost.-skup-generatora,-baza-i-dimenzija-vp-a.html",
+      "exportedPath": "Matematika/Linearna zavisnost i nezavisnost. Skup generatora, baza i dimenzija VP-a.html",
       "dependencies": []
     },
     "Matematika/Linearni funkcional.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 3680,
-      "exportedPath": "matematika/linearni-funkcional.html",
+      "exportedPath": "Matematika/Linearni funkcional.html",
       "dependencies": []
     },
     "Matematika/Linearni operator.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 5999,
-      "exportedPath": "matematika/linearni-operator.html",
+      "exportedPath": "Matematika/Linearni operator.html",
       "dependencies": []
     },
     "Matematika/Linearni operator u unitarnom prostoru.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 4338,
-      "exportedPath": "matematika/linearni-operator-u-unitarnom-prostoru.html",
+      "exportedPath": "Matematika/Linearni operator u unitarnom prostoru.html",
       "dependencies": []
     },
     "Matematika/Logička funkcija.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1826,
-      "exportedPath": "matematika/logička-funkcija.html",
+      "exportedPath": "Matematika/Logička funkcija.html",
       "dependencies": []
     },
     "Matematika/Logičke operacije.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 2395,
-      "exportedPath": "matematika/logičke-operacije.html",
+      "exportedPath": "Matematika/Logičke operacije.html",
       "dependencies": []
     },
     "Matematika/Logika.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 118,
-      "exportedPath": "matematika/logika.html",
+      "exportedPath": "Matematika/Logika.html",
       "dependencies": []
     },
     "Matematika/Lopitalova pravila.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1367,
-      "exportedPath": "matematika/lopitalova-pravila.html",
+      "exportedPath": "Matematika/Lopitalova pravila.html",
       "dependencies": []
     },
     "Matematika/Matematička indukcija.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1662,
-      "exportedPath": "matematika/matematička-indukcija.html",
+      "exportedPath": "Matematika/Matematička indukcija.html",
       "dependencies": []
     },
     "Matematika/Matematika.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 216,
-      "exportedPath": "matematika/matematika.html",
+      "exportedPath": "Matematika/Matematika.html",
       "dependencies": []
     },
     "Matematika/Matrica.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 7971,
-      "exportedPath": "matematika/matrica.html",
+      "exportedPath": "Matematika/Matrica.html",
       "dependencies": []
     },
     "Matematika/Matrica linearnog operatora.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 3988,
-      "exportedPath": "matematika/matrica-linearnog-operatora.html",
+      "exportedPath": "Matematika/Matrica linearnog operatora.html",
       "dependencies": []
     },
     "Matematika/Matrica relacije.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1638,
-      "exportedPath": "matematika/matrica-relacije.html",
+      "exportedPath": "Matematika/Matrica relacije.html",
       "dependencies": []
     },
     "Matematika/Metode integracije (neodređeni integral).md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 3388,
-      "exportedPath": "matematika/metode-integracije-(neodređeni-integral).html",
+      "exportedPath": "Matematika/Metode integracije (neodređeni integral).html",
       "dependencies": []
     },
     "Matematika/Metode integracije (određeni integral).md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 2191,
-      "exportedPath": "matematika/metode-integracije-(određeni-integral).html",
+      "exportedPath": "Matematika/Metode integracije (određeni integral).html",
       "dependencies": []
     },
     "Matematika/Metrika.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 750,
-      "exportedPath": "matematika/metrika.html",
+      "exportedPath": "Matematika/Metrika.html",
       "dependencies": []
     },
     "Matematika/Minimalizacija logičkih izraza.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 991,
-      "exportedPath": "matematika/minimalizacija-logičkih-izraza.html",
-      "dependencies": [
-        "lib/media/karnoovemape.png",
-        "lib/media/kvinmek.png"
-      ]
+      "exportedPath": "Matematika/Minimalizacija logičkih izraza.html",
+      "dependencies": []
     },
     "Matematika/Multinomna formula.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 596,
-      "exportedPath": "matematika/multinomna-formula.html",
+      "exportedPath": "Matematika/Multinomna formula.html",
       "dependencies": []
     },
     "Matematika/Neodređeni integral.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 7529,
-      "exportedPath": "matematika/neodređeni-integral.html",
+      "exportedPath": "Matematika/Neodređeni integral.html",
       "dependencies": []
     },
     "Matematika/Neprekidnost funkcije jedne promenljive.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 3982,
-      "exportedPath": "matematika/neprekidnost-funkcije-jedne-promenljive.html",
+      "exportedPath": "Matematika/Neprekidnost funkcije jedne promenljive.html",
       "dependencies": []
     },
     "Matematika/Neprekidnost osnovnih funkcija.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 624,
-      "exportedPath": "matematika/neprekidnost-osnovnih-funkcija.html",
+      "exportedPath": "Matematika/Neprekidnost osnovnih funkcija.html",
       "dependencies": []
     },
     "Matematika/Nesvojstveni integral.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 5828,
-      "exportedPath": "matematika/nesvojstveni-integral.html",
+      "exportedPath": "Matematika/Nesvojstveni integral.html",
       "dependencies": []
     },
     "Matematika/Niz brojeva.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 790,
-      "exportedPath": "matematika/niz-brojeva.html",
+      "exportedPath": "Matematika/Niz brojeva.html",
       "dependencies": []
     },
     "Matematika/Niz funkcija.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 4517,
-      "exportedPath": "matematika/niz-funkcija.html",
+      "exportedPath": "Matematika/Niz funkcija.html",
       "dependencies": []
     },
     "Matematika/Niz n-torki realnih brojeva.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 2367,
-      "exportedPath": "matematika/niz-n-torki-realnih-brojeva.html",
+      "exportedPath": "Matematika/Niz n-torki realnih brojeva.html",
       "dependencies": []
     },
     "Matematika/Normalne forme.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 2077,
-      "exportedPath": "matematika/normalne-forme.html",
-      "dependencies": [
-        "lib/media/logickefjeidnf_knf.png"
-      ]
+      "exportedPath": "Matematika/Normalne forme.html",
+      "dependencies": []
+    },
+    "Matematika/Normalne podgrupe.md": {
+      "modifiedTime": 1753125580393,
+      "sourceSize": 3877,
+      "exportedPath": "Matematika/Normalne podgrupe.html",
+      "dependencies": []
     },
     "Matematika/Određeni integral.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 5285,
-      "exportedPath": "matematika/određeni-integral.html",
+      "exportedPath": "Matematika/Određeni integral.html",
       "dependencies": []
     },
     "Matematika/Okolina tačke.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 2415,
-      "exportedPath": "matematika/okolina-tačke.html",
+      "exportedPath": "Matematika/Okolina tačke.html",
       "dependencies": []
     },
     "Matematika/Osnovni limesi.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1911,
-      "exportedPath": "matematika/osnovni-limesi.html",
+      "exportedPath": "Matematika/Osnovni limesi.html",
       "dependencies": []
     },
     "Matematika/Ostrva (iskazna logika).md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 6116,
-      "exportedPath": "matematika/ostrva-(iskazna-logika).html",
-      "dependencies": [
-        "lib/media/ostrva-1.1.png",
-        "lib/media/ostrva-1.2.png",
-        "lib/media/ostrva-2.1.png",
-        "lib/media/ostrva-2.2.png"
-      ]
+      "exportedPath": "Matematika/Ostrva (iskazna logika).html",
+      "dependencies": []
     },
     "Matematika/Parabola.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1384,
-      "exportedPath": "matematika/parabola.html",
-      "dependencies": [
-        "lib/media/parabola.png"
-      ]
+      "exportedPath": "Matematika/Parabola.html",
+      "dependencies": []
     },
     "Matematika/Parcijalni izvod.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 4185,
-      "exportedPath": "matematika/parcijalni-izvod.html",
+      "exportedPath": "Matematika/Parcijalni izvod.html",
       "dependencies": []
     },
     "Matematika/Particija skupa.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1500,
-      "exportedPath": "matematika/particija-skupa.html",
+      "exportedPath": "Matematika/Particija skupa.html",
       "dependencies": []
     },
     "Matematika/Podnizovi.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1578,
-      "exportedPath": "matematika/podnizovi.html",
+      "exportedPath": "Matematika/Podnizovi.html",
       "dependencies": []
     },
     "Matematika/Potprostor. Operacije nad potprostorima.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 3801,
-      "exportedPath": "matematika/potprostor.-operacije-nad-potprostorima.html",
+      "exportedPath": "Matematika/Potprostor. Operacije nad potprostorima.html",
       "dependencies": []
     },
     "Matematika/Površi drugog reda.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 3025,
-      "exportedPath": "matematika/površi-drugog-reda.html",
+      "exportedPath": "Matematika/Površi drugog reda.html",
       "dependencies": []
     },
     "Matematika/Površinski integral.md": {
-      "modifiedTime": 1748990916155,
-      "sourceSize": 12894,
-      "exportedPath": "matematika/površinski-integral.html",
+      "modifiedTime": 1753125580393,
+      "sourceSize": 12910,
+      "exportedPath": "Matematika/Površinski integral.html",
       "dependencies": []
     },
     "Matematika/Prebrojavanja.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 631,
-      "exportedPath": "matematika/prebrojavanja.html",
+      "exportedPath": "Matematika/Prebrojavanja.html",
       "dependencies": []
     },
     "Matematika/Predikatska logika.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 142,
-      "exportedPath": "matematika/predikatska-logika.html",
-      "dependencies": [
-        "lib/media/predik1.png",
-        "lib/media/predik2.png",
-        "lib/media/predik3.png",
-        "lib/media/predik4.png",
-        "lib/media/predik5.png",
-        "lib/media/predik6.png"
-      ]
+      "exportedPath": "Matematika/Predikatska logika.html",
+      "dependencies": []
     },
     "Matematika/Prekidi.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 755,
-      "exportedPath": "matematika/prekidi.html",
+      "exportedPath": "Matematika/Prekidi.html",
       "dependencies": []
     },
     "Matematika/Primene određenog integrala.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 6474,
-      "exportedPath": "matematika/primene-određenog-integrala.html",
+      "exportedPath": "Matematika/Primene određenog integrala.html",
       "dependencies": []
     },
     "Matematika/Prirodni brojevi.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 2170,
-      "exportedPath": "matematika/prirodni-brojevi.html",
+      "exportedPath": "Matematika/Prirodni brojevi.html",
       "dependencies": []
     },
     "Matematika/Projektovanje vektora i skalarni proizvod vektora.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 4143,
-      "exportedPath": "matematika/projektovanje-vektora-i-skalarni-proizvod-vektora.html",
+      "exportedPath": "Matematika/Projektovanje vektora i skalarni proizvod vektora.html",
       "dependencies": []
     },
     "Matematika/Prost broj.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1264,
-      "exportedPath": "matematika/prost-broj.html",
+      "exportedPath": "Matematika/Prost broj.html",
       "dependencies": []
     },
     "Matematika/Prostor C₀.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 3844,
-      "exportedPath": "matematika/prostor-c₀.html",
+      "exportedPath": "Matematika/Prostor C₀.html",
       "dependencies": []
     },
     "Matematika/Rang matrice. Elementarne transformacije.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 4838,
-      "exportedPath": "matematika/rang-matrice.-elementarne-transformacije.html",
+      "exportedPath": "Matematika/Rang matrice. Elementarne transformacije.html",
       "dependencies": []
     },
     "Matematika/Realni brojevi.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 2544,
-      "exportedPath": "matematika/realni-brojevi.html",
+      "exportedPath": "Matematika/Realni brojevi.html",
+      "dependencies": []
+    },
+    "Matematika/Red grupe i elementa. Indeks podgrupe.md": {
+      "modifiedTime": 1753125580393,
+      "sourceSize": 11758,
+      "exportedPath": "Matematika/Red grupe i elementa. Indeks podgrupe.html",
       "dependencies": []
     },
     "Matematika/Redukcija linearnog operatora.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 2502,
-      "exportedPath": "matematika/redukcija-linearnog-operatora.html",
+      "exportedPath": "Matematika/Redukcija linearnog operatora.html",
       "dependencies": []
     },
     "Matematika/Rekurentna jednačina.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 3444,
-      "exportedPath": "matematika/rekurentna-jednačina.html",
+      "exportedPath": "Matematika/Rekurentna jednačina.html",
       "dependencies": []
     },
     "Matematika/Relacija.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 3355,
-      "exportedPath": "matematika/relacija.html",
+      "exportedPath": "Matematika/Relacija.html",
       "dependencies": []
     },
     "Matematika/Relacija ekvivalencije.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1118,
-      "exportedPath": "matematika/relacija-ekvivalencije.html",
+      "exportedPath": "Matematika/Relacija ekvivalencije.html",
       "dependencies": []
     },
     "Matematika/Relacija poretka.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 6045,
-      "exportedPath": "matematika/relacija-poretka.html",
-      "dependencies": [
-        "lib/media/haseov-dijagram-primer-1.png",
-        "lib/media/haseov-dijagram-primer-2.png",
-        "lib/media/haseov-dijagram-primer-3.png"
-      ]
+      "exportedPath": "Matematika/Relacija poretka.html",
+      "dependencies": []
     },
     "Matematika/Reper. Koordinate vektora i tačke.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 4102,
-      "exportedPath": "matematika/reper.-koordinate-vektora-i-tačke.html",
-      "dependencies": [
-        "lib/media/transformacija-baze-1-geo.png",
-        "lib/media/transformacija-baze-2-geo.png"
-      ]
+      "exportedPath": "Matematika/Reper. Koordinate vektora i tačke.html",
+      "dependencies": []
     },
     "Matematika/Riman-integrabilnost funkcija i svojstva određenog integrala.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 9670,
-      "exportedPath": "matematika/riman-integrabilnost-funkcija-i-svojstva-određenog-integrala.html",
+      "exportedPath": "Matematika/Riman-integrabilnost funkcija i svojstva određenog integrala.html",
       "dependencies": []
     },
     "Matematika/Sistem linearnih jednačina.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 5303,
-      "exportedPath": "matematika/sistem-linearnih-jednačina.html",
+      "exportedPath": "Matematika/Sistem linearnih jednačina.html",
       "dependencies": []
     },
     "Matematika/Skup.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 4626,
-      "exportedPath": "matematika/skup.html",
+      "exportedPath": "Matematika/Skup.html",
       "dependencies": []
     },
     "Matematika/Skup n-torki realnih brojeva.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1846,
-      "exportedPath": "matematika/skup-n-torki-realnih-brojeva.html",
+      "exportedPath": "Matematika/Skup n-torki realnih brojeva.html",
       "dependencies": []
     },
     "Matematika/Slika i jezgro, rang i defekt linearnog operatora. Regularni operator.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 2964,
-      "exportedPath": "matematika/slika-i-jezgro,-rang-i-defekt-linearnog-operatora.-regularni-operator.html",
+      "exportedPath": "Matematika/Slika i jezgro, rang i defekt linearnog operatora. Regularni operator.html",
       "dependencies": []
     },
     "Matematika/Stepeni red.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 12554,
-      "exportedPath": "matematika/stepeni-red.html",
+      "exportedPath": "Matematika/Stepeni red.html",
       "dependencies": []
     },
     "Matematika/Svojstva ravnomerno konvergentnih funkcionalnih redova.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 9036,
-      "exportedPath": "matematika/svojstva-ravnomerno-konvergentnih-funkcionalnih-redova.html",
+      "exportedPath": "Matematika/Svojstva ravnomerno konvergentnih funkcionalnih redova.html",
       "dependencies": []
     },
     "Matematika/Tautologija.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1726,
-      "exportedPath": "matematika/tautologija.html",
-      "dependencies": [
-        "lib/media/tautologija-primer-2.png",
-        "lib/media/tautologija-primer-3.png"
-      ]
+      "exportedPath": "Matematika/Tautologija.html",
+      "dependencies": []
     },
     "Matematika/Tejlorov polinom funkcije jedne promenljive.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 2496,
-      "exportedPath": "matematika/tejlorov-polinom-funkcije-jedne-promenljive.html",
+      "exportedPath": "Matematika/Tejlorov polinom funkcije jedne promenljive.html",
       "dependencies": []
     },
     "Matematika/Tejlorov polinom funkcije više promenljivih.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 5627,
-      "exportedPath": "matematika/tejlorov-polinom-funkcije-više-promenljivih.html",
+      "exportedPath": "Matematika/Tejlorov polinom funkcije više promenljivih.html",
       "dependencies": []
     },
     "Matematika/Teoreme o srednjoj vrednosti.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1714,
-      "exportedPath": "matematika/teoreme-o-srednjoj-vrednosti.html",
+      "exportedPath": "Matematika/Teoreme o srednjoj vrednosti.html",
       "dependencies": []
     },
     "Matematika/Trostruki integral.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 10402,
-      "exportedPath": "matematika/trostruki-integral.html",
+      "exportedPath": "Matematika/Trostruki integral.html",
       "dependencies": []
     },
     "Matematika/Unitarni prostor. Euklidski prostor.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 8889,
-      "exportedPath": "matematika/unitarni-prostor.-euklidski-prostor.html",
+      "exportedPath": "Matematika/Unitarni prostor. Euklidski prostor.html",
       "dependencies": []
     },
     "Matematika/Valuacija (iskazna logika).md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1007,
-      "exportedPath": "matematika/valuacija-(iskazna-logika).html",
+      "exportedPath": "Matematika/Valuacija (iskazna logika).html",
       "dependencies": []
     },
     "Matematika/Vektor.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 3344,
-      "exportedPath": "matematika/vektor.html",
+      "exportedPath": "Matematika/Vektor.html",
       "dependencies": []
     },
     "Matematika/Vektorska funkcija.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 427,
-      "exportedPath": "matematika/vektorska-funkcija.html",
+      "exportedPath": "Matematika/Vektorska funkcija.html",
       "dependencies": []
     },
     "Matematika/Vektorski i mešoviti proizvod vektora.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 6259,
-      "exportedPath": "matematika/vektorski-i-mešoviti-proizvod-vektora.html",
+      "exportedPath": "Matematika/Vektorski i mešoviti proizvod vektora.html",
       "dependencies": []
     },
     "Matematika/Vektorski prostor.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 2119,
-      "exportedPath": "matematika/vektorski-prostor.html",
+      "exportedPath": "Matematika/Vektorski prostor.html",
       "dependencies": []
     },
     "Matematika/Veza između određenog integrala i izvoda. Njutn-Lajbnicova formula.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 4112,
-      "exportedPath": "matematika/veza-između-određenog-integrala-i-izvoda.-njutn-lajbnicova-formula.html",
+      "exportedPath": "Matematika/Veza između određenog integrala i izvoda. Njutn-Lajbnicova formula.html",
       "dependencies": []
     },
     "Matematika/Vrste tačaka u odnosu na neki skup. Ograničenost i kompaktnost.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 2454,
-      "exportedPath": "matematika/vrste-tačaka-u-odnosu-na-neki-skup.-ograničenost-i-kompaktnost.html",
-      "dependencies": [
-        "lib/media/analiza1_0_vrste_tačaka.png"
-      ]
+      "exportedPath": "Matematika/Vrste tačaka u odnosu na neki skup. Ograničenost i kompaktnost.html",
+      "dependencies": []
     },
     "Media/afina preslikavanja 1 geo.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 13158,
-      "exportedPath": "media/afina-preslikavanja-1-geo.png",
+      "exportedPath": "Media/afina preslikavanja 1 geo.png",
       "dependencies": []
     },
     "Media/afina preslikavanja 2 geo.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 71557,
-      "exportedPath": "media/afina-preslikavanja-2-geo.png",
+      "exportedPath": "Media/afina preslikavanja 2 geo.png",
       "dependencies": []
     },
     "Media/afina preslikavanja 3.1 geo.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 46162,
-      "exportedPath": "media/afina-preslikavanja-3.1-geo.png",
+      "exportedPath": "Media/afina preslikavanja 3.1 geo.png",
       "dependencies": []
     },
     "Media/afina preslikavanja 3.2 geo.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 41736,
-      "exportedPath": "media/afina-preslikavanja-3.2-geo.png",
+      "exportedPath": "Media/afina preslikavanja 3.2 geo.png",
       "dependencies": []
     },
     "Media/afina preslikavanja 3.3 geo.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 36611,
-      "exportedPath": "media/afina-preslikavanja-3.3-geo.png",
+      "exportedPath": "Media/afina preslikavanja 3.3 geo.png",
       "dependencies": []
     },
     "Media/afina preslikavanja 4 geo.gif": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 712857,
-      "exportedPath": "media/afina-preslikavanja-4-geo.gif",
+      "exportedPath": "Media/afina preslikavanja 4 geo.gif",
       "dependencies": []
     },
     "Media/analiza1_0_Arhimedova.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 118318,
-      "exportedPath": "media/analiza1_0_arhimedova.png",
+      "exportedPath": "Media/analiza1_0_Arhimedova.png",
       "dependencies": []
     },
     "Media/analiza1_0_Katorova.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 191303,
-      "exportedPath": "media/analiza1_0_katorova.png",
+      "exportedPath": "Media/analiza1_0_Katorova.png",
       "dependencies": []
     },
     "Media/analiza1_0_vrste_tačaka.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 285364,
-      "exportedPath": "media/analiza1_0_vrste_tačaka.png",
+      "exportedPath": "Media/analiza1_0_vrste_tačaka.png",
       "dependencies": []
     },
     "Media/analiza1_1_1.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 55807,
-      "exportedPath": "media/analiza1_1_1.png",
+      "exportedPath": "Media/analiza1_1_1.png",
       "dependencies": []
     },
     "Media/analiza1_1_2.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 128950,
-      "exportedPath": "media/analiza1_1_2.png",
+      "exportedPath": "Media/analiza1_1_2.png",
       "dependencies": []
     },
     "Media/analiza1_1_3_1.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 93193,
-      "exportedPath": "media/analiza1_1_3_1.png",
+      "exportedPath": "Media/analiza1_1_3_1.png",
       "dependencies": []
     },
     "Media/analiza1_1_3_2.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 158200,
-      "exportedPath": "media/analiza1_1_3_2.png",
+      "exportedPath": "Media/analiza1_1_3_2.png",
       "dependencies": []
     },
     "Media/analiza1_1_3_3.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 132640,
-      "exportedPath": "media/analiza1_1_3_3.png",
+      "exportedPath": "Media/analiza1_1_3_3.png",
       "dependencies": []
     },
     "Media/analiza1_1_4.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 144237,
-      "exportedPath": "media/analiza1_1_4.png",
+      "exportedPath": "Media/analiza1_1_4.png",
       "dependencies": []
     },
     "Media/analiza1_1_8.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 180390,
-      "exportedPath": "media/analiza1_1_8.png",
+      "exportedPath": "Media/analiza1_1_8.png",
       "dependencies": []
     },
     "Media/analiza1_1_10.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 319313,
-      "exportedPath": "media/analiza1_1_10.png",
+      "exportedPath": "Media/analiza1_1_10.png",
       "dependencies": []
     },
     "Media/analiza1_1_11.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 77721,
-      "exportedPath": "media/analiza1_1_11.png",
+      "exportedPath": "Media/analiza1_1_11.png",
       "dependencies": []
     },
     "Media/analiza1_1_12_1.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 153828,
-      "exportedPath": "media/analiza1_1_12_1.png",
+      "exportedPath": "Media/analiza1_1_12_1.png",
       "dependencies": []
     },
     "Media/analiza1_1_12_2.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 165431,
-      "exportedPath": "media/analiza1_1_12_2.png",
+      "exportedPath": "Media/analiza1_1_12_2.png",
       "dependencies": []
     },
     "Media/analiza1_1_13.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 46268,
-      "exportedPath": "media/analiza1_1_13.png",
+      "exportedPath": "Media/analiza1_1_13.png",
       "dependencies": []
     },
     "Media/analiza1_1_14.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 141383,
-      "exportedPath": "media/analiza1_1_14.png",
+      "exportedPath": "Media/analiza1_1_14.png",
       "dependencies": []
     },
     "Media/analiza1_1_16.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 128325,
-      "exportedPath": "media/analiza1_1_16.png",
+      "exportedPath": "Media/analiza1_1_16.png",
       "dependencies": []
     },
     "Media/analiza1_1_17.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 43033,
-      "exportedPath": "media/analiza1_1_17.png",
+      "exportedPath": "Media/analiza1_1_17.png",
       "dependencies": []
     },
     "Media/analiza1_1_kbt.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 278344,
-      "exportedPath": "media/analiza1_1_kbt.png",
+      "exportedPath": "Media/analiza1_1_kbt.png",
       "dependencies": []
     },
     "Media/analiza1_1_limMonotone.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 319276,
-      "exportedPath": "media/analiza1_1_limmonotone.png",
+      "exportedPath": "Media/analiza1_1_limMonotone.png",
       "dependencies": []
     },
     "Media/analiza1_1_medjuvr.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 121987,
-      "exportedPath": "media/analiza1_1_medjuvr.png",
+      "exportedPath": "Media/analiza1_1_medjuvr.png",
       "dependencies": []
     },
     "Media/analiza1_1_neprekidnostenax.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 357470,
-      "exportedPath": "media/analiza1_1_neprekidnostenax.png",
+      "exportedPath": "Media/analiza1_1_neprekidnostenax.png",
       "dependencies": []
     },
     "Media/analiza1_1_neprekidnostRacionalne.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 128490,
-      "exportedPath": "media/analiza1_1_neprekidnostracionalne.png",
+      "exportedPath": "Media/analiza1_1_neprekidnostRacionalne.png",
       "dependencies": []
     },
     "Media/analiza1_1_neprekidnostsin.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 338315,
-      "exportedPath": "media/analiza1_1_neprekidnostsin.png",
+      "exportedPath": "Media/analiza1_1_neprekidnostsin.png",
       "dependencies": []
     },
     "Media/analiza1_1_NeprIlimKomut.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 150233,
-      "exportedPath": "media/analiza1_1_neprilimkomut.png",
+      "exportedPath": "Media/analiza1_1_NeprIlimKomut.png",
       "dependencies": []
     },
     "Media/analiza1_1_neprInverzne.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 56138,
-      "exportedPath": "media/analiza1_1_neprinverzne.png",
+      "exportedPath": "Media/analiza1_1_neprInverzne.png",
       "dependencies": []
     },
     "Media/analiza1_1_neprKompozicije.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 96459,
-      "exportedPath": "media/analiza1_1_neprkompozicije.png",
+      "exportedPath": "Media/analiza1_1_neprKompozicije.png",
       "dependencies": []
     },
     "Media/analiza1_1_neprMonot.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 146169,
-      "exportedPath": "media/analiza1_1_neprmonot.png",
+      "exportedPath": "Media/analiza1_1_neprMonot.png",
       "dependencies": []
     },
     "Media/analiza1_1_osnovnelimcos.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 64196,
-      "exportedPath": "media/analiza1_1_osnovnelimcos.png",
+      "exportedPath": "Media/analiza1_1_osnovnelimcos.png",
       "dependencies": []
     },
     "Media/analiza1_1_osnovnelimposl.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 300108,
-      "exportedPath": "media/analiza1_1_osnovnelimposl.png",
+      "exportedPath": "Media/analiza1_1_osnovnelimposl.png",
       "dependencies": []
     },
     "Media/analiza1_1_osnovnelimsin.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 416039,
-      "exportedPath": "media/analiza1_1_osnovnelimsin.png",
+      "exportedPath": "Media/analiza1_1_osnovnelimsin.png",
       "dependencies": []
     },
     "Media/analiza1_1_teo3lim.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 146899,
-      "exportedPath": "media/analiza1_1_teo3lim.png",
+      "exportedPath": "Media/analiza1_1_teo3lim.png",
       "dependencies": []
     },
     "Media/analiza1_1_teoAritmOplim_1.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 28365,
-      "exportedPath": "media/analiza1_1_teoaritmoplim_1.png",
+      "exportedPath": "Media/analiza1_1_teoAritmOplim_1.png",
       "dependencies": []
     },
     "Media/analiza1_1_teoAritmOplim_2.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 72487,
-      "exportedPath": "media/analiza1_1_teoaritmoplim_2.png",
+      "exportedPath": "Media/analiza1_1_teoAritmOplim_2.png",
       "dependencies": []
     },
     "Media/analiza1_1_teoAritmOplim_3_1.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 248417,
-      "exportedPath": "media/analiza1_1_teoaritmoplim_3_1.png",
+      "exportedPath": "Media/analiza1_1_teoAritmOplim_3_1.png",
       "dependencies": []
     },
     "Media/analiza1_1_teoAritmOplim_3_2.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 51193,
-      "exportedPath": "media/analiza1_1_teoaritmoplim_3_2.png",
+      "exportedPath": "Media/analiza1_1_teoAritmOplim_3_2.png",
       "dependencies": []
     },
     "Media/analiza1_1_vajer.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 420401,
-      "exportedPath": "media/analiza1_1_vajer.png",
+      "exportedPath": "Media/analiza1_1_vajer.png",
       "dependencies": []
     },
     "Media/analiza1_2_1.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 44742,
-      "exportedPath": "media/analiza1_2_1.png",
+      "exportedPath": "Media/analiza1_2_1.png",
       "dependencies": []
     },
     "Media/analiza1_2_2_1.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 69215,
-      "exportedPath": "media/analiza1_2_2_1.png",
+      "exportedPath": "Media/analiza1_2_2_1.png",
       "dependencies": []
     },
     "Media/analiza1_2_2_2.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 103408,
-      "exportedPath": "media/analiza1_2_2_2.png",
+      "exportedPath": "Media/analiza1_2_2_2.png",
       "dependencies": []
     },
     "Media/analiza1_2_2_3_1.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 113271,
-      "exportedPath": "media/analiza1_2_2_3_1.png",
+      "exportedPath": "Media/analiza1_2_2_3_1.png",
       "dependencies": []
     },
     "Media/analiza1_2_2_3_2.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 74117,
-      "exportedPath": "media/analiza1_2_2_3_2.png",
+      "exportedPath": "Media/analiza1_2_2_3_2.png",
       "dependencies": []
     },
     "Media/analiza1_2_3.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 299622,
-      "exportedPath": "media/analiza1_2_3.png",
+      "exportedPath": "Media/analiza1_2_3.png",
       "dependencies": []
     },
     "Media/analiza1_2_3prim.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 42503,
-      "exportedPath": "media/analiza1_2_3prim.png",
+      "exportedPath": "Media/analiza1_2_3prim.png",
       "dependencies": []
     },
     "Media/analiza1_2_4.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 57641,
-      "exportedPath": "media/analiza1_2_4.png",
+      "exportedPath": "Media/analiza1_2_4.png",
       "dependencies": []
     },
     "Media/analiza1_2_4prim.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 377742,
-      "exportedPath": "media/analiza1_2_4prim.png",
+      "exportedPath": "Media/analiza1_2_4prim.png",
       "dependencies": []
     },
     "Media/analiza1_2_7.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 228932,
-      "exportedPath": "media/analiza1_2_7.png",
+      "exportedPath": "Media/analiza1_2_7.png",
       "dependencies": []
     },
     "Media/analiza1_2_8.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 91918,
-      "exportedPath": "media/analiza1_2_8.png",
+      "exportedPath": "Media/analiza1_2_8.png",
       "dependencies": []
     },
     "Media/analiza1_2_10.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 122492,
-      "exportedPath": "media/analiza1_2_10.png",
+      "exportedPath": "Media/analiza1_2_10.png",
       "dependencies": []
     },
     "Media/analiza1_2_11.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 327276,
-      "exportedPath": "media/analiza1_2_11.png",
+      "exportedPath": "Media/analiza1_2_11.png",
       "dependencies": []
     },
     "Media/analiza1_2_dovoljniUslovEkstremuma.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 342626,
-      "exportedPath": "media/analiza1_2_dovoljniuslovekstremuma.png",
+      "exportedPath": "Media/analiza1_2_dovoljniUslovEkstremuma.png",
       "dependencies": []
     },
     "Media/analiza1_2_ferma.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 94620,
-      "exportedPath": "media/analiza1_2_ferma.png",
+      "exportedPath": "Media/analiza1_2_ferma.png",
       "dependencies": []
     },
     "Media/analiza1_2_izvodiVisegReda.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 118179,
-      "exportedPath": "media/analiza1_2_izvodivisegreda.png",
+      "exportedPath": "Media/analiza1_2_izvodiVisegReda.png",
       "dependencies": []
     },
     "Media/analiza1_2_konveksnostGrafik.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 42624,
-      "exportedPath": "media/analiza1_2_konveksnostgrafik.png",
+      "exportedPath": "Media/analiza1_2_konveksnostGrafik.png",
       "dependencies": []
     },
     "Media/analiza1_2_kosi.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 310637,
-      "exportedPath": "media/analiza1_2_kosi.png",
+      "exportedPath": "Media/analiza1_2_kosi.png",
       "dependencies": []
     },
     "Media/analiza1_2_lagranz.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 179047,
-      "exportedPath": "media/analiza1_2_lagranz.png",
+      "exportedPath": "Media/analiza1_2_lagranz.png",
       "dependencies": []
     },
     "Media/analiza1_2_lagranz_p1.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 39518,
-      "exportedPath": "media/analiza1_2_lagranz_p1.png",
+      "exportedPath": "Media/analiza1_2_lagranz_p1.png",
       "dependencies": []
     },
     "Media/analiza1_2_lagranz_p2.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 93941,
-      "exportedPath": "media/analiza1_2_lagranz_p2.png",
+      "exportedPath": "Media/analiza1_2_lagranz_p2.png",
       "dependencies": []
     },
     "Media/analiza1_2_lagranz_p3.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 52591,
-      "exportedPath": "media/analiza1_2_lagranz_p3.png",
+      "exportedPath": "Media/analiza1_2_lagranz_p3.png",
       "dependencies": []
     },
-    "Media/analiza1_2_lagranzevOblikOst.png": {
-      "modifiedTime": 1748989451913,
+    "Media/analiza1_2_lagranzovOblikOst.png": {
+      "modifiedTime": 1753125580393,
       "sourceSize": 311127,
-      "exportedPath": "media/analiza1_2_lagranzevoblikost.png",
+      "exportedPath": "Media/analiza1_2_lagranzovOblikOst.png",
       "dependencies": []
     },
     "Media/analiza1_2_lajbnicovo.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 206640,
-      "exportedPath": "media/analiza1_2_lajbnicovo.png",
+      "exportedPath": "Media/analiza1_2_lajbnicovo.png",
       "dependencies": []
     },
     "Media/analiza1_2_lp.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 299748,
-      "exportedPath": "media/analiza1_2_lp.png",
+      "exportedPath": "Media/analiza1_2_lp.png",
       "dependencies": []
     },
     "Media/analiza1_2_osnovniIzvodi.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 470873,
-      "exportedPath": "media/analiza1_2_osnovniizvodi.png",
+      "exportedPath": "Media/analiza1_2_osnovniIzvodi.png",
       "dependencies": []
     },
     "Media/analiza1_2_peanovOblikOst.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 96990,
-      "exportedPath": "media/analiza1_2_peanovoblikost.png",
+      "exportedPath": "Media/analiza1_2_peanovOblikOst.png",
       "dependencies": []
     },
     "Media/analiza1_2_rol.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 170645,
-      "exportedPath": "media/analiza1_2_rol.png",
+      "exportedPath": "Media/analiza1_2_rol.png",
       "dependencies": []
     },
     "Media/analiza1_2_skala.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 121594,
-      "exportedPath": "media/analiza1_2_skala.png",
+      "exportedPath": "Media/analiza1_2_skala.png",
       "dependencies": []
     },
     "Media/analiza1_2_Tejlor.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 505817,
-      "exportedPath": "media/analiza1_2_tejlor.png",
+      "exportedPath": "Media/analiza1_2_Tejlor.png",
       "dependencies": []
     },
     "Media/analiza1_3_1.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 70573,
-      "exportedPath": "media/analiza1_3_1.png",
+      "exportedPath": "Media/analiza1_3_1.png",
       "dependencies": []
     },
     "Media/analiza1_3_3_1.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 321057,
-      "exportedPath": "media/analiza1_3_3_1.png",
+      "exportedPath": "Media/analiza1_3_3_1.png",
       "dependencies": []
     },
     "Media/analiza1_3_3_2.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 155696,
-      "exportedPath": "media/analiza1_3_3_2.png",
+      "exportedPath": "Media/analiza1_3_3_2.png",
       "dependencies": []
     },
     "Media/analiza1_3_3_3.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 111149,
-      "exportedPath": "media/analiza1_3_3_3.png",
+      "exportedPath": "Media/analiza1_3_3_3.png",
       "dependencies": []
     },
     "Media/analiza1_3_4.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 301692,
-      "exportedPath": "media/analiza1_3_4.png",
+      "exportedPath": "Media/analiza1_3_4.png",
       "dependencies": []
     },
     "Media/analiza1_3_5.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 332266,
-      "exportedPath": "media/analiza1_3_5.png",
+      "exportedPath": "Media/analiza1_3_5.png",
       "dependencies": []
     },
     "Media/analiza1_3_6.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 104101,
-      "exportedPath": "media/analiza1_3_6.png",
+      "exportedPath": "Media/analiza1_3_6.png",
       "dependencies": []
     },
     "Media/analiza1_3_7.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 297055,
-      "exportedPath": "media/analiza1_3_7.png",
+      "exportedPath": "Media/analiza1_3_7.png",
       "dependencies": []
     },
     "Media/analiza1_3_9.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 84938,
-      "exportedPath": "media/analiza1_3_9.png",
+      "exportedPath": "Media/analiza1_3_9.png",
       "dependencies": []
     },
     "Media/analiza1_3_10.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 140242,
-      "exportedPath": "media/analiza1_3_10.png",
+      "exportedPath": "Media/analiza1_3_10.png",
       "dependencies": []
     },
     "Media/analiza1_3_BVT.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 339062,
-      "exportedPath": "media/analiza1_3_bvt.png",
+      "exportedPath": "Media/analiza1_3_BVT.png",
       "dependencies": []
     },
     "Media/analiza1_3_Hajne.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 378348,
-      "exportedPath": "media/analiza1_3_hajne.png",
+      "exportedPath": "Media/analiza1_3_Hajne.png",
       "dependencies": []
     },
     "Media/analiza1_3_KosijevKriterijum.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 346174,
-      "exportedPath": "media/analiza1_3_kosijevkriterijum.png",
+      "exportedPath": "Media/analiza1_3_KosijevKriterijum.png",
       "dependencies": []
     },
     "Media/analiza1_3_limMonotNiza.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 219192,
-      "exportedPath": "media/analiza1_3_limmonotniza.png",
+      "exportedPath": "Media/analiza1_3_limMonotNiza.png",
       "dependencies": []
     },
     "Media/analiza1_3_limNizSv1.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 82193,
-      "exportedPath": "media/analiza1_3_limnizsv1.png",
+      "exportedPath": "Media/analiza1_3_limNizSv1.png",
       "dependencies": []
     },
     "Media/analiza1_3_limNizSv3.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 65745,
-      "exportedPath": "media/analiza1_3_limnizsv3.png",
+      "exportedPath": "Media/analiza1_3_limNizSv3.png",
       "dependencies": []
     },
     "Media/analiza1_3_limNizSv5.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 72824,
-      "exportedPath": "media/analiza1_3_limnizsv5.png",
+      "exportedPath": "Media/analiza1_3_limNizSv5.png",
       "dependencies": []
     },
     "Media/analiza1_3_limNizSv6.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 60673,
-      "exportedPath": "media/analiza1_3_limnizsv6.png",
+      "exportedPath": "Media/analiza1_3_limNizSv6.png",
       "dependencies": []
     },
     "Media/analiza1_3_limNizSv8.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 54610,
-      "exportedPath": "media/analiza1_3_limnizsv8.png",
+      "exportedPath": "Media/analiza1_3_limNizSv8.png",
       "dependencies": []
     },
     "Media/argumenti_main.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 43539,
-      "exportedPath": "media/argumenti_main.png",
+      "exportedPath": "Media/argumenti_main.png",
       "dependencies": []
     },
     "Media/binarna relacija primer.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 207075,
-      "exportedPath": "media/binarna-relacija-primer.png",
+      "exportedPath": "Media/binarna relacija primer.png",
       "dependencies": []
     },
     "Media/binomnaFormula.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 642676,
-      "exportedPath": "media/binomnaformula.png",
+      "exportedPath": "Media/binomnaFormula.png",
       "dependencies": []
     },
     "Media/broj e stav.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 135725,
-      "exportedPath": "media/broj-e-stav.png",
+      "exportedPath": "Media/broj e stav.png",
       "dependencies": []
     },
     "Media/bulov proizvod primer.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 182231,
-      "exportedPath": "media/bulov-proizvod-primer.png",
+      "exportedPath": "Media/bulov proizvod primer.png",
       "dependencies": []
     },
     "Media/deljivost osobine.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 196639,
-      "exportedPath": "media/deljivost-osobine.png",
+      "exportedPath": "Media/deljivost osobine.png",
       "dependencies": []
     },
     "Media/deljivost stav.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 747209,
-      "exportedPath": "media/deljivost-stav.png",
+      "exportedPath": "Media/deljivost stav.png",
       "dependencies": []
     },
     "Media/diofantova jednacina primer.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 226453,
-      "exportedPath": "media/diofantova-jednacina-primer.png",
+      "exportedPath": "Media/diofantova jednacina primer.png",
       "dependencies": []
     },
     "Media/direktna i inverzna slika primer 1.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 159975,
-      "exportedPath": "media/direktna-i-inverzna-slika-primer-1.png",
+      "exportedPath": "Media/direktna i inverzna slika primer 1.png",
       "dependencies": []
     },
     "Media/direktna i inverzna slika primer 2.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 533035,
-      "exportedPath": "media/direktna-i-inverzna-slika-primer-2.png",
+      "exportedPath": "Media/direktna i inverzna slika primer 2.png",
       "dependencies": []
     },
     "Media/dokazi zakona bulovih algebri.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 625912,
-      "exportedPath": "media/dokazi-zakona-bulovih-algebri.png",
+      "exportedPath": "Media/dokazi zakona bulovih algebri.png",
       "dependencies": []
     },
     "Media/ds1_beleske-01.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 90285,
-      "exportedPath": "media/ds1_beleske-01.png",
+      "exportedPath": "Media/ds1_beleske-01.png",
       "dependencies": []
     },
     "Media/ds1_beleske-02.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 998091,
-      "exportedPath": "media/ds1_beleske-02.png",
+      "exportedPath": "Media/ds1_beleske-02.png",
       "dependencies": []
     },
     "Media/dvograni hiperboloid.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 102202,
-      "exportedPath": "media/dvograni-hiperboloid.png",
+      "exportedPath": "Media/dvograni hiperboloid.png",
       "dependencies": []
     },
     "Media/elipsa.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 319370,
-      "exportedPath": "media/elipsa.png",
+      "exportedPath": "Media/elipsa.png",
       "dependencies": []
     },
     "Media/elipsoid.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 35735,
-      "exportedPath": "media/elipsoid.png",
+      "exportedPath": "Media/elipsoid.png",
       "dependencies": []
     },
     "Media/elipticki cilindar.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 66928,
-      "exportedPath": "media/elipticki-cilindar.png",
+      "exportedPath": "Media/elipticki cilindar.png",
       "dependencies": []
     },
     "Media/elipticki paraboloid.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 79093,
-      "exportedPath": "media/elipticki-paraboloid.png",
+      "exportedPath": "Media/elipticki paraboloid.png",
       "dependencies": []
     },
     "Media/eukl alg matr 1.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1771425,
-      "exportedPath": "media/eukl-alg-matr-1.png",
+      "exportedPath": "Media/eukl alg matr 1.png",
       "dependencies": []
     },
     "Media/eukl alg matr 2.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 814484,
-      "exportedPath": "media/eukl-alg-matr-2.png",
+      "exportedPath": "Media/eukl alg matr 2.png",
       "dependencies": []
     },
     "Media/eukl alg matr primer.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 569720,
-      "exportedPath": "media/eukl-alg-matr-primer.png",
+      "exportedPath": "Media/eukl alg matr primer.png",
       "dependencies": []
     },
     "Media/eukl alg posl.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 569945,
-      "exportedPath": "media/eukl-alg-posl.png",
+      "exportedPath": "Media/eukl alg posl.png",
       "dependencies": []
     },
     "Media/eukl alg primer.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 252924,
-      "exportedPath": "media/eukl-alg-primer.png",
+      "exportedPath": "Media/eukl alg primer.png",
       "dependencies": []
     },
     "Media/eukl alg t1.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 486422,
-      "exportedPath": "media/eukl-alg-t1.png",
+      "exportedPath": "Media/eukl alg t1.png",
       "dependencies": []
     },
     "Media/euklidsko deljenje teorema 1.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1059639,
-      "exportedPath": "media/euklidsko-deljenje-teorema-1.png",
+      "exportedPath": "Media/euklidsko deljenje teorema 1.png",
       "dependencies": []
     },
     "Media/euklidsko deljenje teorema 2.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1405577,
-      "exportedPath": "media/euklidsko-deljenje-teorema-2.png",
+      "exportedPath": "Media/euklidsko deljenje teorema 2.png",
       "dependencies": []
     },
     "Media/FerersoviDijagrami.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 634920,
-      "exportedPath": "media/ferersovidijagrami.png",
+      "exportedPath": "Media/FerersoviDijagrami.png",
       "dependencies": []
     },
     "Media/FGprimer1.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 598467,
-      "exportedPath": "media/fgprimer1.png",
+      "exportedPath": "Media/FGprimer1.png",
       "dependencies": []
     },
     "Media/FGprimer2.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 499581,
-      "exportedPath": "media/fgprimer2.png",
+      "exportedPath": "Media/FGprimer2.png",
       "dependencies": []
     },
     "Media/FGprimer3.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 578643,
-      "exportedPath": "media/fgprimer3.png",
+      "exportedPath": "Media/FGprimer3.png",
       "dependencies": []
     },
     "Media/Fib1.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 602436,
-      "exportedPath": "media/fib1.png",
+      "exportedPath": "Media/Fib1.png",
       "dependencies": []
     },
     "Media/Fib2.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 326343,
-      "exportedPath": "media/fib2.png",
+      "exportedPath": "Media/Fib2.png",
       "dependencies": []
     },
     "Media/Fib3.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1079590,
-      "exportedPath": "media/fib3.png",
+      "exportedPath": "Media/Fib3.png",
       "dependencies": []
     },
     "Media/FibLuk.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 339121,
-      "exportedPath": "media/fibluk.png",
+      "exportedPath": "Media/FibLuk.png",
       "dependencies": []
     },
     "Media/FNM teorema.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1765179,
-      "exportedPath": "media/fnm-teorema.png",
+      "exportedPath": "Media/FNM teorema.png",
       "dependencies": []
     },
     "Media/funkcija.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 21372,
-      "exportedPath": "media/funkcija.png",
+      "exportedPath": "Media/funkcija.png",
       "dependencies": []
     },
     "Media/funkcija primer 1.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 190819,
-      "exportedPath": "media/funkcija-primer-1.png",
+      "exportedPath": "Media/funkcija primer 1.png",
       "dependencies": []
     },
     "Media/funkcija primer 2.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 354775,
-      "exportedPath": "media/funkcija-primer-2.png",
+      "exportedPath": "Media/funkcija primer 2.png",
       "dependencies": []
     },
     "Media/grinova formula slika1.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 37888,
-      "exportedPath": "media/grinova-formula-slika1.png",
+      "exportedPath": "Media/grinova formula slika1.png",
       "dependencies": []
     },
     "Media/grinova formula slika2.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 23537,
-      "exportedPath": "media/grinova-formula-slika2.png",
+      "exportedPath": "Media/grinova formula slika2.png",
       "dependencies": []
     },
     "Media/haseov dijagram primer 1.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 16686,
-      "exportedPath": "media/haseov-dijagram-primer-1.png",
+      "exportedPath": "Media/haseov dijagram primer 1.png",
       "dependencies": []
     },
     "Media/haseov dijagram primer 2.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 7145,
-      "exportedPath": "media/haseov-dijagram-primer-2.png",
+      "exportedPath": "Media/haseov dijagram primer 2.png",
       "dependencies": []
     },
     "Media/haseov dijagram primer 3.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 3464,
-      "exportedPath": "media/haseov-dijagram-primer-3.png",
+      "exportedPath": "Media/haseov dijagram primer 3.png",
       "dependencies": []
     },
     "Media/hiperbola.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 44890,
-      "exportedPath": "media/hiperbola.png",
+      "exportedPath": "Media/hiperbola.png",
       "dependencies": []
     },
     "Media/hiperbolicki cilindar.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 55243,
-      "exportedPath": "media/hiperbolicki-cilindar.png",
+      "exportedPath": "Media/hiperbolicki cilindar.png",
       "dependencies": []
     },
     "Media/hiperbolicki paraboloid.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 112402,
-      "exportedPath": "media/hiperbolicki-paraboloid.png",
+      "exportedPath": "Media/hiperbolicki paraboloid.png",
       "dependencies": []
     },
     "Media/inverzna fja stav desni.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 343836,
-      "exportedPath": "media/inverzna-fja-stav-desni.png",
+      "exportedPath": "Media/inverzna fja stav desni.png",
       "dependencies": []
     },
     "Media/inverzna fja stav levi.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 314806,
-      "exportedPath": "media/inverzna-fja-stav-levi.png",
+      "exportedPath": "Media/inverzna fja stav levi.png",
       "dependencies": []
     },
     "Media/inverzna relacija svojstva.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 89818,
-      "exportedPath": "media/inverzna-relacija-svojstva.png",
+      "exportedPath": "Media/inverzna relacija svojstva.png",
       "dependencies": []
     },
     "Media/jednograni hiperboloid.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 127564,
-      "exportedPath": "media/jednograni-hiperboloid.png",
+      "exportedPath": "Media/jednograni hiperboloid.png",
       "dependencies": []
     },
     "Media/karakt fja.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 742226,
-      "exportedPath": "media/karakt-fja.png",
+      "exportedPath": "Media/karakt fja.png",
       "dependencies": []
     },
     "Media/karakt fja primer 1.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 82137,
-      "exportedPath": "media/karakt-fja-primer-1.png",
+      "exportedPath": "Media/karakt fja primer 1.png",
       "dependencies": []
     },
     "Media/karakt fja primer 2.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 173451,
-      "exportedPath": "media/karakt-fja-primer-2.png",
+      "exportedPath": "Media/karakt fja primer 2.png",
       "dependencies": []
     },
     "Media/karakteri konverzije printf.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 204969,
-      "exportedPath": "media/karakteri-konverzije-printf.png",
+      "exportedPath": "Media/karakteri konverzije printf.png",
       "dependencies": []
     },
     "Media/karakteri konverzije scanf.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 189321,
-      "exportedPath": "media/karakteri-konverzije-scanf.png",
+      "exportedPath": "Media/karakteri konverzije scanf.png",
       "dependencies": []
     },
     "Media/KarnooveMape.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 916287,
-      "exportedPath": "media/karnoovemape.png",
+      "exportedPath": "Media/KarnooveMape.png",
       "dependencies": []
     },
     "Media/KarnooveMapePrimer.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 637994,
-      "exportedPath": "media/karnoovemapeprimer.png",
+      "exportedPath": "Media/KarnooveMapePrimer.png",
       "dependencies": []
     },
     "Media/Katalan.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 462011,
-      "exportedPath": "media/katalan.png",
+      "exportedPath": "Media/Katalan.png",
       "dependencies": []
     },
     "Media/kineska teorema.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1611773,
-      "exportedPath": "media/kineska-teorema.png",
+      "exportedPath": "Media/kineska teorema.png",
       "dependencies": []
     },
     "Media/klasa ekvivalencije primer.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1282886,
-      "exportedPath": "media/klasa-ekvivalencije-primer.png",
+      "exportedPath": "Media/klasa ekvivalencije primer.png",
       "dependencies": []
     },
     "Media/klasa ekvivalencije stav.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 121320,
-      "exportedPath": "media/klasa-ekvivalencije-stav.png",
+      "exportedPath": "Media/klasa ekvivalencije stav.png",
       "dependencies": []
     },
     "Media/kompozicija funkcija primer.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 398386,
-      "exportedPath": "media/kompozicija-funkcija-primer.png",
+      "exportedPath": "Media/kompozicija funkcija primer.png",
       "dependencies": []
     },
     "Media/kompozicija funkcija stav.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 510507,
-      "exportedPath": "media/kompozicija-funkcija-stav.png",
+      "exportedPath": "Media/kompozicija funkcija stav.png",
       "dependencies": []
     },
     "Media/kompozicija relacija primer.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 75961,
-      "exportedPath": "media/kompozicija-relacija-primer.png",
+      "exportedPath": "Media/kompozicija relacija primer.png",
       "dependencies": []
     },
     "Media/kompozicija relacija svojstva.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 217714,
-      "exportedPath": "media/kompozicija-relacija-svojstva.png",
+      "exportedPath": "Media/kompozicija relacija svojstva.png",
       "dependencies": []
     },
     "Media/kongr primer 1.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 281591,
-      "exportedPath": "media/kongr-primer-1.png",
+      "exportedPath": "Media/kongr primer 1.png",
       "dependencies": []
     },
     "Media/kongr primer 2.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 199293,
-      "exportedPath": "media/kongr-primer-2.png",
+      "exportedPath": "Media/kongr primer 2.png",
       "dependencies": []
     },
     "Media/kongr primer 3.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 163575,
-      "exportedPath": "media/kongr-primer-3.png",
+      "exportedPath": "Media/kongr primer 3.png",
       "dependencies": []
     },
     "Media/kongr primer 4.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 151024,
-      "exportedPath": "media/kongr-primer-4.png",
+      "exportedPath": "Media/kongr primer 4.png",
       "dependencies": []
     },
     "Media/kongr stav 1.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 749786,
-      "exportedPath": "media/kongr-stav-1.png",
+      "exportedPath": "Media/kongr stav 1.png",
       "dependencies": []
     },
     "Media/kongr stav 2.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 948828,
-      "exportedPath": "media/kongr-stav-2.png",
+      "exportedPath": "Media/kongr stav 2.png",
       "dependencies": []
     },
     "Media/konus.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 109514,
-      "exportedPath": "media/konus.png",
+      "exportedPath": "Media/konus.png",
       "dependencies": []
     },
     "Media/konusni preseci.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 52738,
-      "exportedPath": "media/konusni-preseci.png",
+      "exportedPath": "Media/konusni preseci.png",
       "dependencies": []
     },
     "Media/KvinMek.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1084962,
-      "exportedPath": "media/kvinmek.png",
+      "exportedPath": "Media/KvinMek.png",
       "dependencies": []
     },
     "Media/KvinMekPrimer1.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1462608,
-      "exportedPath": "media/kvinmekprimer1.png",
+      "exportedPath": "Media/KvinMekPrimer1.png",
       "dependencies": []
     },
     "Media/KvinMekPrimer2.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1608614,
-      "exportedPath": "media/kvinmekprimer2.png",
+      "exportedPath": "Media/KvinMekPrimer2.png",
       "dependencies": []
     },
     "Media/LogickeFjeIdnf_knf.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 705991,
-      "exportedPath": "media/logickefjeidnf_knf.png",
+      "exportedPath": "Media/LogickeFjeIdnf_knf.png",
       "dependencies": []
     },
     "Media/Luk1.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 342415,
-      "exportedPath": "media/luk1.png",
+      "exportedPath": "Media/Luk1.png",
       "dependencies": []
     },
     "Media/Luk2.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 204014,
-      "exportedPath": "media/luk2.png",
+      "exportedPath": "Media/Luk2.png",
       "dependencies": []
     },
     "Media/matrica relacije primer.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 260365,
-      "exportedPath": "media/matrica-relacije-primer.png",
+      "exportedPath": "Media/matrica relacije primer.png",
       "dependencies": []
     },
     "Media/matrica relacije teorema.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 847334,
-      "exportedPath": "media/matrica-relacije-teorema.png",
+      "exportedPath": "Media/matrica relacije teorema.png",
       "dependencies": []
     },
     "Media/MinimNebitneVrednosti.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1694980,
-      "exportedPath": "media/minimnebitnevrednosti.png",
+      "exportedPath": "Media/MinimNebitneVrednosti.png",
       "dependencies": []
     },
     "Media/najminmaks primer.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 515614,
-      "exportedPath": "media/najminmaks-primer.png",
+      "exportedPath": "Media/najminmaks primer.png",
       "dependencies": []
     },
     "Media/najminmaks teorema.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 192933,
-      "exportedPath": "media/najminmaks-teorema.png",
+      "exportedPath": "Media/najminmaks teorema.png",
       "dependencies": []
     },
     "Media/neasocijativnostVektProizv.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 632711,
-      "exportedPath": "media/neasocijativnostvektproizv.png",
+      "exportedPath": "Media/neasocijativnostVektProizv.png",
       "dependencies": []
     },
     "Media/niz niski.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 580057,
-      "exportedPath": "media/niz-niski.png",
+      "exportedPath": "Media/niz niski.png",
       "dependencies": []
     },
     "Media/Od izvornog do izvrsivog.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1586210,
-      "exportedPath": "media/od-izvornog-do-izvrsivog.png",
+      "exportedPath": "Media/Od izvornog do izvrsivog.png",
       "dependencies": []
     },
     "Media/ojlerova fja prostog broja.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 652903,
-      "exportedPath": "media/ojlerova-fja-prostog-broja.png",
+      "exportedPath": "Media/ojlerova fja prostog broja.png",
       "dependencies": []
     },
     "Media/ojlevova teorema.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1893034,
-      "exportedPath": "media/ojlevova-teorema.png",
+      "exportedPath": "Media/ojlevova teorema.png",
       "dependencies": []
     },
     "Media/ostrva 1.1.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 28306,
-      "exportedPath": "media/ostrva-1.1.png",
+      "exportedPath": "Media/ostrva 1.1.png",
       "dependencies": []
     },
     "Media/ostrva 1.2.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 84712,
-      "exportedPath": "media/ostrva-1.2.png",
+      "exportedPath": "Media/ostrva 1.2.png",
       "dependencies": []
     },
     "Media/ostrva 2.1.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 24766,
-      "exportedPath": "media/ostrva-2.1.png",
+      "exportedPath": "Media/ostrva 2.1.png",
       "dependencies": []
     },
     "Media/ostrva 2.2.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 143879,
-      "exportedPath": "media/ostrva-2.2.png",
+      "exportedPath": "Media/ostrva 2.2.png",
       "dependencies": []
     },
     "Media/parabola.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 17072,
-      "exportedPath": "media/parabola.png",
+      "exportedPath": "Media/parabola.png",
       "dependencies": []
     },
     "Media/parabolicki cilindar.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 47673,
-      "exportedPath": "media/parabolicki-cilindar.png",
+      "exportedPath": "Media/parabolicki cilindar.png",
       "dependencies": []
     },
     "Media/PNE teorema.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 152358,
-      "exportedPath": "media/pne-teorema.png",
+      "exportedPath": "Media/PNE teorema.png",
       "dependencies": []
     },
     "Media/PPI teorema.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 249660,
-      "exportedPath": "media/ppi-teorema.png",
+      "exportedPath": "Media/PPI teorema.png",
       "dependencies": []
     },
     "Media/prebrojivost primer.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1195425,
-      "exportedPath": "media/prebrojivost-primer.png",
+      "exportedPath": "Media/prebrojivost primer.png",
       "dependencies": []
     },
     "Media/predik1.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 2884042,
-      "exportedPath": "media/predik1.png",
+      "exportedPath": "Media/predik1.png",
       "dependencies": []
     },
     "Media/predik2.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1439251,
-      "exportedPath": "media/predik2.png",
+      "exportedPath": "Media/predik2.png",
       "dependencies": []
     },
     "Media/predik3.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 2991835,
-      "exportedPath": "media/predik3.png",
+      "exportedPath": "Media/predik3.png",
       "dependencies": []
     },
     "Media/predik4.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1442006,
-      "exportedPath": "media/predik4.png",
+      "exportedPath": "Media/predik4.png",
       "dependencies": []
     },
     "Media/predik5.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1534316,
-      "exportedPath": "media/predik5.png",
+      "exportedPath": "Media/predik5.png",
       "dependencies": []
     },
     "Media/predik6.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1202634,
-      "exportedPath": "media/predik6.png",
+      "exportedPath": "Media/predik6.png",
       "dependencies": []
     },
     "Media/primeri bulovih algebri.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 371704,
-      "exportedPath": "media/primeri-bulovih-algebri.png",
+      "exportedPath": "Media/primeri bulovih algebri.png",
       "dependencies": []
     },
     "Media/Prioritet operatora (C).png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 179294,
-      "exportedPath": "media/prioritet-operatora-(c).png",
+      "exportedPath": "Media/Prioritet operatora (C).png",
       "dependencies": []
     },
     "Media/prirodni br osbine mnozenja.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 977509,
-      "exportedPath": "media/prirodni-br-osbine-mnozenja.png",
+      "exportedPath": "Media/prirodni br osbine mnozenja.png",
       "dependencies": []
     },
     "Media/prirodni br osbine sabiranja.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 2165995,
-      "exportedPath": "media/prirodni-br-osbine-sabiranja.png",
+      "exportedPath": "Media/prirodni br osbine sabiranja.png",
       "dependencies": []
     },
     "Media/promenljive.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 49775,
-      "exportedPath": "media/promenljive.png",
+      "exportedPath": "Media/promenljive.png",
       "dependencies": []
     },
     "Media/prost stav.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1225901,
-      "exportedPath": "media/prost-stav.png",
+      "exportedPath": "Media/prost stav.png",
       "dependencies": []
     },
     "Media/prost teorema.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 2155392,
-      "exportedPath": "media/prost-teorema.png",
+      "exportedPath": "Media/prost teorema.png",
       "dependencies": []
     },
     "Media/raselov paradoks.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 103924,
-      "exportedPath": "media/raselov-paradoks.png",
+      "exportedPath": "Media/raselov paradoks.png",
       "dependencies": []
     },
     "Media/Realokacija.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 95140,
-      "exportedPath": "media/realokacija.png",
+      "exportedPath": "Media/Realokacija.png",
       "dependencies": []
     },
     "Media/relacija primer 1.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 112848,
-      "exportedPath": "media/relacija-primer-1.png",
+      "exportedPath": "Media/relacija primer 1.png",
       "dependencies": []
     },
     "Media/RJprimer1.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 441822,
-      "exportedPath": "media/rjprimer1.png",
+      "exportedPath": "Media/RJprimer1.png",
       "dependencies": []
     },
     "Media/RJprimer2.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 916931,
-      "exportedPath": "media/rjprimer2.png",
+      "exportedPath": "Media/RJprimer2.png",
       "dependencies": []
     },
     "Media/RJprimer3.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 774380,
-      "exportedPath": "media/rjprimer3.png",
+      "exportedPath": "Media/RJprimer3.png",
       "dependencies": []
     },
     "Media/RJprimer4.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 573018,
-      "exportedPath": "media/rjprimer4.png",
+      "exportedPath": "Media/RJprimer4.png",
       "dependencies": []
     },
     "Media/skupovi primer 1.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 100637,
-      "exportedPath": "media/skupovi-primer-1.png",
+      "exportedPath": "Media/skupovi primer 1.png",
       "dependencies": []
     },
     "Media/skupovi primer 2.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 231067,
-      "exportedPath": "media/skupovi-primer-2.png",
+      "exportedPath": "Media/skupovi primer 2.png",
       "dependencies": []
     },
     "Media/stav. jednakost skupova.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 84708,
-      "exportedPath": "media/stav.-jednakost-skupova.png",
+      "exportedPath": "Media/stav. jednakost skupova.png",
       "dependencies": []
     },
     "Media/stav. jednakost uredenih parova.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 160226,
-      "exportedPath": "media/stav.-jednakost-uredenih-parova.png",
+      "exportedPath": "Media/stav. jednakost uredenih parova.png",
       "dependencies": []
     },
     "Media/stav. relacija poretka u bulovim algebrama.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 709296,
-      "exportedPath": "media/stav.-relacija-poretka-u-bulovim-algebrama.png",
+      "exportedPath": "Media/stav. relacija poretka u bulovim algebrama.png",
       "dependencies": []
     },
     "Media/stek.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1648084,
-      "exportedPath": "media/stek.png",
+      "exportedPath": "Media/stek.png",
       "dependencies": []
     },
     "Media/tautologija primer 2.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 601998,
-      "exportedPath": "media/tautologija-primer-2.png",
+      "exportedPath": "Media/tautologija primer 2.png",
       "dependencies": []
     },
     "Media/tautologija primer 3.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 748735,
-      "exportedPath": "media/tautologija-primer-3.png",
+      "exportedPath": "Media/tautologija primer 3.png",
       "dependencies": []
     },
     "Media/teorema. N je beskonacan.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 264766,
-      "exportedPath": "media/teorema.-n-je-beskonacan.png",
+      "exportedPath": "Media/teorema. N je beskonacan.png",
       "dependencies": []
     },
     "Media/teorema. R je neprebrojiv.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 472422,
-      "exportedPath": "media/teorema.-r-je-neprebrojiv.png",
+      "exportedPath": "Media/teorema. R je neprebrojiv.png",
       "dependencies": []
     },
     "Media/transformacija baze 1 geo.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 10984,
-      "exportedPath": "media/transformacija-baze-1-geo.png",
+      "exportedPath": "Media/transformacija baze 1 geo.png",
       "dependencies": []
     },
     "Media/transformacija baze 2 geo.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 9318,
-      "exportedPath": "media/transformacija-baze-2-geo.png",
+      "exportedPath": "Media/transformacija baze 2 geo.png",
       "dependencies": []
     },
     "Media/zlatna podela.png": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 21665,
-      "exportedPath": "media/zlatna-podela.png",
+      "exportedPath": "Media/zlatna podela.png",
       "dependencies": []
     },
     "Računarstvo/Dinamička alokacija memorije (C).md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 3865,
-      "exportedPath": "računarstvo/dinamička-alokacija-memorije-(c).html",
-      "dependencies": [
-        "lib/media/realokacija.png"
-      ]
+      "exportedPath": "Računarstvo/Dinamička alokacija memorije (C).html",
+      "dependencies": []
     },
     "Računarstvo/Doseg, životni vek i povezanost (C).md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 3663,
-      "exportedPath": "računarstvo/doseg,-životni-vek-i-povezanost-(c).html",
+      "exportedPath": "Računarstvo/Doseg, životni vek i povezanost (C).html",
       "dependencies": []
     },
     "Računarstvo/Funkcije (C).md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 4368,
-      "exportedPath": "računarstvo/funkcije-(c).html",
-      "dependencies": [
-        "lib/media/argumenti_main.png"
-      ]
+      "exportedPath": "Računarstvo/Funkcije (C).html",
+      "dependencies": []
     },
     "Računarstvo/Ispravnost programa.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 56,
-      "exportedPath": "računarstvo/ispravnost-programa.html",
+      "exportedPath": "Računarstvo/Ispravnost programa.html",
       "dependencies": []
     },
     "Računarstvo/Makroi i uslovno prevođenje (C).md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 2294,
-      "exportedPath": "računarstvo/makroi-i-uslovno-prevođenje-(c).html",
+      "exportedPath": "Računarstvo/Makroi i uslovno prevođenje (C).html",
       "dependencies": []
     },
     "Računarstvo/Naredbe i kontrola toka (C).md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 3883,
-      "exportedPath": "računarstvo/naredbe-i-kontrola-toka-(c).html",
+      "exportedPath": "Računarstvo/Naredbe i kontrola toka (C).html",
       "dependencies": []
     },
     "Računarstvo/Organizacija izvornog koda (C).md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 4513,
-      "exportedPath": "računarstvo/organizacija-izvornog-koda-(c).html",
+      "exportedPath": "Računarstvo/Organizacija izvornog koda (C).html",
       "dependencies": []
     },
     "Računarstvo/Organizacija memorije (C).md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 1024,
-      "exportedPath": "računarstvo/organizacija-memorije-(c).html",
-      "dependencies": [
-        "lib/media/stek.png"
-      ]
+      "exportedPath": "Računarstvo/Organizacija memorije (C).html",
+      "dependencies": []
     },
     "Računarstvo/Pokazivači (C).md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 6568,
-      "exportedPath": "računarstvo/pokazivači-(c).html",
-      "dependencies": [
-        "lib/media/niz-niski.png"
-      ]
+      "exportedPath": "Računarstvo/Pokazivači (C).html",
+      "dependencies": []
     },
     "Računarstvo/Predstavljanje podataka i operacije nad njima (C).md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 14401,
-      "exportedPath": "računarstvo/predstavljanje-podataka-i-operacije-nad-njima-(c).html",
-      "dependencies": [
-        "lib/media/promenljive.png"
-      ]
+      "exportedPath": "Računarstvo/Predstavljanje podataka i operacije nad njima (C).html",
+      "dependencies": []
     },
     "Računarstvo/Programski jezik C.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 729,
-      "exportedPath": "računarstvo/programski-jezik-c.html",
+      "exportedPath": "Računarstvo/Programski jezik C.html",
       "dependencies": []
     },
     "Računarstvo/Računarski sistem.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 458,
-      "exportedPath": "računarstvo/računarski-sistem.html",
+      "exportedPath": "Računarstvo/Računarski sistem.html",
       "dependencies": []
     },
     "Računarstvo/Računarstvo.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 307,
-      "exportedPath": "računarstvo/računarstvo.html",
+      "exportedPath": "Računarstvo/Računarstvo.html",
       "dependencies": []
     },
     "Računarstvo/Složenost algoritma.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 5116,
-      "exportedPath": "računarstvo/složenost-algoritma.html",
+      "exportedPath": "Računarstvo/Složenost algoritma.html",
       "dependencies": []
     },
     "Računarstvo/Standardne biblioteke (C).md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 6199,
-      "exportedPath": "računarstvo/standardne-biblioteke-(c).html",
+      "exportedPath": "Računarstvo/Standardne biblioteke (C).html",
       "dependencies": []
     },
     "Računarstvo/Ulaz i izlaz (C).md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 6077,
-      "exportedPath": "računarstvo/ulaz-i-izlaz-(c).html",
-      "dependencies": [
-        "lib/media/karakteri-konverzije-printf.png",
-        "lib/media/karakteri-konverzije-scanf.png"
-      ]
+      "exportedPath": "Računarstvo/Ulaz i izlaz (C).html",
+      "dependencies": []
     },
     "Home.md": {
-      "modifiedTime": 1748989451913,
+      "modifiedTime": 1753125580393,
       "sourceSize": 236,
-      "exportedPath": "home.html",
-      "dependencies": []
-    },
-    "lib/media/afina-preslikavanja-2-geo.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 71557,
-      "exportedPath": "lib/media/afina-preslikavanja-2-geo.png",
-      "dependencies": []
-    },
-    "lib/media/afina-preslikavanja-3.1-geo.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 46162,
-      "exportedPath": "lib/media/afina-preslikavanja-3.1-geo.png",
-      "dependencies": []
-    },
-    "lib/media/afina-preslikavanja-3.2-geo.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 41736,
-      "exportedPath": "lib/media/afina-preslikavanja-3.2-geo.png",
-      "dependencies": []
-    },
-    "lib/media/afina-preslikavanja-3.3-geo.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 36611,
-      "exportedPath": "lib/media/afina-preslikavanja-3.3-geo.png",
-      "dependencies": []
-    },
-    "lib/media/afina-preslikavanja-4-geo.gif": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 712857,
-      "exportedPath": "lib/media/afina-preslikavanja-4-geo.gif",
-      "dependencies": []
-    },
-    "lib/media/afina-preslikavanja-1-geo.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 13158,
-      "exportedPath": "lib/media/afina-preslikavanja-1-geo.png",
-      "dependencies": []
-    },
-    "lib/media/elipsa.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 319370,
-      "exportedPath": "lib/media/elipsa.png",
-      "dependencies": []
-    },
-    "lib/media/zlatna-podela.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 21665,
-      "exportedPath": "lib/media/zlatna-podela.png",
-      "dependencies": []
-    },
-    "lib/media/funkcija.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 21372,
-      "exportedPath": "lib/media/funkcija.png",
-      "dependencies": []
-    },
-    "lib/media/hiperbola.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 44890,
-      "exportedPath": "lib/media/hiperbola.png",
-      "dependencies": []
-    },
-    "lib/media/grinova-formula-slika1.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 37888,
-      "exportedPath": "lib/media/grinova-formula-slika1.png",
-      "dependencies": []
-    },
-    "lib/media/grinova-formula-slika2.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 23537,
-      "exportedPath": "lib/media/grinova-formula-slika2.png",
-      "dependencies": []
-    },
-    "lib/media/karakt-fja.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 742226,
-      "exportedPath": "lib/media/karakt-fja.png",
-      "dependencies": []
-    },
-    "lib/media/analiza1_2_konveksnostgrafik.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 42624,
-      "exportedPath": "lib/media/analiza1_2_konveksnostgrafik.png",
-      "dependencies": []
-    },
-    "lib/media/konusni-preseci.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 52738,
-      "exportedPath": "lib/media/konusni-preseci.png",
-      "dependencies": []
-    },
-    "lib/media/analiza1_1_8.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 180390,
-      "exportedPath": "lib/media/analiza1_1_8.png",
-      "dependencies": []
-    },
-    "lib/media/analiza1_3_limnizsv3.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 65745,
-      "exportedPath": "lib/media/analiza1_3_limnizsv3.png",
-      "dependencies": []
-    },
-    "lib/media/karnoovemape.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 916287,
-      "exportedPath": "lib/media/karnoovemape.png",
-      "dependencies": []
-    },
-    "lib/media/kvinmek.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 1084962,
-      "exportedPath": "lib/media/kvinmek.png",
-      "dependencies": []
-    },
-    "lib/media/logickefjeidnf_knf.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 705991,
-      "exportedPath": "lib/media/logickefjeidnf_knf.png",
-      "dependencies": []
-    },
-    "lib/media/ostrva-1.1.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 28306,
-      "exportedPath": "lib/media/ostrva-1.1.png",
-      "dependencies": []
-    },
-    "lib/media/ostrva-1.2.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 84712,
-      "exportedPath": "lib/media/ostrva-1.2.png",
-      "dependencies": []
-    },
-    "lib/media/ostrva-2.1.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 24766,
-      "exportedPath": "lib/media/ostrva-2.1.png",
-      "dependencies": []
-    },
-    "lib/media/ostrva-2.2.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 143879,
-      "exportedPath": "lib/media/ostrva-2.2.png",
-      "dependencies": []
-    },
-    "lib/media/parabola.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 17072,
-      "exportedPath": "lib/media/parabola.png",
-      "dependencies": []
-    },
-    "lib/media/predik1.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 2884042,
-      "exportedPath": "lib/media/predik1.png",
-      "dependencies": []
-    },
-    "lib/media/predik2.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 1439251,
-      "exportedPath": "lib/media/predik2.png",
-      "dependencies": []
-    },
-    "lib/media/predik3.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 2991835,
-      "exportedPath": "lib/media/predik3.png",
-      "dependencies": []
-    },
-    "lib/media/predik4.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 1442006,
-      "exportedPath": "lib/media/predik4.png",
-      "dependencies": []
-    },
-    "lib/media/predik5.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 1534316,
-      "exportedPath": "lib/media/predik5.png",
-      "dependencies": []
-    },
-    "lib/media/predik6.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 1202634,
-      "exportedPath": "lib/media/predik6.png",
-      "dependencies": []
-    },
-    "lib/media/haseov-dijagram-primer-1.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 16686,
-      "exportedPath": "lib/media/haseov-dijagram-primer-1.png",
-      "dependencies": []
-    },
-    "lib/media/haseov-dijagram-primer-2.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 7145,
-      "exportedPath": "lib/media/haseov-dijagram-primer-2.png",
-      "dependencies": []
-    },
-    "lib/media/haseov-dijagram-primer-3.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 3464,
-      "exportedPath": "lib/media/haseov-dijagram-primer-3.png",
-      "dependencies": []
-    },
-    "lib/media/transformacija-baze-1-geo.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 10984,
-      "exportedPath": "lib/media/transformacija-baze-1-geo.png",
-      "dependencies": []
-    },
-    "lib/media/transformacija-baze-2-geo.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 9318,
-      "exportedPath": "lib/media/transformacija-baze-2-geo.png",
-      "dependencies": []
-    },
-    "lib/media/tautologija-primer-2.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 601998,
-      "exportedPath": "lib/media/tautologija-primer-2.png",
-      "dependencies": []
-    },
-    "lib/media/tautologija-primer-3.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 748735,
-      "exportedPath": "lib/media/tautologija-primer-3.png",
-      "dependencies": []
-    },
-    "lib/media/analiza1_0_vrste_tačaka.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 285364,
-      "exportedPath": "lib/media/analiza1_0_vrste_tačaka.png",
-      "dependencies": []
-    },
-    "lib/media/realokacija.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 95140,
-      "exportedPath": "lib/media/realokacija.png",
-      "dependencies": []
-    },
-    "lib/media/argumenti_main.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 43539,
-      "exportedPath": "lib/media/argumenti_main.png",
-      "dependencies": []
-    },
-    "lib/media/stek.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 1648084,
-      "exportedPath": "lib/media/stek.png",
-      "dependencies": []
-    },
-    "lib/media/niz-niski.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 580057,
-      "exportedPath": "lib/media/niz-niski.png",
-      "dependencies": []
-    },
-    "lib/media/promenljive.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 49775,
-      "exportedPath": "lib/media/promenljive.png",
-      "dependencies": []
-    },
-    "lib/media/karakteri-konverzije-printf.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 204969,
-      "exportedPath": "lib/media/karakteri-konverzije-printf.png",
-      "dependencies": []
-    },
-    "lib/media/karakteri-konverzije-scanf.png": {
-      "modifiedTime": 1748989451913,
-      "sourceSize": 189321,
-      "exportedPath": "lib/media/karakteri-konverzije-scanf.png",
-      "dependencies": []
-    },
-    "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1748990916155,
-      "sourceSize": 23377,
-      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "exportedPath": "Home.html",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1748990916155,
+      "modifiedTime": 1753125580393,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1748990916155,
+      "modifiedTime": 1753125580393,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1748990916155,
+      "modifiedTime": 1753125580393,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1748990916155,
+      "modifiedTime": 1753125580393,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1748990916155,
+      "modifiedTime": 1753125580393,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1748990916155,
+      "modifiedTime": 1753125580393,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1748990916155,
+      "modifiedTime": 1753125580393,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1748990916155,
+      "modifiedTime": 1753125580393,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1748990916155,
+      "modifiedTime": 1753125580393,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1748990916155,
+      "modifiedTime": 1753125580393,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1748990916155,
+      "modifiedTime": 1753125580393,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1748990916155,
+      "modifiedTime": 1753125580393,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1748990916155,
+      "modifiedTime": 1753125580393,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1748990916155,
+      "modifiedTime": 1753125580393,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
-    "lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1748990916155,
+    "lib/fonts/MathJax_Zero.woff": {
+      "modifiedTime": 1753125580393,
       "sourceSize": 1368,
-      "exportedPath": "lib/fonts/mathjax_zero.woff",
+      "exportedPath": "lib/fonts/MathJax_Zero.woff",
       "dependencies": []
     },
-    "lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1748990916155,
+    "lib/fonts/MathJax_Main-Regular.woff": {
+      "modifiedTime": 1753125580393,
       "sourceSize": 34160,
-      "exportedPath": "lib/fonts/mathjax_main-regular.woff",
+      "exportedPath": "lib/fonts/MathJax_Main-Regular.woff",
       "dependencies": []
     },
-    "lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1748990916155,
+    "lib/fonts/MathJax_Main-Bold.woff": {
+      "modifiedTime": 1753125580393,
       "sourceSize": 34464,
-      "exportedPath": "lib/fonts/mathjax_main-bold.woff",
+      "exportedPath": "lib/fonts/MathJax_Main-Bold.woff",
       "dependencies": []
     },
-    "lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1748990916155,
+    "lib/fonts/MathJax_Math-Italic.woff": {
+      "modifiedTime": 1753125580393,
       "sourceSize": 19360,
-      "exportedPath": "lib/fonts/mathjax_math-italic.woff",
+      "exportedPath": "lib/fonts/MathJax_Math-Italic.woff",
       "dependencies": []
     },
-    "lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1748990916155,
+    "lib/fonts/MathJax_Main-Italic.woff": {
+      "modifiedTime": 1753125580393,
       "sourceSize": 20832,
-      "exportedPath": "lib/fonts/mathjax_main-italic.woff",
+      "exportedPath": "lib/fonts/MathJax_Main-Italic.woff",
       "dependencies": []
     },
-    "lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1748990916155,
+    "lib/fonts/MathJax_Math-BoldItalic.woff": {
+      "modifiedTime": 1753125580393,
       "sourceSize": 19776,
-      "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
+      "exportedPath": "lib/fonts/MathJax_Math-BoldItalic.woff",
       "dependencies": []
     },
-    "lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1748990916155,
+    "lib/fonts/MathJax_Size1-Regular.woff": {
+      "modifiedTime": 1753125580393,
       "sourceSize": 5792,
-      "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
+      "exportedPath": "lib/fonts/MathJax_Size1-Regular.woff",
       "dependencies": []
     },
-    "lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1748990916155,
+    "lib/fonts/MathJax_Size2-Regular.woff": {
+      "modifiedTime": 1753125580393,
       "sourceSize": 5464,
-      "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
+      "exportedPath": "lib/fonts/MathJax_Size2-Regular.woff",
       "dependencies": []
     },
-    "lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1748990916155,
+    "lib/fonts/MathJax_Size3-Regular.woff": {
+      "modifiedTime": 1753125580393,
       "sourceSize": 3244,
-      "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
+      "exportedPath": "lib/fonts/MathJax_Size3-Regular.woff",
       "dependencies": []
     },
-    "lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1748990916155,
+    "lib/fonts/MathJax_Size4-Regular.woff": {
+      "modifiedTime": 1753125580393,
       "sourceSize": 5148,
-      "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
+      "exportedPath": "lib/fonts/MathJax_Size4-Regular.woff",
       "dependencies": []
     },
-    "lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1748990916155,
+    "lib/fonts/MathJax_AMS-Regular.woff": {
+      "modifiedTime": 1753125580393,
       "sourceSize": 40808,
-      "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
+      "exportedPath": "lib/fonts/MathJax_AMS-Regular.woff",
       "dependencies": []
     },
-    "lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1748990916155,
+    "lib/fonts/MathJax_Calligraphic-Regular.woff": {
+      "modifiedTime": 1753125580393,
       "sourceSize": 9600,
-      "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
+      "exportedPath": "lib/fonts/MathJax_Calligraphic-Regular.woff",
       "dependencies": []
     },
-    "lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1748990916155,
+    "lib/fonts/MathJax_Calligraphic-Bold.woff": {
+      "modifiedTime": 1753125580393,
       "sourceSize": 9908,
-      "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
+      "exportedPath": "lib/fonts/MathJax_Calligraphic-Bold.woff",
       "dependencies": []
     },
-    "lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1748990916155,
+    "lib/fonts/MathJax_Fraktur-Regular.woff": {
+      "modifiedTime": 1753125580393,
       "sourceSize": 21480,
-      "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
+      "exportedPath": "lib/fonts/MathJax_Fraktur-Regular.woff",
       "dependencies": []
     },
-    "lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1748990916155,
+    "lib/fonts/MathJax_Fraktur-Bold.woff": {
+      "modifiedTime": 1753125580393,
       "sourceSize": 22340,
-      "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
+      "exportedPath": "lib/fonts/MathJax_Fraktur-Bold.woff",
       "dependencies": []
     },
-    "lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1748990916155,
+    "lib/fonts/MathJax_SansSerif-Regular.woff": {
+      "modifiedTime": 1753125580393,
       "sourceSize": 12660,
-      "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Regular.woff",
       "dependencies": []
     },
-    "lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1748990916155,
+    "lib/fonts/MathJax_SansSerif-Bold.woff": {
+      "modifiedTime": 1753125580393,
       "sourceSize": 15944,
-      "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Bold.woff",
       "dependencies": []
     },
-    "lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1748990916155,
+    "lib/fonts/MathJax_SansSerif-Italic.woff": {
+      "modifiedTime": 1753125580393,
       "sourceSize": 14628,
-      "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Italic.woff",
       "dependencies": []
     },
-    "lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1748990916155,
+    "lib/fonts/MathJax_Script-Regular.woff": {
+      "modifiedTime": 1753125580393,
       "sourceSize": 11852,
-      "exportedPath": "lib/fonts/mathjax_script-regular.woff",
+      "exportedPath": "lib/fonts/MathJax_Script-Regular.woff",
       "dependencies": []
     },
-    "lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1748990916155,
+    "lib/fonts/MathJax_Typewriter-Regular.woff": {
+      "modifiedTime": 1753125580393,
       "sourceSize": 17604,
-      "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
+      "exportedPath": "lib/fonts/MathJax_Typewriter-Regular.woff",
       "dependencies": []
     },
-    "lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1748990916155,
+    "lib/fonts/MathJax_Vector-Regular.woff": {
+      "modifiedTime": 1753125580393,
       "sourceSize": 1136,
-      "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
+      "exportedPath": "lib/fonts/MathJax_Vector-Regular.woff",
       "dependencies": []
     },
-    "lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1748990916155,
+    "lib/fonts/MathJax_Vector-Bold.woff": {
+      "modifiedTime": 1753125580393,
       "sourceSize": 1116,
-      "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
-      "dependencies": []
-    },
-    "lib/html/file-tree.html": {
-      "modifiedTime": 1748990916155,
-      "sourceSize": 144328,
-      "exportedPath": "lib/html/file-tree.html",
-      "dependencies": []
-    },
-    "lib/scripts/webpage.js": {
-      "modifiedTime": 1748990916155,
-      "sourceSize": 47290,
-      "exportedPath": "lib/scripts/webpage.js",
-      "dependencies": []
-    },
-    "lib/scripts/graph-view.js": {
-      "modifiedTime": 1748990916155,
-      "sourceSize": 15519,
-      "exportedPath": "lib/scripts/graph-view.js",
-      "dependencies": []
-    },
-    "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1748990916155,
-      "sourceSize": 14021,
-      "exportedPath": "lib/scripts/graph-wasm.js",
-      "dependencies": []
-    },
-    "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1748990916155,
-      "sourceSize": 5179,
-      "exportedPath": "lib/scripts/graph-render-worker.js",
-      "dependencies": []
-    },
-    "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1748990916155,
-      "sourceSize": 29832,
-      "exportedPath": "lib/scripts/tinycolor.js",
-      "dependencies": []
-    },
-    "lib/scripts/pixi.js": {
-      "modifiedTime": 1748990916155,
-      "sourceSize": 449509,
-      "exportedPath": "lib/scripts/pixi.js",
-      "dependencies": []
-    },
-    "lib/scripts/minisearch.js": {
-      "modifiedTime": 1748990916155,
-      "sourceSize": 29422,
-      "exportedPath": "lib/scripts/minisearch.js",
-      "dependencies": []
-    },
-    "lib/media/favicon.png": {
-      "modifiedTime": 1748990916155,
-      "sourceSize": 1105,
-      "exportedPath": "lib/media/favicon.png",
-      "dependencies": []
-    },
-    "lib/scripts/graph-data.js": {
-      "modifiedTime": 1748990916155,
-      "sourceSize": 19648,
-      "exportedPath": "lib/scripts/graph-data.js",
-      "dependencies": []
-    },
-    "lib/styles/obsidian.css": {
-      "modifiedTime": 1748990916155,
-      "sourceSize": 138258,
-      "exportedPath": "lib/styles/obsidian.css",
-      "dependencies": []
-    },
-    "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1748990916155,
-      "sourceSize": 338,
-      "exportedPath": "lib/styles/global-variable-styles.css",
-      "dependencies": []
-    },
-    "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1748990916155,
-      "sourceSize": 1673,
-      "exportedPath": "lib/styles/supported-plugins.css",
-      "dependencies": []
-    },
-    "lib/styles/main-styles.css": {
-      "modifiedTime": 1748990916155,
-      "sourceSize": 23130,
-      "exportedPath": "lib/styles/main-styles.css",
+      "exportedPath": "lib/fonts/MathJax_Vector-Bold.woff",
       "dependencies": []
     }
   }
